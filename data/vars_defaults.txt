@@ -1,0 +1,78 @@
+BatMan_attract	list of monster	blooper, dairy goat, dirty old lihc, violent fungus	20180803 14:44:22 PDT
+BatMan_banish	list of monster	senile lihc, slick lihc, A.M.C. gremlin, pygmy orderlies	20180803 14:44:22 PDT
+BatMan_baseSubstatValue	float	5.0	20180803 14:44:22 PDT
+BatMan_duplicate	list of monster	gaudy pirate, lobsterfrogman	20180803 14:44:22 PDT
+BatMan_flyereverything	boolean	true	20180803 14:44:22 PDT
+BatMan_maxmonsterstracked	int	3	20180803 14:44:22 PDT
+BatMan_onlycustomitems	boolean	false	20180803 14:44:22 PDT
+BatMan_pretentioustarget	effect	My Breakfast With Andrea	20180803 14:44:22 PDT
+BatMan_profitforstasis	float	15.0	20180803 14:44:22 PDT
+BatMan_puttybountiesupto	int	19	20180803 14:44:22 PDT
+BatMan_yellow	list of monster	knob goblin harem girl, 7-foot dwarf foreman, orcish frat boy spy, war hippy spy	20180803 14:44:22 PDT
+CFStat_Coldfront_Timespan	int	2	20180803 12:21:50 PDT
+WHAM_AlwaysContinue	boolean	false	20180803 14:44:22 PDT
+WHAM_UseSeaLasso	boolean	false	20180803 14:44:22 PDT
+WHAM_hitchance	float	0.5	20180803 14:44:22 PDT
+WHAM_killit	boolean	false	20180803 14:44:22 PDT
+WHAM_maxround	int	30	20180803 14:44:22 PDT
+WHAM_noitemsplease	boolean	false	20180803 14:44:22 PDT
+WHAM_round_limit	int	15	20180803 14:44:22 PDT
+WHAM_roundcost_aftercore	int	50	20180803 14:44:22 PDT
+WHAM_roundcost_ronin	int	5	20180803 14:44:22 PDT
+WHAM_safetymargin	int	0	20180803 14:44:22 PDT
+automcd	boolean	true	20180803 12:21:50 PDT
+defaultoutfit	string	current	20180803 12:21:50 PDT
+eatdrink_accordionGet	boolean	false	20180803 14:51:22 PDT
+eatdrink_accurateMake	boolean	true	20180803 14:51:22 PDT
+eatdrink_ate_LOV_E	string	Dougtember 7:0	20180803 14:51:22 PDT
+eatdrink_ate_choco	string	Dougtember 7:0	20180803 14:51:22 PDT
+eatdrink_ate_fancy	string	Dougtember 7:0	20180803 14:51:22 PDT
+eatdrink_ate_vitac	string	Dougtember 7:0	20180803 14:51:22 PDT
+eatdrink_autosellWhileRonin	boolean	false	20180803 14:51:22 PDT
+eatdrink_avoid_astral_energy_drink	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_astral_hot_dog	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_astral_pilsner	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_booze-soaked_cherry	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_giant_marshmallow	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_gin-soaked_blotter_paper	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_sponge_cake	boolean	true	20180803 14:51:22 PDT
+eatdrink_avoid_wet_stew	boolean	true	20180803 14:51:22 PDT
+eatdrink_barrelBuff	boolean	true	20180803 14:51:22 PDT
+eatdrink_budget	int	20000	20180803 14:51:22 PDT
+eatdrink_considerCostWhenOwned	boolean	true	20180803 14:51:22 PDT
+eatdrink_costOfPull	int	3000	20180803 14:51:22 PDT
+eatdrink_favUse	boolean	false	20180803 14:51:22 PDT
+eatdrink_fav_rockin'_wagon	boolean	true	20180803 14:51:22 PDT
+eatdrink_fav_twinkly_wad	boolean	true	20180803 14:51:22 PDT
+eatdrink_getBartender	int	30000	20180803 14:51:22 PDT
+eatdrink_getChef	int	5000	20180803 14:51:22 PDT
+eatdrink_gloriousLunch	boolean	true	20180803 14:51:22 PDT
+eatdrink_hardcoreServants	int	2	20180803 14:51:22 PDT
+eatdrink_loopCount	int	5	20180803 14:51:22 PDT
+eatdrink_make	boolean	true	20180803 14:51:22 PDT
+eatdrink_maxAge	string	2.0	20180803 14:51:22 PDT
+eatdrink_mayoClinic	int	13	20180803 14:51:22 PDT
+eatdrink_mayoMeat	int	25000	20180803 14:51:22 PDT
+eatdrink_minimumAverage	float	1.0	20180803 14:51:22 PDT
+eatdrink_minimumQuality	int	0	20180803 14:51:22 PDT
+eatdrink_noNoodles	boolean	false	20180803 14:51:22 PDT
+eatdrink_ode	boolean	true	20180803 14:51:22 PDT
+eatdrink_pause	int	3	20180803 14:51:22 PDT
+eatdrink_piePriority	boolean	true	20180803 14:51:22 PDT
+eatdrink_priceFlexibility	float	1.25	20180803 14:51:22 PDT
+eatdrink_priceOfNontradeables	int	999999999	20180803 14:51:22 PDT
+eatdrink_priceOfQuestItems	int	999999999	20180803 14:51:22 PDT
+eatdrink_priceOfUnknowns	int	999999999	20180803 14:51:22 PDT
+eatdrink_shrug	boolean	false	20180803 14:51:22 PDT
+eatdrink_simConsume	boolean	true	20180803 14:51:22 PDT
+eatdrink_simLevel	int	0	20180803 14:51:22 PDT
+eatdrink_simRonin	boolean	false	20180803 14:51:22 PDT
+eatdrink_stepMeat	int	-1	20180803 14:51:22 PDT
+eatdrink_suppressNoMilk	boolean	false	20180803 14:51:22 PDT
+eatdrink_suppressOverdrink	boolean	true	20180803 14:51:22 PDT
+eatdrink_valueOfNonPrimeStat	int	2	20180803 14:51:22 PDT
+eatdrink_valueOfPrimeStat	int	10	20180803 14:51:22 PDT
+is_100_run	familiar	none	20180803 12:21:50 PDT
+threshold	int	4	20180803 12:21:50 PDT
+unknown_ml	int	170	20180803 12:21:50 PDT
+verbosity	int	3	20180803 12:21:50 PDT

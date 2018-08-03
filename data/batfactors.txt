@@ -1,0 +1,1923 @@
+bander	1003	Thrust-Smack	{0.5,0.75,1}*fweight hot	0	
+bander	1005	Lunging Thrust-Smack	{0.5,0.75,1}*fweight	0	smust
+bander	1022	Clobber	0	0	att -fweight*0.375, def -fweight*0.375
+bander	1032	Furious Wallop	0	0	att -fweight*0.375, def -fweight*0.375
+bander	1033	Club Foot	{0.5,0.75,1}*fweight hot	0	
+bander	2003	Headbutt	{0.5,0.75,1}*fweight spooky	0	
+bander	2005	Shieldbutt	{0.5,0.75,1}*fweight	0	smust
+bander	2015	Kneebutt	{0.5,0.75,1}*fweight hot	0	
+bander	2023	Toss	0	0	att -7.5, def -7.5
+bander	2028	Shell Up	0	0	att -9, def -9
+bander	2032	Spirit Snap	0	0	att -6.5, def -6.5
+bander	3003	Ravioli Shurikens	{0.5,0.75,1}*fweight	0	
+bander	3004	Entangling Noodles	0	0	stun 4.5
+bander	3008	Weapon of the Pastalord	0	0	mp 8
+bander	3009	Lasagna Bandages	0	-{0.5,0.75,1}*fweight	!! removes negative effects
+bander	3020	Spaghetti Spear	0	0	att -fweight*0.375, def -fweight*0.375
+bander	3025	Utensil Twist	0	0	att -fweight*0.375, def -fweight*0.375
+bander	4003	Stream of Sauce	{0.5,0.75,1}*fweight	0	
+bander	4012	Saucegeyser	0	0	mp 14
+bander	4014	Saucy Salve	0	-{0.5,0.75,1}*fweight	!! removes negative effects
+bander	4020	Salsaball	0	0	att -1, def -1
+bander	4024	Curse of Vichyssoise	0	0	att -1, def -1
+bander	4029	Curse of Marinara	0	0	att -1, def -1
+bander	4031	Curse of the Thousand Islands	0	0	att -1, def -1
+bander	4032	Saucecicle	{0.5,0.75,1}*fweight cold	0	
+bander	4034	Curse of Weaksauce	{0.5,0.75,1}*fweight	0	
+bander	5003	Disco Eye-Poke	{0.5,0.75,1}*fweight hot	0	
+bander	5005	Disco Dance of Doom	{0.5,0.75,1}*fweight hot	0	
+bander	5008	Disco Dance II: Electric Boogaloo	{0.5,0.75,1}*fweight hot	0	
+bander	5012	Disco Face Stab	{0.5,0.75,1}*fweight spooky	0	
+bander	5021	Suckerpunch	{0.5,0.75,1}*fweight	0	smust
+bander	5033	Knife in the Dark	0	-{0.5,0.75,1}*fweight	
+bander	5035	Disco Shank	0	-{0.5,0.75,1}*fweight	
+bander	5036	Disco Dance 3: Back in the Habit	{0.5,0.75,1}*fweight hot	0	
+bander	5037	Disco Inferno	{0.5,0.75,1}*fweight hot	0	
+bander	6025	Sing	0	0	att -1, def -1
+bander	6029	Dissonant Riff	{0.5,0.75,1}*fweight hot	0	
+bander	6030	Cadenza	{0.5,0.75,1}*fweight	0	
+bander	6032	Accordion Bash	0	0	att -fweight*0.375, def -fweight*0.375
+bander	6034	Concerto de los Muertos	{0.5,0.75,1}*fweight spooky	0	
+bander	6037	Bawdy Refrain	0	0	att -fweight*0.375, def -fweight*0.375
+bander	6040	Cone of Zydeco	{0.5,0.75,1}*fweight	0	smust
+cadenza	11	stolen accordion	0	-4.5	
+cadenza	50	Rock and Roll Legend	0	-14	
+cadenza	2234	calavera concertina	17.5 spooky	0	
+cadenza	2557	Squeezebox of the Ages	0	-19	
+cadenza	4321	The Trickster's Trikitixa	90	0	att -19, def -19
+cadenza	6455	zombie accordion	135 spooky	0	stun 1
+cadenza	6808	toy accordion	4	0	
+cadenza	6809	antique accordion	14	0	
+cadenza	6810	beer-battered accordion	9 sleaze	0	
+cadenza	6811	baritone accordion	0	-3.5	mp 3.5
+cadenza	6812	mama's squeezebox	19 sleaze	0	
+cadenza	6813	guancertina	14 stench	0	
+cadenza	6814	accordion file	5	0	!! ongoing damage
+cadenza	6815	accord ion	14 hot	0	
+cadenza	6816	bone bandoneon	37.5 spooky	0	
+cadenza	6817	pentatonic accordion	18 cold	0	att -9, def -9
+cadenza	6818	non-Euclidean non-accordion	0	0	att -23, def -23, stun 1
+cadenza	6819	Accordion of Jordion	0	0	meat 35
+cadenza	6820	autocalliope	14.5	0	!! ongoing damage
+cadenza	6821	accordionoid rocca	40	0	
+cadenza	6822	pygmy concertinette	0	0	att -0.15*monsterattack, def -0.15*monsterdefense
+cadenza	6823	ghost accordion	70 spooky	0	
+cadenza	6824	peace accordion	0	-55	
+cadenza	6825	alarm accordion	0	0	mp 7.5
+cadenza	6856	Bal-musette accordion	19	0	att -7, def -7
+cadenza	6857	Cajun accordion	35 hot	0	!! ongoing declining hot damage
+cadenza	6858	quirky accordion	12.5 hot,cold,spooky,sleaze,stench	0	
+cadenza	6859	Skipper's accordion	27.5	0	att -19, def -19
+cadenza	6963	warbear exhaust manifold	35 stench	0	!! ongoing stench damage
+cadenza	7029	Shakespeare's Sister's Accordion	32.5 cold	-4.5	mp 4.5
+canhandle	8866	Heimz Fortified Kidney Beans	0	-12.5	
+canhandle	8867	Tesla's Electroplated Beans	0	0	mp 6.5
+canhandle	8868	Mixed Garbanzos and Chickpeas	0	-6	mp 3.5
+canhandle	8869	Hellfire Spicy Beans	20 hot	0	
+canhandle	8870	Frigid Northern Beans	20 cold	0	
+canhandle	8871	World's Blackest-Eyed Peas	20 spooky	0	
+canhandle	8872	Trader Olaf's Exotic Stinkbeans	20 stench	0	
+canhandle	8873	Pork 'n' Pork 'n' Pork 'n' Beans	20 sleaze	0	
+canhandle	8875	Shrub's Premium Baked Beans	25	0	
+chef	259	staff of the staff of life (used)	0	-12.5	stun
+chef	261	staff of the standalone cheese (used)	20 stench	0	
+chef	263	staff of the all-steak (used)	16 sleaze	0	
+chef	265	staff of the cream of the cream (used)	16 cold	0	
+chef	2578	staff of the short order cook	12.5	0	
+chef	2601	staff of the midnight snack	12.5 spooky	0	
+chef	2602	staff of blood and pudding	7.5	-7.5	
+chef	2722	staff of the greasefire	20 hot,sleaze	0	
+chef	2723	staff of the grand flambe	37.5 hot	0	
+chef	2740	staff of the walk-in freezer	27.5 cold	0	att -7.5, def -7.5
+chef	2749	staff of the grease trap	37.5 sleaze	0	
+chef	2826	staff of the kitchen floor	37.5 stench	0	
+chef	3390	staff of the deepest freeze	45 cold	0	
+chef	3436	staff of the teapot tempest	12.5	0	
+chef	3437	staff of the black kettle	22.5	0	
+chef	3438	staff of the well-tempered cauldron	32.5	0	
+chef	3666	spooky putty snake	0.25*monsterhp spooky	0	
+chef	4165	staff of the soupbone	22.5 spooky	0	
+chef	4277	staff of the woodfire	45 hot,spooky,sleaze	0	
+chef	4305	Staff of Simmering Hatred	45 hot	0	stun, att -12.5, def -12.5
+chef	4403	staff of queso escusado	stinkycheese stench	0	
+chef	4768	staff of the november jack-o-lantern	7.5 stench	0	stun
+chef	5340	The Necbromancer's Wizard Staff	5.5*1 sleaze	0	custom, att -1.5*1, def -1.5*1, !! replace 1 in formulas with cans
+chef	5758	Staff of Holiday Sensations	20 cold	0	
+chef	5761	Staff of the Scummy Sink	37.5 sleaze	0	
+chef	6258	staff of the healthy breakfast	0	-{10,12.5,15}	stun
+chef	6259	staff of the staff of life	0	-(maxhp-myhp)	custom, stun
+chef	6260	staff of the light lunch	10 cold	0	!! Deal some cold damage
+chef	6261	staff of the standalone cheese	0	0	custom banish
+chef	6262	staff of the hearty dinner	0	0	att -L, def -L
+chef	6263	staff of the all-steak	0	0	custom, !! +300% item drops
+chef	6264	staff of fruit salad	3 cold,hot,spooky,sleaze,stench	0	0
+chef	6265	staff of the cream of the cream	0	0	custom attract
+chef	6333	Staff of the Cozy Fish	0	0	att -23*(1+zone(sea)), def -23*(1+zone(sea)), !! occasionally makes Mer-kin drop items
+chef	6482	Staff of te Roaring Hearth	35 hot	0	
+chef	6662	Staff of the Lunch Lady	0	0	!! does nothing
+chef	7017	Staff of the Headmaster's Victuals	0.3*monsterhp	0	
+chef	7351	Staff of the Electric Range	15	0	mp 15
+crown	1	Mosquito	0	0	mp 5.5, r3
+crown	2	Leprechaun	0	0	meat {5,10,15}, r3
+crown	3	Levitating Potato	0	-{5,5.5,6}	mp {3,3.5,4}, r3
+crown	4	Angry Goat	0	0	item goat cheese pizza
+crown	5	Sabre-Toothed Lime	0	0	att -4, def -4
+crown	6	Fuzzy Dice	0	0	stun
+crown	7	Spooky Pirate Skeleton	0	0	stun
+crown	8	Barrrnacle	20	0	
+crown	9	Howling Balloon Monkey	25 stench,sleaze	0	
+crown	10	Stab Bat	25	12.5	
+crown	11	Grue	22.5 spooky	0	
+crown	12	Blood-Faced Volleyball	17.5 spooky	0	
+crown	14	Ghuol Whelp	20 stench	0	
+crown	15	Baby Gravy Fairy	0	-5.5	mp 3.5, r3
+crown	16	Cocoabo	0	0	item white chocolate chips
+crown	17	Star Starfish	min(100.0,mymp/4.0)	0	
+crown	18	Hovering Sombrero	20 spooky	0	
+crown	19	Ghost Pickle on a Stick	0	-9	r3
+crown	20	Killer Bee	0	-9	r3
+crown	21	Whirling Maple Leaf	20 cold	0	
+crown	22	Coffee Pixie	0	0	mp 5.5, r3
+crown	23	Cheshire Bat	0	-9	
+crown	24	Jill-O-Lantern	0	-9	r3
+crown	25	Hand Turkey	0	0	meat {5,10,15}, r3
+crown	26	Crimbo Elf	0	0	item candy cane; Cold Hots candy; Wint-O-Fresh mint
+crown	27	Hanukkimbo Dreidl	0	0	att -4, def -4
+crown	28	Baby Yeti	0	0	att -4, def -4
+crown	29	Feather Boa Constrictor	0	-5.5	mp 3.5, r3
+crown	30	Emo Squid	0	0	stun
+crown	31	Personal Raincloud	0	-3	mp 3, !! needs correct values
+crown	32	Clockwork Grapefruit	0	0	att -4, def -4
+crown	33	MagiMechTech MicroMechaMech	0	0	stun
+crown	34	Flaming Gravy Fairy	0	0	item hot nuggets
+crown	35	Frozen Gravy Fairy	0	0	item cold nuggets
+crown	36	Stinky Gravy Fairy	0	0	item stench nuggets
+crown	37	Spooky Gravy Fairy	0	0	item spooky nuggets
+crown	38	Inflatable Dodecapede	0	0	stun
+crown	39	Pygmy Bugbear Shaman	0	-5.5	mp 3.5, r3
+crown	41	Attention-Deficit Demon	0	0	item chorizo brownies; white chocolate and tomato pizza; carob chunk noodles
+crown	42	Cymbal-Playing Monkey	15	0	
+crown	43	Temporal Riftlet	0	0	meat {5,10,15}, r3
+crown	44	Sweet Nutcracker	0	0	item candy cane; eggnog; fruitcake; gingerbread bugbear
+crown	45	Pet Rock	35	0	
+crown	46	Snowy Owl	0	-5.5	mp 3.5, r3
+crown	47	Teddy Bear	20 sleaze	0	!! needs correct value
+crown	48	Ninja Pirate Zombie Robot	0	-12.5	mp 9, r3
+crown	49	Sleazy Gravy Fairy	0	0	
+crown	50	Wild Hare	0	-5.5	mp 3.5, r3
+crown	51	Wind-up Chattering Teeth	17.5 stench	0	
+crown	52	Spirit Hobo	0	0	meat {5,10,15}, r3
+crown	53	Astral Badger	0	0	att -{5,7,9}, def -{5,7,9}, item spooky mushroom; knob mushroom; knoll mushroom, r3
+crown	55	Misshapen Animal Skeleton	0	0	meat {5,10,15}, r3
+crown	56	Scary Death Orb	0	0	mp 5.5, r3
+crown	57	Jitterbug	{15,17.5,20} stench	-9	r3
+crown	58	Nervous Tick	0	0	hp9, r3
+crown	59	Reassembled Blackbird	0	0	item blackberry
+crown	60	Origami Towel Crane	0	0	mp 5.5, r3
+crown	61	Ninja Snowflake	0	0	mp 5.5
+crown	62	Evil Teddy Bear	0	0	stun
+crown	63	Toothsome Rock	35	0	
+crown	65	Ancient Yuletide Troll	0	0	item candy cane; eggnog; fruitcake; gingerbread bugbear
+crown	66	Dandy Lion	0	0	att -4, def -4
+crown	67	O.A.F.	0	0	att 10, def 10
+crown	68	Penguin Goodfella	22.5	0	
+crown	69	Jumpsuited Hound Dog	0	-7	mp 5, r3
+crown	70	Green Pixie	0	0	item bottle of tequila
+crown	71	Ragamuffin Imp	0	0	att -4, def -4
+crown	72	Exotic Parrot	22.5	0	
+crown	73	Wizard Action Figure	0	0	mp 5.5
+crown	74	Gluttonous Green Ghost	0	0	item bean burrito; enchanted bean burrito; jumping bean burrito
+crown	75	Casagnova Gnome	0	-{14,17,20}	mp {8,11,14}, r3
+crown	76	Hunchbacked Minion	0	0	item skeleton bone
+crown	77	Crimbo P. R. E. S. S. I. E.	0	0	att -4, def -4
+crown	79	Teddy Borg	20 sleaze	0	
+crown	80	RoboGoose	0	0	stun
+crown	81	El Vibrato Megadrone	0	0	mp {10,12.5,15}, r3
+crown	83	Adorable Seal Larva	0	0	item hot nuggets; cold nuggets; stench nuggets; spooky nuggets; sleaze nuggets
+crown	84	Untamed Turtle	0	0	item snailmail bits; turtlemail bits; turtle wax
+crown	85	Animated Macaroni Duck	35	0	
+crown	86	Pet Cheezling	0	-10	mp 5, r3
+crown	87	Autonomous Disco Ball	0	0	att -7, def -7
+crown	88	Mariachi Chihuahua	0	0	stun
+crown	89	Hobo Monkey	20 hot	0	att -4, def -4, r3
+crown	90	Llama Lama	0	0	mp 5.5
+crown	91	Cotton Candy Carnie	0	0	item cotton candy pinch
+crown	93	Black Cat	0	35	meat -25, !! frig.
+crown	94	Uniclops	20	0	
+crown	95	Psychedelic Bear	0	0	att -4, def -4
+crown	96	Baby Mutant Rattlesnake	20	0	!! poison
+crown	97	Mutant Fire Ant	20	0	!! poison
+crown	98	Mutant Cactus Bud	20	0	!! poison
+crown	99	Mutant Gila Monster	0	0	att -9, def -9
+crown	100	Cuddlefish	22.5 sleaze	0	
+crown	101	Sugar Fruit Fairy	20	0	
+crown	102	Imitation Crab	35	0	
+crown	103	Pair of Ragged Claws	0	0	stun
+crown	104	Magic Dragonfish	0	-9	r3
+crown	105	Frumious Bandersnatch	18 none,cold,hot,sleaze,spooky,stench	0	
+crown	106	Midget Clownfish	0	0	stun
+crown	107	Syncopated Turtle	0	0	stun
+crown	108	Grinning Turtle	22.5 spooky	0	
+crown	109	Purse Rat	45	0	
+crown	110	Wereturtle	0	0	meat {5,10,15}, r3
+crown	111	Baby Sandworm	0	0	stun
+crown	112	Slimeling	{9,12.5,16}	0	att -4, def -4
+crown	113	He-Boulder	0	0	meat 10, r3
+crown	114	Rock Lobster	0	0	mp 12.5, r3
+crown	115	Urchin Urchin	22.5	0	
+crown	116	Grouper Groupie	20 sleaze	0	
+crown	117	Squamous Gibberer	22.5 spooky	0	
+crown	118	Dancing Frog	0	0	att -4, def -4
+crown	119	Chauvinist Pig	22.5 sleaze	0	
+crown	120	Stocking Mimic	0	0	item Angry Farmer candy; Cold Hots candy; Rock Pops; Tasty Fun Good rice candy; Wint-O-Fresh mint
+crown	121	Snow Angel	0	0	stun
+crown	122	Jack-in-the-Box	0	0	att -4, def -4
+crown	123	BRICKO chick	0	0	item BRICKO brick
+crown	124	Baby Bugged Bugbear	0	0	
+crown	134	Underworld Bonsai	17 spooky	0	
+crown	135	Rogue Program	16.5	0	
+crown	136	Mini-Hipster	0	-15	mp 9
+crown	137	Pottery Barn Owl	0	0	item volcanic ash
+crown	138	Hippo Ballerina	0	0	att -4, def -4, !! needs correct values
+crown	139	Knob Goblin Organ Grinder	0	0	meat {5,10,15}, r3
+crown	140	Piano Cat	0	0	item beertini; papaya slung; salty slug; tomato daiquiri
+crown	141	Dramatic Hedgehog	0	-{2,2.5,3}	att -1, def -1, !! delevel amount needed
+crown	142	Smiling Rat	0.75*fweight spooky	0	
+crown	143	Robot Reindeer	0	0	item candy cane; eggnog; fruitcake; gingerbread bugbear
+crown	144	Holiday Log	{30,40,50}	0	
+crown	146	Obtuse Angel	0	0	mp {5,5.5,6}, r3
+crown	147	Reconstituted Crow	0	0	item blackberry
+crown	148	Li'l Xenomorph	0	0	item lunar isotope
+crown	149	Dataspider	0	0	mp 4.5, r3
+crown	150	Pair of Stomping Boots	{20,25,30}	0	
+crown	151	Feral Kobold	0	0	meat {5,10,15}, r3
+crown	156	Peppermint Rhino	0	-{5,5.5,6}	mp {3,3.5,4}, r3
+crown	157	Tickle-Me Emilio	0	0	stun
+crown	168	Oily Woim	0	0	meat 10, r3
+crown	171	Gelatinous Cubeling	{10,20,30}	0	
+crown	172	Adorable Space Buddy	0	0	mp 11, r3
+crown	173	Nosy Nose	0	0	stun
+crown	176	Reanimated Reanimator	0	0	item hot wing; broken skull
+crown	177	Warbear Drone	0	0	item warbear whosit, r3
+crown	178	Grimstone Golem	0	0	item grimstone mask
+crown	179	Grim Brother	0	0	item grim fairy tale
+effect	54	Jalapeno Saucesphere	3	0	retal
+effect	55	Jabanero Saucesphere	3	0	retal
+effect	68	Psalm of Pointiness	6	0	att -3, def -3, retal
+effect	224	Scarysauce	6 spooky	0	retal
+effect	297	Temporary Amnesia	0	0	noskills
+effect	412	Raving Lunatic	0	{1,2,3}	
+effect	413	Solar Flair	0	{1,2,3} hot	
+effect	414	Hyperbolic Hyperthermia	0	{1,2,3} cold	
+effect	415	Slimed	0	{1,2,3} spooky	
+effect	416	Tar-Struck	0	{1,2,3} stench	
+effect	417	Greased	0	{1,2,3} sleaze	
+effect	435	Beer in Your Shoes	0	1.5	
+effect	437	Strangulated	0	floor(0.25*myhp)	
+effect	467	Curse of the Black Pearl Onion	{40,50,60} stench,spooky	0	
+effect	499	Stuck-Up Hair	3	0	retal
+effect	511	Form of... Bird!	0	0	noitems
+effect	536	Drenched With Filth	45 stench	0	retal
+effect	560	It's Electric!	35*(1+zone(sea))	0	retal
+effect	589	Quivering with Rage	1.5*L	0	
+effect	590	Apoplectic with Rage	1.5*L	0	
+effect	591	Dizzy with Rage	1.5*L	0	
+effect	604	Smokin'	7	0	retal
+effect	621	Biologically Shocked	45 hot,cold	0	att -2.5, def -2.5, stun 0.25
+effect	782	Burning, Man	{80,90,100} hot	{80,90,100}	!! No player damage with tattoo
+effect	788	Bone Homie	15 spooky	0	
+effect	1038	Frigidalmatian	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus) cold	0	
+effect	1040	Long Love GORF	50	0	
+effect	1145	Consumed by Anger	0	0	noitems, noskills
+effect	1430	Spiky Shell	3	0	retal
+effect	1466	Soul Funk	15 stench	0	
+fam	1	Mosquito	max(2,0.75*fweight+2)	-fdmg*2	rate 0.3
+fam	3	Levitating Potato	0	0	rate min(0.9,0.015*fweight), stun, potato
+fam	4	Angry Goat	fweight/3.0+1 none,stench	0	rate ceil(fweight/6.0)*0.1
+fam	5	Sabre-Toothed Lime	ceil(fweight/6.0)*0.1*0.75*fweight+{1,1.5,2}	0	rate 1
+fam	6	Fuzzy Dice	fweight*0.083	-0.083*fweight	rate 0.3, att -0.055*fweight, def -0.055*fweight, stun 0.111, meat 0.83, mp 0.055*fweight, 
+fam	7	Spooky Pirate Skeleton	0.75*min(1,(0.20+0.10*(fweight/6)))*fweight*{0.5,0.75,1}+2 spooky	0	rate 1, att -0.25*max(1,fweight/6), def -0.25*max(1,fweight/6)
+fam	9	Howling Balloon Monkey	0.225*fweight/3	0	rate max(0,fweight-10), mp 0.275*fweight/3
+fam	10	Stab Bat	(0.66+0.14*famgear)*(0.75*fweight+2)	(0.33-0.13*famgear)*(fweight/1.5+2)	rate ceil(fweight/6.0)*0.1, 
+fam	11	Grue	(2+(5-M)*2.25)+0.75*fweight spooky	0	rate 0.1+0.1*ceil(fweight/4)
+fam	16	Cocoabo	0.25*(fweight+2)	-0.25*(fweight+7)	rate 0.33, meat 0.25*(4.0*fweight+9), mp 0.25*(fweight+7), att -0.25*(fweight+1)/3, def -0.25*(fweight+1)/3
+fam	17	Star Starfish	0.75*(fweight+3)	0	rate 0.33, mp fdmg
+fam	19	Ghost Pickle on a Stick	0.66*min(1,(0.20+0.10*(fweight/6)))*fweight*{0.5,0.75,1}+{4,5.5,7}	0	rate 1, att -0.33*max(1,fweight/6), def -0.33*max(1,fweight/6)
+fam	20	Killer Bee	max(1.0,fweight/4)	0	rate 0.33
+fam	21	Whirling Maple Leaf	0.75*(fweight+1)	0	rate 0.25
+fam	24	Jill-O-Lantern	(fweight+2)/3.0+1 none,hot,spooky	0	rate 0.25
+fam	25	Hand Turkey	fweight+{1,2,3}	0	rate 0.25
+fam	26	Crimbo Elf	(0.3+0.1*ceil(fweight/6))*0.75*(fweight+4)	0	rate 0.33
+fam	27	Hanukkimbo Dreidl	0.25*max(2,fweight)	0	rate 0.017*fweight+0.19, meat 0.25*2*fweight, stun 0.25, mp 0.25*(fweight+1)/3
+fam	28	Baby Yeti	0.5*(fweight/2+fweight+5)/2 cold	0	rate 0.5, mp 0.5*(fweight/2+fweight+5)/2
+fam	29	Feather Boa Constrictor	0.5*(fweight+2) sleaze	0	rate 0.33, meat 0.5*5*(fweight+2), stun min(0.9,0.015*fweight)/0.33
+fam	30	Emo Squid	0	0	rate min(0.9,0.015*fweight), stun, potato
+fam	31	Personal Raincloud	0.25*(fweight+3)/2	-0.25*(fweight+3)/2	rate 0.6, mp 0.25*(fweight+3)/2, att -0.25*max(1,fweight/8), def -0.25*max(1,fweight/8)
+fam	32	Clockwork Grapefruit	0.75*fweight+{0,3,6}	0	rate 0.5
+fam	33	MagiMechTech MicroMechaMech	(0.15*0.75*fweight)+0.566*fweight-2 none,hot	0	rate 1, !! 1st part hot; 2nd part phys
+fam	34	Flaming Gravy Fairy	0.75*fweight hot	0	rate 0.33
+fam	35	Frozen Gravy Fairy	0.75*fweight cold	0	rate 0.33
+fam	36	Stinky Gravy Fairy	0.75*fweight stench	0	rate 0.33
+fam	37	Spooky Gravy Fairy	0.75*fweight spooky	0	rate 0.33
+fam	38	Inflatable Dodecapede	{1,5,10}+{2,3.5,5}*ceil(5-min(5,fweight/5))	0	rate 1
+fam	43	Temporal Riftlet	0	0	rate min(0.9,0.015*fweight), stun, potato
+fam	44	Sweet Nutcracker	(0.4+0.1*ceil(fweight/5))*(0.75*fweight+{1,4,7})	0	rate 1
+fam	46	Snowy Owl	(0.2+0.1*ceil(fweight/6))*(0.75*fweight+5)	0	rate 1
+fam	47	Teddy Bear	0	0	rate 1, stun 0.33
+fam	48	Ninja Pirate Zombie Robot	0.22*1.5*(fweight+2)	-0.22*1.5*(fweight+2)+5	rate 0.5, meat 0.22*(6*fweight+10), mp 0.22*1.5*(fweight+2)+5, att -0.22*floor(fweight/2), def -0.22*floor(fweight/2), stun 0.12, item toast
+fam	49	Sleazy Gravy Fairy	0.75*fweight sleaze	0	rate 0.33
+fam	51	Wind-up Chattering Teeth	ceil(fweight/6.0)*0.1*0.75*fweight+{1,1.5,2}	0	rate 1
+fam	52	Spirit Hobo	0.75*(fweight+3)	0	rate 0.33, mp fdmg, meat -50
+fam	53	Astral Badger	0.75*fweight+2	0	rate 1
+fam	55	Misshapen Animal Skeleton	0.66*(0.4+0.1*ceil(fweight/5))*(0.75*fweight+5.5) spooky	0	rate 1, att -0.33*fweight/6.0, def -0.33*fweight/6.0
+fam	56	Scary Death Orb	(0.66+0.14*famgear)*(0.75*fweight+2) spooky	(0.33-0.13*famgear)*(fweight/1.5+2)	rate ceil(fweight/6.0)*0.1, 
+fam	60	Origami Towel Crane	0	0	rate 0.66, stun
+fam	61	Ninja Snowflake	0.1*(fweight/6)*0.75*fweight cold	0	rate 1
+fam	62	Evil Teddy Bear	0.03*monsterattack	0	rate 0.66, stun, !! rate unknown
+fam	66	Dandy Lion	0.75*fweight+1.5*mainhand(whip)	0	rate 0.5
+fam	70	Green Pixie	0.75*fweight	0	rate 0.33
+fam	71	Ragamuffin Imp	4 hot	0	rate 1, !! unknown
+fam	73	Wizard Action Figure	fweight+1 none,hot,cold,spooky,sleaze,stench	0	rate 0.83
+fam	74	Gluttonous Green Ghost	0.75*(fweight+3)	0	rate 0.33, mp fdmg, meat -50
+fam	77	Crimbo P. R. E. S. S. I. E.	0.33*(fweight+{5,7.5,10})	0	rate 0.5, stun 0.33, att -0.33*{0.33,0.417,0.5}*fweight, att -0.33*{0.33,0.417,0.5}*fweight
+fam	79	Teddy Borg	0	0	rate 1, stun 0.33, !! unknown
+fam	80	RoboGoose	0.2*(fweight+4)/2	-{-0.2*(fweight+4.5),0.2*(2*fweight+14)-0.2*(fweight+4.5),0.2*(2*fweight+14)}	rate 0.33, stun 0.2, att -0.2*(fweight+4)/3, def -0.2*(fweight+4)/3
+fam	81	El Vibrato Megadrone	0	0	rate 1, !! ability needs detecting / hardcoding
+fam	82	Mad Hatrack	0	0	rate 1
+fam	83	Adorable Seal Larva	max(2,0.75*fweight+2)	-fdmg*2	rate 0.3
+fam	84	Untamed Turtle	0	0	rate min(0.9,0.015*fweight), stun, potato
+fam	85	Animated Macaroni Duck	0.75*(fweight+3)	0	rate 0.33, mp fdmg
+fam	87	Autonomous Disco Ball	0.75*(0.75*fweight+2)+3.22*famgear	0	rate 1, mp 3.22*famgear, def -0.25*max(1,fweight/6)
+fam	88	Mariachi Chihuahua	ceil(fweight/6.0)*0.1*0.75*fweight+{1,1.5,2}	0	rate 1
+fam	89	Hobo Monkey	0	0	rate 1, meat 75
+fam	90	Llama Lama	0	0	rate 0.2, def -{1,ceil(fweight/8),ceil(fweight/4)}
+fam	91	Cotton Candy Carnie	0	0	rate min(0.9,0.015*fweight), stun, potato
+fam	92	Disembodied Hand	1.5*fweight+famgearpwr/7.5	0	rate 1
+fam	96	Baby Mutant Rattlesnake	0.75*fweight+{1,1.5,2}	0	rate 0.2, !! poison
+fam	97	Mutant Fire Ant	0.75*fweight+{1,1.5,2} hot	0	rate 0.2, !! poison
+fam	98	Mutant Cactus Bud	0.75*fweight+{1,1.5,2}	0	rate 0.2, !! poison
+fam	99	Mutant Gila Monster	1.5*fweight+{1,1.5,2}	0	rate 0.5, !! poison
+fam	100	Cuddlefish	0	0	rate min(0.9,fweight*(0.01125+zone(sea)/4)), stun, potato
+fam	102	Imitation Crab	max(2,fweight/2-max(0,(fweight-(20+20*famgear)))*zone(sea))+5*famgear	0	rate 1
+fam	103	Pair of Ragged Claws	max(2,({2,fweight/2,fweight}))	0	rate 0.5
+fam	106	Midget Clownfish	0.75*((1+zone(sea)*0.5)*fweight+3) sleaze	0	rate 0.33, mp fdmg
+fam	110	Wereturtle	(0.2+0.1*(fweight-1)/4)*(fweight+3*M) spooky	0	rate min(1,max(0,M+2*famgear-5))
+fam	112	Slimeling	0.75*(fweight+3)	0	rate 0.5, mp fdmg, meat -50
+fam	114	Rock Lobster	0.75*((1+zone(sea)*0.5)*fweight+3) hot	0	rate 0.33, mp fdmg
+fam	117	Squamous Gibberer	0	0	rate min(0.9,0.015*fweight), stun, potato
+fam	120	Stocking Mimic	0.25*(fweight+2)	-0.25*(fweight+7)	rate 0.33, meat 0.25*(4.0*fweight+9), mp 0.25*(fweight+7), att -0.25*(fweight+1)/3, def -0.25*(fweight+1)/3
+fam	121	Snow Angel	0.75*(fweight+3) cold	0	rate 0.33, mp fdmg
+fam	123	BRICKO chick	fweight+{5,7.5,10}	0	rate 0.5
+fam	124	Baby Bugged Bugbear	0	0	rate min(0.9,0.015*fweight/(2-famgear)), stun, potato
+fam	127	Floating Eye	0	0	stun 0.5, !! always stuns when you use skills; otherwise also stuns player (monster autohits!)
+fam	131	Snowhitman	fweight*2 none,cold	0	!! can also grant B-b-brr! or Bruised Jaw effects
+fam	132	Vampire Bird	fweight*2 none,hot	0	!! damages you after combat
+fam	133	Worm Doctor	0	-fweight*2	
+fam	134	Underworld Bonsai	0.75*(fweight+3) spooky	0	rate 0.33, mp fdmg
+fam	135	Rogue Program	0.33*0.75*(fweight+3)	0	rate 1, mp fdmg, stun famgear*min(0.9,0.015*fweight)
+fam	136	Mini-Hipster	0.25*min({8*fweight,9*fweight+8,10*fweight+30},monsterhp) sleaze,hot	-(0.25*0.8*fweight+1.2)	rate 0.2+0.025*fweight, mp 0.25*0.8*fweight+1.2, meat 0.125*4*fweight+4.5, att -0.125*4, def -0.125*4
+fam	137	Pottery Barn Owl	fweight hot	0	rate 0.5, !! dmg/rate unknown
+fam	138	Hippo Ballerina	0.33*0.75*fweight+1 sleaze	0	rate 0.5, stun 0.33, att -0.33*max(1,{1,fweight/8,fweight/4}), def -0.33*max(1,{1,fweight/8,fweight/4})
+fam	139	Knob Goblin Organ Grinder	fweight perfect	0	rate 0.33, !! rate unknown
+fam	143	Robot Reindeer	max(1,0.25*fweight)	-fdmg	rate 0.2, 
+fam	149	Dataspider	0.75*(fweight+3)	0	rate 0.33, mp fdmg
+fam	151	Feral Kobold	(fweight*3)+{1,2,3}	0	rate 1
+fam	152	Fancypants Scarecrow	0	0	rate 1
+fam	157	Tickle-Me Emilio	0.25*(fweight+2)	-0.25*(fweight+10)	rate 0.33, meat 0.25*(60), mp 0.25*(fweight+10), att -0.25*(fweight+1)/3, def -0.25*(fweight+1)/3
+fam	161	Flaming Face	(fweight*0.75)*(2+famgear) hot	0	rate 0.33, !! rate not spaded
+fam	163	Hovering Skull	(fweight+1)*0.75	0	rate 0.33, !! rate not spaded
+fam	164	Mini-Skulldozer	fweight*0.75*0.5	0	stun min(0.9,fweight*0.015), rate 1, !! multiple rates
+fam	172	Adorable Space Buddy	ceil(fweight/6.0)*0.1*0.75*fweight+{1,1.5,2} spooky	0	rate 1
+fam	173	Nosy Nose	0	0	att -fweight*0.42*(1+zone(Dreadsylvania)*2), def -fweight*0.42*(1+zone(Dreadsylvania)*2), rate 0.5
+fam	176	Reanimated Reanimator	max(1,pref(reanimatorArms)*0.25)*max(1,pref(reanimatorArms)/10.0)	0	stun min(1,max(0,pref(reanimatorWeirdParts)-4))*min(0.9,0.015*pref(reanimatorWeirdParts))
+fam	177	Warbear Drone	min(6,currentround+(famgear*2))*fweight/3.5 none,hot,cold,spooky,sleaze,stench	0	
+fam	182	Twitching Space Critter	0.75*(fweight+3) stench	0	rate 0.2, mp fdmg
+fam	183	Galloping Grill	0.75*(fweight+3) hot	0	rate 0.2, mp fdmg
+fam	187	Baby Z-Rex	fweight*2 spooky	0	
+fam	191	Topiary Skunk	fweight/2+10 stench	0	rate 0.5
+gear	430	acid-squirting flower	4	0	retal
+gear	1731	spirit precipice	0	{12,18,24}	oncrit
+gear	1910	clockwork sword	0	-{3,13.5,24}	oncrit
+gear	1911	clockwork crossbow	0	0	att -{3,4,5}, def -{3,4,5}, oncrit
+gear	1971	plastic pumpkin bucket	0.35*fweight*0.75 perfect	0	
+gear	2029	hippy protest button	8	0	retal
+gear	2170	MagiMechTech NanoMechaMech	0.775	0	
+gear	2385	bottle opener belt buckle	3.5	0	retal
+gear	2541	Mayflower bouquet	0	0	stun 0.065
+gear	2570	ant hoe	4.4 sleaze	0	meat 5
+gear	2571	ant rake	4.4 hot	0	meat 5
+gear	2572	ant pitchfork	4.4 stench	0	meat 5
+gear	2573	ant sickle	4.4 spooky	0	meat 5
+gear	2574	ant pick	4.4 cold	0	meat 5
+gear	2580	scorpion whip	1	0	
+gear	2844	navel ring of navel gazing	0	0	stun 0.5
+gear	2946	V for Vivala mask	0.66*{2,2.5,3}*L none,hot	0	stun 0.33, oncrit
+gear	2983	cannonball charrrm bracelet	{100,109.5,119} hot	{10,14,18}	retal, 
+gear	3097	oversized fish scaler	7.5	0	
+gear	3132	flamin' bindle	{75,87.5,100} hot	0	oncrit
+gear	3133	freezin' bindle	{75,87.5,100} cold	0	oncrit
+gear	3134	stinkin' bindle	{75,87.5,100} stench	0	oncrit
+gear	3135	spooky bindle	{75,87.5,100} spooky	0	oncrit
+gear	3136	sleazy bindle	85 sleaze	0	oncrit
+gear	3138	Hodgman's whackin' stick	{150,175,200}	0	oncrit
+gear	3142	cup of infinite pencils	27.5	0	
+gear	3381	Ol' Scratch's stove door	45 hot	0	retal
+gear	3387	Zombo's skull ring	325	0	monster Orcish Frat Boy (Music Lover)|Orcish Frat Boy (Paddler)|Orcish Frat Boy (Pledge)|caveman frat boy|caveman frat pledge|War Hippy Spy|War Pledge|Frat Warrior drill sergeant
+gear	3392	Oscus's garbage can lid	45 stench	0	retal
+gear	3446	groovy prism necklace	12.5 hot,cold,stench,spooky,sleaze	0	retal
+gear	3479	balloon shield	2.5	0	retal
+gear	3494	fish bazooka	50*zone(sea)	0	oncrit, underwater
+gear	3517	eelskin hat	35*zone(sea)	0	retal, underwater
+gear	3518	eelskin pants	35*zone(sea)	0	retal, underwater
+gear	3519	eelskin shield	35*zone(sea)	0	retal, underwater
+gear	3550	propeller beanie	0	0	stun 0.1
+gear	3591	mer-kin hookspear	0	0	meat monstermeat*((zone(sea)+1)*{0.1,0.125,0.15}+0.05), oncrit
+gear	3600	rusty speargun	{50,55,60}	0	oncrit
+gear	3626	parasitic headgnawer	min(L,15)*(1+min(effect(580),1))	0	retal
+gear	3664	spooky putty ball	{26,33,40} none,spooky	0	oncrit
+gear	3709	non-stick pugil stick	0	0	stun, oncrit
+gear	3822	fishy wand	{100,150,200}*zone(sea)/3 none,hot,cold,stench,spooky,sleaze	0	meat 11.1111, stun 0.111, att -2, def -2, underwater
+gear	3925	spiky turtle shoulderpads	{10,15,20}	0	retal
+gear	4135	moveable feast	0.35*{fweight/2,0.75*fweight,fweight} perfect	0	
+gear	4178	sugar shotgun	0	0	stun, oncrit
+gear	4180	sugar shank	{15,17.5,20}	0	oncrit
+gear	4646	Meteoid ice beam	0	0	stun, oncrit
+gear	4653	ironic oversized sunglasses	9	0	retal
+gear	4665	hot plate	{2,3,4} hot	0	retal
+gear	4841	bindlestocking	0	0	oncrit, item candy cane, !! actually gives multifarious items
+gear	4902	stapler bear	4	0	
+gear	5050	double-ice box	{10,15,20} cold	0	
+gear	6084	Mr. Haggis	4.5 sleaze	0	
+gear	6480	Unkillable Skeleton's shield	300	0	retal, !! amount unknown
+gear	6517	dubious loincloth	45 sleaze	0	
+gear	6531	muddy skirt	40 stench	0	!! amount unknown
+gear	6541	tailbone shield	90 stench	0	retal
+gear	6702	tiny bowler	11	0	aoe 100
+gear	7023	Hand in Glove	0.15*K	0	
+gear	8209	filthy child leash	11 stench	0	
+hatrack	3	helmet turtle	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	6	ravioli hat	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	9	disco mask	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	20	Kentucky-style derby	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	33	snorkel	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	34	Dolphin King's crown	fweight*{2,2.5,3}	0	rate 0.66
+hatrack	37	viking helmet	fweight*{0.5,0.75,1}	0	rate 0.99
+hatrack	62	oriole-feather headdress	fweight*{2,2.5,3}	0	rate 0.5
+hatrack	72	barskin hat	fweight*{1,1.5,2}	0	rate 0.5
+hatrack	95	basic meat helmet	fweight*{0.5,0.75,1} sleaze	0	rate 0.5
+hatrack	97	pimpin' meat hat	fweight*{1,1.5,2} sleaze	0	rate 0.75
+hatrack	150	Scalp of Gorgolok	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	151	Elder Turtle Shell	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	152	Colander of Em-er'il	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	153	Ancient Saucehelm	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	154	Disco 'Fro Pick	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	155	El Sombrero De Lopez	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	169	bugbear beanie	fweight*{1,1.5,2}	0	rate 0.5
+hatrack	214	filthy knitted dread sack	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	267	mullet wig	0	0	rate min(0.9,0.045*fweight), stun
+hatrack	293	chef's hat	fweight*{5,5.5,6}	0	rate 0.25
+hatrack	312	Knob Goblin visor	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	329	goat beard	0.5*fweight*{1,1.5,2}	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	348	cold ninja mask	fweight*{0.8,1,1.2} cold	0	rate 0.66
+hatrack	355	eXtreme scarf	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	389	meaty helmet turtle	fweight*{1,1.25,1.5} sleaze	0	rate 0.66
+hatrack	390	asbestos helmet turtle	fweight*{1,1.25,1.5} hot	0	rate 0.5
+hatrack	391	linoleum helmet turtle	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	392	chrome helmet turtle	fweight*{0.5,0.75,1} cold	0	rate 0.5
+hatrack	475	leather mask	fweight*{1,1.5,2} sleaze	0	rate 0.66
+hatrack	490	mesh cap	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	538	f3d0r4	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	541	draggin' ball hat	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	566	bum cheek	fweight*{1.5,2.25,3} stench	0	rate 0.66
+hatrack	597	Mohawk wig	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	638	asshat	fweight*{3,4.5,6} stench	0	rate 0.66
+hatrack	661	star hat	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	670	lihc face	fweight*{2,2.5,3} spooky	0	rate 0.5
+hatrack	688	pixel hat	fweight*{2,2.5,3}	0	rate 0.66
+hatrack	834	cornuthaum	0	0	rate min(0.9,0.0225*fweight), stun
+hatrack	889	balaclava	{10,12.5,15}+fweight*{0.5,0.75,0.1} none,cold	0	rate 0.5
+hatrack	952	spooky hockey mask	0	-(fweight+5)*{1,1.25,1.5}	rate 0.5, mp (fweight+5)*{1,1.25,1.5}
+hatrack	998	maiden wig	0	0	rate min(0.9,0.03*fweight), stun
+hatrack	1097	clockwork hat	fweight*{2,2.5,3}	0	rate 0.5
+hatrack	1160	irate sombrero	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	1314	Baron von Ratsworth's tophat	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	1323	time helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	1475	pentacorn hat	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1476	goofily-plumed helmet	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1477	yellow plastic hard hat	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1478	wooden salad bowl	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1479	football helmet	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1629	raspberry beret	0	0	rate min(0.9,0.03*fweight), stun
+hatrack	1653	jewel-eyed wizard hat	{1,50,100}	0	rate 0.25
+hatrack	1690	giant discarded bottlecap	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1781	enchantlers	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	1784	Snow Queen Crown	fweight*{1,1.5,2} cold	0	rate 0.66
+hatrack	1930	antique helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	1964	opera mask	fweight*{2,6,10}+10 spooky	0	rate 0.66
+hatrack	2117	fire	fweight*{2,6,10}+15 hot	0	rate 0.5
+hatrack	2169	toy space helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	2245	knobby helmet turtle	fweight*{2,2.25,2.5}	0	rate 0.75
+hatrack	2249	skeletortoise	fweight*{2,2.5,3}+10 spooky	0	rate 0.5
+hatrack	2254	bubblewrap bottlecap turtleban	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	2255	furry green turtle	0	0	rate min(0.9,0.03*fweight), stun
+hatrack	2283	seal-skull helmet	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	2363	longhaired hippy wig	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	2366	orange peel hat	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	2460	yak toupee	0.5*fweight*{0.5,0.75,1}	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	2475	clown wig	0.5*fweight*{0.5,0.75,1}+0.5*fweight*{2,2.5,3} none,cold,hot,stench,spooky,sleaze	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	2480	demon-horned hat	fweight*{0.9,1,1.1} hot	0	rate 0.99
+hatrack	2610	extra-large palm-frond toupee	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	2621	nasty rat mask	fweight*{0.5,0.75,1} sleaze	0	rate 0.5
+hatrack	2624	bat hat	fweight*{0.5,0.75,1} spooky	0	rate 0.5
+hatrack	2997	grungy bandana	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	3050	cursed eyepatch	fweight*{1,1.5,2} spooky	0	rate 0.5
+hatrack	3056	metallic foil cat ears	fweight*{1,1.5,2}	0	rate 0.99
+hatrack	3088	biomechanical crimborg helmet	fweight*{0.5,0.75,1}	0	rate 0.5
+hatrack	3162	El Vibrato helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	3204	dwarvish war helmet	fweight	0	rate 0.5
+hatrack	3251	Frosty's old silk hat	fweight*{2,2.5,3} cold	0	rate 0.99
+hatrack	3257	Zombo's skullcap	fweight*{2,2.5,3} spooky	0	rate 0.99
+hatrack	3395	Hodgman's porkpie hat	fweight*{2,2.5,3}	0	rate 0.99
+hatrack	3472	Seasonal Beret	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	3515	ganger bandana	fweight*{2,2.5,3}	0	rate 0.99
+hatrack	3517	eelskin hat	fweight*{2,2.5,3}	0	rate 0.99
+hatrack	3550	propeller beanie	0	0	rate 0.5, !! attack unknown
+hatrack	3568	sponge helmet	fweight*{1,1.5,2}	0	rate 0.5
+hatrack	3599	moist sailor's cap	fweight*{2,2.5,3} stench	0	rate 0.75
+hatrack	3606	rusty diving helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	3607	aerated diving helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	3626	parasitic headgnawer	fweight*{2,2.5,3}	0	rate 0.99
+hatrack	3780	nurse's hat	fweight*{2,2.5,3}	0	rate 0.75
+hatrack	3916	turtle wax helmet	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	3920	turtlemail coif	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	3924	spiky turtle helmet	fweight*{0.5,0.75,1}	0	rate 0.99
+hatrack	3987	samurai turtle helmet	fweight*{1,1.5,2}	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	3990	ancient turtle shell helmet	fweight*{1.5,2,2.5}	0	rate 0.5
+hatrack	4025	slime-covered helmet	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	4048	wumpus-hair wig	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	4079	corrosive cowl	0	0	rate 1, stun min(0.9,0.0075*fweight)
+hatrack	4172	floaty rock helmet	0	-fweight*{1.5,2,2.5}	rate 0.5, mp fweight*{1.5,2,2.5}
+hatrack	4181	sugar chapeau	{1,50,100}	0	rate 0.25
+hatrack	4193	rave visor	0	0	rate min(0.9,0.03*fweight), stun
+hatrack	4241	sleep mask	0	0	!! attack unknown
+hatrack	4265	bark beret	0	0	rate min(0.9,0.03*fweight), stun
+hatrack	4349	snow hat	fweight*{1,1.5,2} cold	0	rate 0.5, !! rate unknown
+hatrack	4388	passable elf mask	fweight*{5,5.5,6}	0	rate 0.99
+hatrack	4415	sealhide hood	0	0	!! attack unknown
+hatrack	4440	guard turtle shell	fweight*{2,2.5,3}	0	rate 0.5
+hatrack	4443	spaghetti cult mask	0	-(fweight+5)*{2,2.5,3}	rate 0.5, mp (fweight+5)*{2,2.5,3}
+hatrack	4447	spangly sombrero	0	0	rate min(0.9,0.03*fweight), stun
+hatrack	4458	snailmail coif	0	0	rate 1, stun min(0.9,0.015*fweight)
+hatrack	4471	BRICKO hat	fweight*{5,5.5,6}	0	rate 0.5
+hatrack	4524	powdered wig	0	-{0,0.5,1}	rate 1, mp {0,0.5,1}, stun min(0.9,0.03*fweight)
+hatrack	4538	helm of the white knight	fweight*{1,1.5,2}	0	rate 0.3
+hatrack	4632	googly-star hat	fweight*{2,3,4}	0	rate 0.99
+hatrack	4637	sinister demon mask	0	0	!! attack unknown
+hatrack	4682	pottery hat	1 hot	0	!! attack unknown
+hatrack	4845	Uncle Hobo's stocking cap	fweight*{2,2.5,3}	0	rate 0.99
+hatrack	4870	paperclip turban	fweight*{2,2.5,3}	0	rate 0.5
+headbutt	3	helmet turtle	5	0	
+headbutt	151	Elder Turtle Shell	10	0	
+headbutt	389	meaty helmet turtle	14	0	
+headbutt	390	asbestos helmet turtle	15	0	
+headbutt	391	linoleum helmet turtle	15	0	
+headbutt	392	chrome helmet turtle	15	0	
+headbutt	1225	stainless steel skullcap	20	0	
+headbutt	1231	plexiglass pith helmet	25	0	
+headbutt	2245	knobby helmet turtle	6	0	
+headbutt	2249	skeletortoise	6	0	
+headbutt	2254	bubblewrap bottlecap turtleban	12	0	
+headbutt	2255	furry green turtle	11	0	
+headbutt	3916	turtle wax helmet	10	0	
+headbutt	3920	turtlemail coif	16	0	
+headbutt	3924	spiky turtle helmet	20	0	
+headbutt	3987	samurai turtle helmet	6	0	
+headbutt	3990	ancient turtle shell helmet	9	0	
+item	2	seal tooth	1	0	
+item	8	spices	1	0	
+item	27	spider web	0	0	stun 0.6
+item	28	really sticky spider web	0	0	stun 0.5
+item	29	really really sticky spider web	0	0	stun 0.5
+item	145	barbed-wire fence	0	0	att -{1,4,7}, def -{1,4,7}, stun 0.47
+item	181	baseball	7	0	
+item	185	fat stacks of cash	0	0	custom
+item	208	patchouli incense stick	0	0	att -{3,4,5}, def -{3,4,5}, stun 0.5
+item	231	Doc Galaktik's Pungent Unguent	0	-4	
+item	232	Doc Galaktik's Ailment Ointment	0	-{8,9,10}	
+item	233	Doc Galaktik's Restorative Balm	0	-{13,14,15}	
+item	234	Doc Galaktik's Homeopathic Elixir	0	-{18,19,20}	
+item	270	white picket fence	0	-14.5	stun
+item	342	Knob Goblin stink bomb	0	0	att -3, def -3, stun 0.5
+item	344	Knob Goblin seltzer	0	0	mp 10
+item	345	Knob Goblin superseltzer	0	0	mp 27
+item	347	Dyspepsi-Cola	0	0	mp 12
+item	353	frigid ninja stars	22.5 cold	0	
+item	357	Mountain Stream soda	0	0	mp 7.5
+item	409	vial of patchouli oil	0	0	stun 0.5, att -4, def -4
+item	452	disease	0	0	att -2, def -2, stun 0.5
+item	464	red pixel potion	0	-{100,110,120}	
+item	465	blue pixel potion	0	0	mp {50,65,80}
+item	466	green pixel potion	0	-{40,50,60}	mp {30,35,40}
+item	469	wussiness potion	0	0	stun 0.5, att -5, def -5
+item	474	cast	0	-{15,17.5,20}	
+item	518	magical mystery juice	0	0	mp 1.5*L+{4,5,6}
+item	536	dictionary	{30,45,60}	0	monster 1335 HaXx0r|Anime Smiley|Flaming Troll|Lamz0r N00b|Me4t BegZ0r|Spam Witch|XXX pr0n|Some Bad ASCII Art
+item	546	meat vortex	0	0	custom
+item	547	334 scroll	0	0	custom
+item	548	668 scroll	0	0	att -{1,2,3}, def -{1,2,3}
+item	549	30339 scroll	0	0	att -{1,2,3}, def -{1,2,3}
+item	550	33398 scroll	0	0	att -{1,2,3}, def -{1,2,3}
+item	551	64067 scroll	0	0	att -{1,2,3}, def -{1,2,3}
+item	559	razor-sharp can lid	2.5	0	
+item	563	sonar-in-a-biscuit	6	0	
+item	610	procrastination potion	0	0	stun 0.5
+item	613	plot hole	22.5	0	att -{3,4,5}, def -{3,4,5}, stun 0.5
+item	615	chaos butterfly	0	0	att {-17,0,17}, def {-17,0,17}
+item	624	NG	55	0	
+item	630	photoprotoneutron torpedo	35	0	
+item	663	star throwing star	62.5	0	
+item	744	hair spray	4 hot	0	
+item	747	Knob Goblin firecracker	3	0	
+item	779	Mob Penguin cellular phone	0	0	
+item	819	milky potion	0	0	
+item	820	swirly potion	0	0	
+item	821	bubbly potion	0	0	
+item	822	smoky potion	0	0	
+item	823	cloudy potion	0	0	
+item	824	effervescent potion	0	0	
+item	825	fizzy potion	0	0	
+item	826	dark potion	0	0	
+item	827	murky potion	0	0	
+item	829	anti-anti-antidote	0	0	custom
+item	866	shaving cream	0	0	att -{2,2.5,3}, def -{2,2.5,3}, stun 0.8
+item	869	forest tears	0	-{5,7.5,10}	!! removes beaten up out of combat
+item	910	dwarf bread	17.5	0	stun
+item	1051	red plastic oyster egg	0	-{35,37.5,40}	
+item	1055	blue plastic oyster egg	0	0	mp 37.5
+item	1059	puce plastic oyster egg	45	0	
+item	1063	mauve plastic oyster egg	45	0	
+item	1067	lavender plastic oyster egg	45	0	
+item	1071	black plastic oyster egg	0	0	meat {300,350,400}
+item	1075	off-white plastic oyster egg	0	0	att -{6,7,8}, def -{6,7,8}, stun 0.5
+item	1079	yellow plastic oyster egg	0	0	!! +10% to random stat (20 turns)
+item	1159	mariachi G-string	12.5	0	
+item	1316	facsimile dictionary	{30,45,60}	0	monster 1335 HaXx0r|Anime Smiley|Flaming Troll|Lamz0r N00b|Me4t BegZ0r|Spam Witch|XXX pr0n|Some Bad ASCII Art
+item	1334	Cloaca-Cola	0	0	mp 12
+item	1335	Dyspepsi grenade	{50,55,60}	0	att -2
+item	1336	Cloaca grenade	{50,55,60}	0	att -2
+item	1389	yo-yo	35	0	
+item	1390	top	0	0	att -{6,7,8}, def -{6,7,8}
+item	1391	ball	0	0	custom runaway
+item	1392	kite	0	0	att -{10,11,12}*0.75, def -{10,11,12}*0.75, stun 0.75
+item	1394	stuffed doppelshifter	0	0	custom
+item	1397	toy soldier	32.5	0	itemcost bottle of tequila
+item	1510	bag of airline peanuts	8	0	
+item	1657	onion shurikens	12 sleaze	0	
+item	1704	roofie	0	0	att -{4,4.5,5}, def -{4,4.5,5}, stun 0.5
+item	1705	flaregun	0.66*{10,20,30}|0.33*{10,20,30} hot	0.33*{20,40,60} hot,none	
+item	1777	leftovers of indeterminate origin	9 stench	0	
+item	1788	unrefined Mountain Stream syrup	0	0	mp {50,55,60}
+item	1907	8-ball	0	0	att -{1,2,3}, def -{1,2,3}
+item	1922	gob of wet hair	0	0	att -{2,2.5,3}, def -{2,2.5,3}, stun
+item	1939	grouchy restless spirit	42.5 spooky	0	
+item	1958	inkwell	0	0	att -{4,5.5,7}, def -{4,5.5,7}, stun 0.51
+item	1959	tattered scrap of paper	0	0	custom runaway 0.5
+item	1960	scroll of ancient forbidden unspeakable evil	25 none,hot,cold,spooky,sleaze,stench	{5,5.5,6}	
+item	1965	bottle of Monsieur Bubble	0	0	mp 55
+item	2040	patchouli oil bomb	72.5 stench	0	
+item	2041	ferret bait	52.5	0	att -5, def -5
+item	2042	exploding hacky-sack	87.5 hot	0	
+item	2043	macrame net	95	0	att -{8,9,10}, def -{8,9,10}, stun
+item	2065	PADL Phone	0	0	
+item	2067	sake bomb	{45,52.5,60}	0	att -5, def -5
+item	2068	tequila grenade	87.5	0	
+item	2091	fancy bath salts	0	0	att -{4,4.5,5}, def -{4,4.5,5}
+item	2092	antique hand mirror	1000000	0	monster guy made of bees
+item	2114	yo	17.5	0	
+item	2116	stick-on-a-string	6.5	0	
+item	2129	possessed top	0	0	att -{6,7,8}, def -{6,7,8}
+item	2131	tree-eating kite	22.5	0	
+item	2133	fancy dress ball	0	0	custom runaway
+item	2135	stuffed alien blob	0	0	custom
+item	2138	razor-tipped yo-yo	35	0	
+item	2139	toy mercenary	32.5	0	meat -5.0
+item	2174	mossy stone sphere	0	0	
+item	2175	smooth stone sphere	0	0	
+item	2176	cracked stone sphere	0	0	
+item	2177	rough stone sphere	0	0	
+item	2237	pygmy blowgun	25	0	
+item	2240	bottle of alcohol	52.5 hot	0	
+item	2341	black pepper	0	0	att -{7,8.5,10}, def -{7,8.5,10}
+item	2348	water pipe bomb	65	0	
+item	2349	gas balloon	0	0	stun 3.5
+item	2350	beer bomb	65	0	
+item	2351	superamplified boom box	95	0	att -{8,9,10}, def -{8,9,10}, stun
+item	2354	communications windchimes	0	0	
+item	2369	filthy poultice	0	-{80,100,120}	
+item	2371	green smoke bomb	0	0	custom runaway 0.5
+item	2374	banana peel	0	0	stun 2
+item	2378	banana spritzer	0	0	mp {40,70,100}
+item	2396	chloroform rag	0	0	stun 3.5
+item	2397	depantsing bomb	0	0	att -{15,17.5,20}, def -{15,17.5,20}
+item	2400	molotov cocktail cocktail	72.5 hot	0	
+item	2402	gauze garter	0	-{80,100,120}	
+item	2404	jam band flyers	0	0	custom
+item	2405	rock band flyers	0	0	custom
+item	2437	New Cloaca-Cola	0	0	mp 150
+item	2438	scented massage oil	0	-maxhp	stun
+item	2439	poltergeist-in-the-jar-o	225	0	
+item	2440	unnatural gas	0	0	att -45, def -45
+item	2453	Goodfella contract	fweight*{2,3,4} perfect	0	meat -fweight*3
+item	2462	odor extractor	0	0	custom attract
+item	2492	tropical orchid	0	0	att -{1,4,7}, def -{1,4,7}, stun 0.5
+item	2493	stick of dynamite	17.5	0	
+item	2497	molybdenum magnet	0	0	custom
+item	2537	ancient spice	35	0	att -1, def -1
+item	2538	powdered organs	0	0	notmonster Ed the Undying, att -{10,11,12}, def -{10,11,12}
+item	2562	half-rotten brain	{60,80,100}	0	monster conjoined zmombie
+item	2563	rusty bonesaw	{60,80,100}	0	monster giant skeelton
+item	2564	plus-sized phylactery	0	0	custom, endscombat
+item	2565	can of Ghuol-B-Gone	{60,70,80}	0	monster huge ghuol
+item	2575	bronzed locust	0	0	att -{20,25,30}, def -{20,25,30}
+item	2581	handful of sand	0	0	att -{5,7.5,10}, def -{5,7.5,10}
+item	2582	brick of sand	70	0	stun 2
+item	2606	palm-frond fan	0	-{30,35,40}	mp {30,35,40}, !! restores more out of combat
+item	2608	palm-frond net	0	0	att -{8,10,12}, def -{8,10,12}, stun
+item	2613	rocky raccoon	55	0	
+item	2617	big boom	100	0	stun
+item	2619	jar of swamp gas	25 stench	0	
+item	2644	flaming feather	100 hot	0	
+item	2645	frozen feather	100 cold	0	
+item	2646	frightful feather	100 spooky	0	
+item	2647	fetid feather	100 stench	0	
+item	2648	flirtatious feather	100 sleaze	0	
+item	2673	Bohemian rhapsody	min(60,4*L)	0	
+item	2678	spectre scepter	{7,8.5,10}*0.5 hot,none	-{4,4.5,5}*0.25	att -{1,2,3}*0.25, def -{1,2,3}*0.25, stun 0.25
+item	2687	stone frisbee	0.9*{80,90,100}	0.1*{40,45,50}	
+item	2696	ovoid leather thing	0.9*{80,90,100}	0.1*{40,45,50}	
+item	2704	shrinking powder	monsterhp*0.425	0	
+item	2714	floorboard cruft	110 stench	0	stun 2
+item	2715	sausage bomb	110 sleaze	0	att -{15,17.5,20}, def -{15,17.5,20}, stun 2
+item	2765	Harold's bell	0	0	custom banish 20, endscombat
+item	2848	Gnomitronic Hyperspatial Demodulizer	11	0	once
+item	2858	bottled swamp gas	{15,17.5,20} stench	0	att -2, def -2
+item	2944	The Jickinator	monsterhp	0	endscombat
+item	2947	The Big Book of Pirate Insults	0	0	custom insult, once, att 0.3*buffedmox
+item	2956	cocktail napkin	30 hot	0	
+item	2966	TSM toothpaste	0	0	notmonster toothy pirate, att -{6,7,8}, def -{6,7,8}, !! mp 100-150 vs. toothy
+item	2992	clingfilm tangle	0	0	stun 2.5
+item	3020	handful of sawdust	0	0	att -{4,7,10}, def -{4,7,10}
+item	3039	cursed cannonball	buffedmus/2+1 spooky	0	
+item	3040	cursed voodoo skull	buffedmys hot,spooky	0	
+item	3041	cursed dirty joke scroll	buffedmox sleaze,spooky	0	
+item	3063	gyroscope	0	0	stun
+item	3065	buckyball	0	0	custom runaway
+item	3068	toy deathbot	max(5,floor(0.1*maxhp))+25	max(5,floor(0.1*maxhp))	
+item	3082	monomolecular yo-yo	40	0	
+item	3083	stuffed gray blob	0	0	custom
+item	3086	mylar scout drone	0	0	att -{10,11,12}*0.7, def -{10,11,12}*0.7, stun 0.7
+item	3098	killing feather	110	0	
+item	3099	golden ring	0	0	notmonster gaudy pirate, att -{20,25,30}, def -{20,25,30}, !! meat 500 vs gaudy
+item	3100	robotronic egg	14.2	11.7	stun 0.20, 
+item	3101	rogue swarmer	floor(50+10*itemamount^0.7)	0	
+item	3102	sawblade fragment	125	0	
+item	3103	unstable laser battery	225 hot	0	
+item	3109	Miniborg stomper	17.5	0	
+item	3110	Miniborg strangler	0	0	att -{3,4,5}, def -{3,4,5}
+item	3111	Miniborg laser	17.5 hot	0	
+item	3112	Miniborg beeper	{20,22.5,25}	{15,17.5,20}	
+item	3113	Miniborg hiveminder	0	0	att -9
+item	3114	Miniborg Destroy-O-Bot	{20,25,30} none,hot	0	att -{3,4,5}, def -{3,4,5}
+item	3118	divine noisemaker	buffedmus	0	
+item	3119	divine can of silly string	buffedmys	0	
+item	3120	divine blowout	buffedmox	0	
+item	3121	divine champagne popper	0	0	custom banish 5, endscombat
+item	3122	divine cracker	0	0	att -{10,12.5,15}, def -{10,12.5,15}
+item	3146	EV punchcard (115 holes) - ATTACK	0	0	stun loc(vibrato)
+item	3147	EV punchcard (97 holes) - REPAIR	0	0	stun loc(vibrato)
+item	3148	EV punchcard (129 holes) - BUFF	0	0	stun loc(vibrato)
+item	3149	EV punchcard (213 holes) - MODIFY	0	0	stun loc(vibrato)
+item	3150	EV punchcard (165 holes) - BUILD	0	0	stun loc(vibrato)
+item	3151	EV punchcard (142 holes) - TARGET	0	0	stun loc(vibrato)
+item	3152	EV punchcard (216 holes) - SELF	0	0	stun loc(vibrato)
+item	3153	EV punchcard (88 holes) - FLOOR	0	0	stun loc(vibrato)
+item	3154	EV punchcard (182 holes) - DRONE	0	0	stun loc(vibrato)
+item	3155	EV punchcard (176 holes) - WALL	0	0	stun loc(vibrato)
+item	3156	EV punchcard (104 holes) - SPHERE	0	0	stun loc(vibrato)
+item	3158	sparking El Vibrato drone	275	0	
+item	3195	naughty paper shuriken	17 sleaze	0	!! stuns pants-dropping monsters
+item	3339	sharpened hubcap	450	0	
+item	3340	very large caltrop	175	0	stun 5.5
+item	3341	The Six-Pack of Pain	buffedmus	0	att -110, def -110
+item	3349	dinged-up triangle	0	0	custom, !! summons a hobo underling
+item	3388	Zombo's empty eye	{150,175,200} spooky	0	att -{30,40,50}, def -{30,40,50}, once
+item	3391	Frosty's iceball	250 cold	0	custom
+item	3403	lewd playing card	250 none,sleaze	0	
+item	3448	rainbow bomb	150 none,prismatic	0	
+item	3462	terrible poem	5.5	0	
+item	3467	bargain flash powder	0	0	custom runaway 0
+item	3480	black spot	35	0	!! damage is ongoing
+item	3594	Mer-kin killscroll	1750	0	phylum mer-kin
+item	3597	imitation crab meat	200	0	underwater
+item	3608	live nautical mine	zone(sea)*422	494-zone(sea)*389	
+item	3643	pufferfish spine	0	0	
+item	3665	Spooky putty sheet	0	0	custom copy
+item	3679	ink bladder	0	0	underwater, custom runaway 0.8
+item	3696	anemone nematocyst	0	0	stun 1.5+zone(sea)*2
+item	3697	high-pressure seltzer bottle	0	0	mp 175
+item	3726	possessed tomato	7 spooky	0	!! damage is ongoing
+item	3729	hand grenegg	7 stench	0	!! damage is ongoing
+item	3730	caret	0	0	custom, !! next attack is guaranteed crit
+item	3734	Colon Annihilation Hot Sauce	7 hot	0	!! damage is ongoing
+item	3740	handful of bees	90	0	!! damage is ongoing
+item	3741	spectral jelly	0	0	custom, !! makes you nearly impervious to damage
+item	3744	software glitch	0	0	custom, !! turns opponent into bugged bugbear; grants 1 Adventure on first use
+item	3754	love song of vague ambiguity	buffedmus	-min(100,ceil(5*sqrt(max(0,min(buffedmus,monsterhp)))))	
+item	3755	love song of smoldering passion	buffedmys hot	0	mp min(50,ceil(5*sqrt(max(0,min(buffedmys,monsterhp)))))
+item	3756	love song of icy revenge	buffedmox cold	0	
+item	3757	love song of sugary cuteness	buffedmus stench	0	
+item	3758	love song of disturbing obsession	buffedmys spooky	0	
+item	3759	love song of naughty innuendo	buffedmox sleaze	0	
+item	3775	Mer-kin pinkslip	0	0	phylum mer-kin, custom runaway
+item	3809	Mer-kin healscroll	0	-(300+zone(sea)*(maxhp-myhp))	
+item	3827	golden plastic oyster egg	0	0	custom runaway 0.3
+item	3898	bottle of Gu-Gone	{10,15,20}*loc(convention hall lobby)	0	
+item	3923	hedgeturtle	45	0	!! causes bleeding
+item	3977	painted turtle	75 prismatic	0	
+item	3980	blue shell	min(max(monsterhp-myhp,0),1)*25	min(max(myhp-monsterhp,0),1)*25	!! 2 each white/blue pixels if it attacks you
+item	3985	soup turtle	7.5 hot	0	
+item	3986	samurai turtle	7.5	0	!! throws any ninja/throwing stars in your inventory for much more damage
+item	4011	memory of a CA base pair	0	0	notmonster cyrus, def -buffedmus, !! actually gives +100% muscle
+item	4012	memory of a CG base pair	0	0	notmonster cyrus, !! +100% myst
+item	4013	memory of a CT base pair	0	0	notmonster cyrus, att -buffedmox, !! actually gives +100% moxie
+item	4014	memory of an AG base pair	0	0	notmonster cyrus, !! +200% init
+item	4015	memory of an AT base pair	0	0	notmonster cyrus, att 30, def 30
+item	4016	memory of a GT base pair	0	0	notmonster cyrus, !! +200 DA
+item	4045	wumpus-hair bolo	0	0	custom runaway 0.5
+item	4046	wumpus-hair net	0	0	att -11, def -11, stun
+item	4084	pool of liquid metal	3.75	-6.25	mp 5, stun 0.25
+item	4087	facehugging alien	200	0	!! damage is delayed by a few rounds
+item	4116	rickety old unicycle	7478	0	
+item	4117	crusty hula hoop	3967	0	
+item	4118	Coily	{3000,5500,8000}	0	custom, !! this damage is delayed 1-3 rounds
+item	4119	old-school flying disc	3000	0	
+item	4120	lawn dart	3000	0	!! dmg occurs 1-3 turns later
+item	4121	red wagon	3776	0	
+item	4137	slime stack	monsterhp*0.15	0	att -monsterattack*0.1, def -monsterdefense*0.1
+item	4169	4-d camera	0	0	custom copy
+item	4196	sea cowbell	0	0	custom, stun, att -75, def -75
+item	4198	sea lasso	0	0	custom, once
+item	4208	skate skates	{150,225,300}	0	stun
+item	4210	roller skate decoy	0	0	custom
+item	4212	underwater slingshot	100	0	underwater
+item	4214	spangly unitard	175	0	att -15, def -15
+item	4216	groupie lipstick	200 sleaze	0	
+item	4231	ice skate decoy	0	0	custom
+item	4236	can of sterno	17.5 hot	0	!! ongoing 10-20 hot
+item	4251	fish-oil smoke bomb	0	0	custom runaway
+item	4256	spooky sap	0	0	att -25, def -25
+item	4257	petrified wood	110 none,spooky	0	
+item	4280	Mer-kin sawdust	475	0	stun, underwater
+item	4330	candy kneecapping stick	15+10*min(1,effect(17))	0	
+item	4331	licorice garrote	0	0	att -(10+sqrt(effect(17))), def -(10+sqrt(effect(17)))
+item	4423	sealhide snare	0	0	stun {2,2.5,3}
+item	4454	grass clippings	0	0	att -{3,4,5}, def -{3,4,5}, !! defeats Landscaper
+item	4491	black BRICKO brick	0	0	stun 2, !! stuns much longer vs BRICKOs
+item	4492	green BRICKO brick	4	0	!! poisons BRICKOs for 10% of their remaining hp
+item	4493	broken BRICKO brick	{50,75,100}	0	!! this dmg is ongoing and x10 vs BRICKOs
+item	4494	BRICKO reactor	50000	0	
+item	4521	croquet hedgehog	0	0	att -{5,7.5,10}, def -{5,7.5,10}
+item	4582	fat bottom quark	{25,32.5,40} stench	0	
+item	4583	big glob of skin	0	-0.5*(maxhp-myhp)	
+item	4586	boulder	{20,25,30}	0	
+item	4587	tiny goth giant	0	0	
+item	4594	pixel cross	90	0	!! damage happens again the following round
+item	4595	pixel holy water	{50,55,60}	0	!! damage is ongoing
+item	4598	pixel stopwatch	0	0	stun 5
+item	4601	plastic cup of beer	{30,35,40}*(1-loc(kegger)) sleaze	0	!! special results against Kegger monsters
+item	4603	bronze handcuffs	0	0	custom, !! handcuffs you to the monster - both your attacks never miss
+item	4618	plastic cup of flat beer	{30,35,40} sleaze	0	!! +15 items at end of combat
+item	4627	finger cuffs	0	0	stun {2,2.5,3}
+item	4628	little parachute guy	0	-15	custom, mp 15, !! restores 10-20 HP/MP at end of combat
+item	4698	imp air	{35,37.5,40} hot	0	
+item	4699	bus pass	47.5	0	
+item	4736	tangle of rat tails	60 sleaze|110 stench	0	custom
+item	4766	pumpkin bomb	0	0	custom yellow, endscombat
+item	4864	portable photocopier	0	0	custom
+item	4867	paperclip sproinger	12.5	0	stun 2
+item	4872	glob of Blank-Out	0	0	custom runaway
+item	4948	GOTO	0	0	custom runaway 0.3, stun
+item	5048	shard of double-ice	max(buffedmus,max(buffedmox,buffedmys)) cold	0	once, !! aligns monster to cold
+item	5059	Skullhead's Screw	15 sleaze	0	custom, !! utters profanity?
+item	5073	Russian Ice	0	0	att -{14,14.5,15}, def -{13,14,15}
+item	5105	paint bomb	{25,37.5,50} prismatic	0	!! this is ongoing
+item	5120	Massive Manual of Marauder Mockery	0	0	custom insult, once, att 0.3*buffedmox
+item	5225	The Bomb	monsterhp	0	!! insta-kills non-bosses, deals 450 to bosses
+item	5229	unbearable light	0	0	custom yellow, endscombat
+item	5230	oversized snowflake	0	0	stun 3
+item	5231	crystal skull	0	0	custom banish 20, endscombat
+item	5233	box of hammers	450	0	!! insta-kills objects
+item	5268	holy bomb, batman	450	0	!! insta-kills undead
+item	5269	bobcat grenade	450	0	!! insta-kills beasts
+item	5270	chocolate frosted sugar bomb	{200,250,300}	0	att -20, def -20, !! range unspaded
+item	5271	broken glass grenade	{100,150,200}	0	att -50, def -50, !! range unspaded
+item	5272	noxious gas grenade	{200,250,300} stench|150 none	0	!! also does ongoing poison damage starting same round
+item	5273	skull with a fuse in it	450	0	
+item	5274	boozebomb	450	0	!! insta-kills orcs
+item	5280	4:20 bomb	450	0	!! insta-kills hippies
+item	5285	d4	0	0	att -monsterattack*0.25, def -monsterdefense*0.25
+item	5286	d6	{1,73.5,216} cold	0	stun 3.5
+item	5287	d8	ceil(L/3.0)*{1,4.5,8}*5 prismatic	0	
+item	5288	d10	0	0	att -17.5, def -17.5
+item	5289	d12	L*{1,6.5,12} cold,hot,spooky,sleaze,stench	0	
+item	5290	d20	L*{1,10.5,20} hot	0	
+item	5308	ghost trap	0	0	custom, endscombat
+item	5309	chainsaw chain	70	0	stun, att -20, def -24
+item	5327	ghost protocol	0	0	custom, !! makes you Spectral for 3 rounds
+item	5346	death blossom	112.5 prismatic	0	
+item	5370	miniature boiler	30	0	aoe 10, !! deals 200-400 damage to group monsters
+item	5398	peppermint crook	0	0	custom, !! pickpocket an item
+item	5401	peppermint parasol	0	0	custom runaway
+item	5413	candycaine powder	4	0	!! poison 1.5x multiplier
+item	5431	cinnamon troll doll	{3,4,5} hot	0	once, !! ongoing damage until end of combat
+item	5432	grape troll doll	{3,4,5} sleaze	0	once, !! ongoing damage until end of combat
+item	5433	blue raspberry troll doll	{3,4,5} cold	0	once, !! ongoing damage until end of combat
+item	5445	clumsiness bark	15	0	stun, !! 1000 damage against bat in spats or fist-drawn Thorax
+item	5446	jar full of wind	0	0	custom, stun, att -9, def -9
+item	5447	dangerous jerkcicle	30 cold	0	!! deals crazy damage to snitch
+item	5528	whimpering willow bark	0	-min(0.25*maxhp,0.5*(maxhp-myhp))	
+item	5531	cup of hickory chicory	0	0	mp {30,40,50}
+item	5532	magnolia blossom	0	-22.5	mp 22.5
+item	5536	Winifred's whistle	0	0	custom banish 5, endscombat
+item	5538	half-empty carton of milk	{50,75,100} stench	0	
+item	5542	pink-belly slapper	0	-{8,12,16}	stun, att -{9,9.5,10}, def -{8,8.5,9}
+item	5557	Rain-doh orange agent	{10,30,50}+20	0	meat -{10,30,50}
+item	5560	Rain-doh blue balls	{10,15,20} cold	0	once, stun 3
+item	5561	Rain-doh indigo cup	0	-0.2*maxhp	once, stun
+item	5563	Rain-doh black box	0	0	custom copy
+item	5642	ancient poisoned dart	8	0	!! poison 0.5 multiplier
+item	5676	pool torpedo	{250,300,350}	0	underwater, !! sometimes not consumed when single-used
+item	5678	soggy used band-aid	0	-maxhp	stun 3
+item	5686	quantum nanopolymer spider web	0	0	stun, att -{18,18.5,19}
+item	5689	drone self-destruct chip	57.5 hot	0	
+item	5691	pacification grenade	0	0	att -{18,19,20}, def -{18,19,20}
+item	5700	The Lost Comb	0	0	stun 3, once
+item	5703	crayon shavings	0	0	att -0.3*monsterattack, def -0.3*monsterdefense, !! copies bugbears rather than delevels them
+item	5719	smoking grass	{250,275,300} hot	0	att -50, def -50
+item	5729	ballpark hot daub	{450,475,500} hot	0	stun, att -75, def -75
+item	5750	CSA obedience grenade	0	0	stun 3, att -monsterattack*0.05, def -monsterdefense*0.05
+item	5907	pixel energy tank	0	-1000	mp 1000, !! restore
+item	5980	cartoon heart	0	-50	!! also gives Healthy Red Glow (10 turns)
+item	5981	gold star	0	0	mp 25, !! also gives Healthy Blue Glow (10 turns)
+item	5983	vial of holy water	50 hot	0	
+item	5988	red potion	0	-100	
+item	5989	blue potion	0	0	mp 25
+item	5991	round blue bomb	{90,100,110} hot	0	
+item	5996	extra-strength red potion	0	-200	
+item	5997	fancy blue potion	0	0	mp 100, !! also gives Healthy Blue Glow (40 turns)
+item	5999	fireball	200 hot	0	
+item	6026	Duskwalker syringe	32.5 spooky	0	
+item	6027	Space Tours Tripple	0	0	att -5.5, def -5.5, !! removes Beaten Up when used out of combat
+item	6028	Battle Light Saver	40	0	stun
+item	6029	T.U.R.D.S. Key	0	0	custom runaway 0.1
+item	6043	oily boid	0	0	stun, att -{5,6.5,8}, def -{5,6.5,8}
+item	6097	classy monkey	0	0	custom banish 20, endscombat
+item	6103	Artist's Whisk of Misery	15	0	
+item	6104	Artist's Butterknife of Regret	15	0	
+item	6105	Artist's Spatula of Despair	15	0	
+item	6106	Artist's Cookie Cutter of Loneliness	15	0	
+item	6107	Artist's Creme Brulee Torch of Fury	15	0	
+item	6118	strange goggles	0	0	!! for defeating The Server
+item	6119	brass abacus	0	0	stun 4
+item	6135	tube of herbal ointment	0	-{14,15,16}	
+item	6136	pencil kunai	25	0	
+item	6138	great big capacitor	30	0	stun
+item	6140	Chinese curse words	0	0	stun 3
+item	6238	The Jick-o-loser	0	myhp	endscombat
+item	6278	Ye Olde Medieval Insult	0	0	att -{15,17.5,20}, def -{15,17.5,20}, stun
+item	6282	chipotle wasabi cilantro aioli	{30,35,40}|{40,45,50} prismatic	0	
+item	6284	brass gear	25	0	!! ongoing 18 damage
+item	6344	Mer-kin mouthsoap	0	0	att -280, def -280
+item	6361	pulled yellow taffy	0	0	underwater, custom yellow, endscombat
+item	6362	pulled indigo taffy	0	0	underwater, custom banish 20, endscombat
+item	6363	pulled green taffy	0	0	underwater, once, custom copy
+item	6364	pulled blue taffy	0	0	underwater, once, !! guarantees next critical and improves critchance for the rest of the fight
+item	6365	pulled orange taffy	{150,200,250}	0	underwater, once, !! damage is ongoing!
+item	6366	pulled violet taffy	0	-300	underwater, once, mp 150, stun 0.5, !! stun is ongoing; restoration happens at end of combat!
+item	6367	pulled red taffy	0	0	underwater, once, custom, item mer-kin lunchbox
+item	6370	twisted piece of wire	0	0	stun 2
+item	6374	angry inch	0	0	att -15, att -13
+item	6379	chlorine crystal	30 stench	0	
+item	6382	nugget of sodium	30 hot,stench	0	
+item	6384	jigsaw blade	15	0	stun, !! ongoing bleed damage
+item	6385	wood screw	25	0	stun
+item	6387	blob of wood glue	0	0	att -monsterattack*0.1, def -monsterdefense*0.1, stun 0.5, !! stagger unspaded
+item	6414	clutch of dodecapede eggs	22.5	0	att -12, def -10, !! damage is poison with 0.5 multiplier
+item	6418	pencil stub	11|15 hot,cold,spooky,sleaze,stench	-11	mp 7, att -7, def -7, !! 1 random result of 5
+item	6452	Great Wolf's lice	0	0	once, phylum beast, stun, att -0.3*monsterattack, def -0.3*monsterdefense
+item	6459	HOA citation pad	0	0	once, att -25, def -25, stun
+item	6467	Mayor Ghost's scissors	0	0	once, phylum undead, stun, att -0.3*monsterattack, def -0.3*monsterdefense
+item	6472	Drunkula's bell	0.18*buffedmys cold	0.2*maxhp cold	once, aoe 10
+item	6502	Dreadsylvanian seed pod	0	-(maxhp-myhp)	
+item	6574	hot clusterbomb	max(buffedmus,max(buffedmys,buffedmox)) hot	0	aoe 3
+item	6575	cold clusterbomb	max(buffedmus,max(buffedmys,buffedmox)) cold	0	aoe 3
+item	6576	spooky clusterbomb	max(buffedmus,max(buffedmys,buffedmox)) spooky	0	aoe 3
+item	6577	stench clusterbomb	max(buffedmus,max(buffedmys,buffedmox)) stench	0	aoe 3
+item	6578	sleaze clusterbomb	max(buffedmus,max(buffedmys,buffedmox)) sleaze	0	aoe 3
+item	6653	surgical tape	0	-25	att -8, def -7
+item	6656	illegal firecracker	35 none,hot	0	
+item	6664	world's most dangerous birdhouse	monsterhp*2	0	endscombat, !! insta-kill even vs. tower monsters
+item	6666	giant eraser	0	0	custom runaway, !! free runaway
+item	6670	sticky clay homunculus	0	0	custom copy, endscombat
+item	6673	yellowcake bomb	0	0	custom yellow, endscombat
+item	6674	dirty stinkbomb	0	0	custom banish, endscombat, !! banishes a monster for the day
+item	6683	book of matches	50 hot	0	!! unlocks Hidden Tavern out of combat
+item	6696	bowling ball	0	0	stun, att -7, def -11, !! also useful in Hidden City
+item	6708	crude voodoo doll	0	0	att -max(min(10+monsterattack-buffedmox,100),10), def -max(min(10+monsterdefense-buffedmus,100),10)
+item	6711	short writ of habeas corpus	0	0	custom runaway, phylum dude
+item	6713	adder	35	0	!! ongoing 50% poison damage
+item	6714	short calculator	0	0	!! Special results vs pygmies
+item	6717	tongue depressor	0	0	stun
+item	6736	Junk-Bond	0	0	att -9.5, def -9.5, stun
+item	6738	jagged scrap metal	25	0	!! damage is ongoing
+item	6740	molten scrap metal	25 hot	0	!! damage is ongoing
+item	6774	tin snips	9	0	!! ongoing damage stacks with itself
+item	6832	Way More Tears pepper spray	13.5 hot	0	att -9, def -9, !! item consumed on 9th use
+item	6847	killing jar	0	0	stun, custom, att -9, def -9
+item	6853	carton of rotten eggs	13.5 stench	0	att -9, def -9, !! item consumed on 9th use
+item	6864	dinner roll	buffedmus	0	
+item	6865	cold mashed potatoes	buffedmys cold	0	
+item	6866	whole turkey leg	buffedmox sleaze	0	
+item	6871	old-school beer pull tab	25	0	!! damage is ongoing
+item	7013	Golden Light	0	0	custom yellow, endscombat
+item	7014	Louder Than Bomb	0	0	custom banish 20, endscombat
+item	7015	Handsome Devil	monsterhp*2	0	endscombat, !! insta-kill
+item	7079	unfinished ice sculpture	0	0	custom copy, endscombat
+item	7081	ice house	0	0	custom banish, endscombat
+item	7099	pint of sweat	70 stench,sleaze	0	!! ongoing damage
+item	7173	crappy camera	0	0	custom copy, endscombat, !! 50% chance of failure
+item	7175	small golem	min(5000,monsterhp*0.1)	0	custom, once, !! ongoing 10% of max monster HP damage
+item	7193	throwing spoon	55	0	att -14, def -14
+item	7194	throwing fork	75	0	
+item	7196	shuriken salad	90 cold,stench,none	0	
+item	7199	blowdart	25	0	!! ongoing poison damage
+item	7208	fire of unknown origin	80 hot,spooky	0	
+item	7220	cigarette lighter	55	0	!! instakills zeppelin protesters
+item	7242	big red button	2500	0	
+item	7246	glark cable	monsterhp*6	0	endscombat, custom, monster man with the red buttons|red butler|Red Herring|red skeleton|Red Snapper|Red Fox
+item	7256	smoke grenade	0	0	custom banish 20, endscombat
+item	7260	firebomb	{40,45,50} hot	0	
+item	7266	disposable instant camera	0	0	custom, att -9, def -9, !! delevels 25-30 vs undead
+item	7333	droopy doll eye	70 spooky	0	
+item	7337	spooky alphabet block	10 spooky	2	stun 0.5, att -2, def -2, !! damage and healing unspaded
+item	7339	spooky music box mechanism	110 spooky	0	!! banishes till rollover in Spookyraven
+item	7345	ornate picture frame	0	0	stun, att -12.5, def -12.5
+item	7353	chunk of hot iron	60 hot	0	
+item	7360	plaid bandage	0	-135	
+item	7364	fabric softener	0	0	att -27.5, def -27.5
+item	7371	crazy hobo notebook	7 spooky	0	once, !! damage is ongoing every round for every fight in this zone until rollover
+item	7383	DNA extraction syringe	0	0	stun, once, custom
+item	7513	opium grenade	0	0	stun 2.5, !! extra effective vs hippies
+item	7518	wand of pigification	0	0	custom runaway, !! turns monster into a pig
+item	7542	space invader	350	0	custom, !! insta-kills non bosses
+item	7560	turtle-shaped rock	47.5	0	
+item	7642	ingot turtle	100 hot	0	once, !! changes monster alignment to hot
+item	7661	dumb mud	500	0	att -50, def -50, custom
+item	7679	throwing candy	37.5	0	att -15, def -14.5
+item	7761	holo-tank	5000	0	
+item	7762	holo-bomber	5000	0	
+item	7763	holo-platoon	5000	0	
+item	7788	ice-cold Cloaca Zero	150 cold	0	mp 2000
+item	7815	handful of napalm	125 hot	50 hot	!! ongoing fire damage (unspaded) to both you and the monster
+item	7831	military-grade fingernail clippers	0	0	custom
+item	7839	special clip: tracers	3*buffedmox hot	0	
+item	7840	special clip: wailers	3*buffedmox spooky	0	
+item	7841	special clip: squelchers	3*buffedmox sleaze	0	
+item	7842	special clip: splatterers	6*buffedmox spooky,sleaze	0	
+item	7843	special clip: boneburners	6*buffedmox hot,spooky	0	
+item	7844	special clip: graveburpers	6*buffedmox stench,spooky	0	
+item	7943	nastygeist	17 sleaze	0	!! damage is ongoing
+item	7945	portable table	0	0	stun 4.5
+item	7952	spooky lasso	buffedmox spooky	0	stun 1
+item	7954	rattler rattle	0	0	att -0.25*monsterattack, def -0.25*monsterdefense, !! delevels beasts by 75%!
+item	7969	beehive	27	0	stun 1, once
+item	7970	electric boning knife	9	0	once, !! damage is ongoing
+item	7975	linen bandages	0	-30	
+item	7976	cotton bandages	0	-60	
+item	7977	silk bandages	0	-120	
+item	7978	holy spring water	0	0	mp 22.5, !! restores more out of combat
+item	7979	spirit beer	0	0	mp 45, !! restores more out of combat
+item	7980	sacramental wine	0	0	mp 90, !! restores more out of combat
+item	8033	alpine watercolor set	0	0	custom, stun 1
+item	8072	janitor sponge	25 stench	0	stun
+item	8136	talisman of Renenutet	0	0	custom, !! gives +300% items for this fight
+item	8147	time shuriken	7.5	0	
+item	8210	bag of gross foreign snacks	17.5 stench	0	custom, !! damage is ongoing all day in this zone
+item	8228	grody jug	buffedmys stench	0	once, !! aligns the monster to stench
+item	8243	complimentary Dinsey refreshments	0	0	custom
+item	8268	tomayohawk-style reflex hammer	5 sleaze	0	stun, once
+item	8269	mayo lance	0	0	custom yellow, endscombat
+item	8280	Golden Kokomo Resort Chip	0	0	custom
+item	8282	Kokomo Resort Order Pad	30 hot	0	
+item	8300	power pill	monsterhp*6	0	custom, endscombat, !! insta-kill; requires Puck familiar
+item	8425	New Age healing crystal	0	-500	stun 0.8, !! stagger rate unspaded
+item	8427	fizzing spore pod	30	0	
+item	8428	paisley spore pod	0	0	stun 2.5
+item	8429	veiny spore pod	0	0	def -buffedmus*2
+item	8430	hard spore pod	0	0	0
+item	8431	glowing spore pod	0	0	!! buffs myst +200%
+item	8432	hot spore pod	0	0	!! +100 Hot Spell Damage
+item	8433	cool spore pod	0	0	att -buffedmox*2
+item	8434	jingling spore pod	0	0	!! +100 ranged damage
+item	8455	glowing New Age crystal	0	0	mp 500, stun 0.8, !! stagger rate unspaded
+item	8489	New Age hurting crystal	500	0	
+item	8522	superduperheated metal	monsterhp*6	0	custom, endscombat, !! insta-kill
+item	8650	tennis ball	0	0	custom banish 30, endscombat
+item	8652	ear poison	90	0	stun, !! damage is ongoing 50% poison
+item	8694	ice hotel bell	275 cold	0	
+item	8708	abstraction: action	0	0	once, monster Thinker of Thoughts, item abstraction: joy
+item	8709	abstraction: thought	0	0	once, monster Perceiver of Sensations, item abstraction: certainty
+item	8710	abstraction: sensation	0	0	once, monster Performer of Actions, item abstraction: motion
+item	8772	overloaded micro-reactor	300	0	
+item	8777	bundle of "fragrant" herbs	0	0	custom, !! 10-daily free banish during Crimbo 2015
+item	8778	nuclear stockpile	0	0	custom, !! 10-daily insta-kill during Crimbo 2015
+item	8788	nasty-smelling moss	0	-25	once, stun
+item	8789	little red book	0	0	once, stun, att -0.05*monsterattack, def -0.05*monsterdefense
+item	8888	Pecos Dave's sixgun	50	0	stun, once
+item	8896	cow poker	50	0	once, !! grants demonic cow's blood vs. cows
+item	8898	realistic cap gun	monsterhp*0.1	0	
+item	8913	western-style skinning knife	0	0	once
+item	8914	reliable sixgun	20	0	once
+item	8931	rinky-dink sixgun	15	0	once
+item	8932	makeshift sixgun	25	0	once
+item	8933	custom sixgun	35	0	once
+item	8934	baconstone-handled sixgun	35	-25	once
+item	8935	porquoise-handled sixgun	35	0	mp 25, once
+item	8936	hamethyst-handled sixgun	35	-12.5	mp 12.5, once
+item	8970	toy sixgun	5	0	once
+item	9017	viral video	0	0	custom yellow, once, endscombat
+item	9022	print screen button	0	0	custom copy
+item	9024	daily dungeon malware	0	0	monster tonic water elemental, item fat loot token
+item	9104	Time-Spinner	0	0	att -0.05*monsterattack, def -0.05*monsterdefense, stun, once
+item	9118	Riker's search history	950 sleaze	0	
+item	9125	droppable microphone	1000	0	custom, endscombat, !! chance of insta-kill or otherwise lotsa damage
+item	9131	extremely confusing manual	0	0	stun
+item	9164	stuffing fluffer	60	0	!! used out of combat kills ~30 battlefield enemies on each side
+item	9188	bomb of unknown origin	160 hot,spooky	0	custom
+item	9217	gingerbread restraining order	0	0	custom banish, endscombat, once
+item	9237	gingerbread cigarette	0	0	monster gingerbread convict|gingerbread lawyer|Judge Fudge, once, custom runaway, !! free runaway
+item	9323	LOV enamorang	0	0	once, custom, !! creates a single wandering copy of this monster
+item	9452	murderbot live wire	19 hot	0	once, !! damage is ongoing every round for every fight in this zone until rollover
+item	9479	Daily Affirmation: Always be Collecting	0	0	custom, !! rolls items drops twice a la Duplicate
+item	9480	Daily Affirmation: Think Win-Lose	monsterhp*6	0	once, endscombat, !! insta-kill
+item	9481	Daily Affirmation: Be Superficially interested	0	0	custom attract, once
+item	9483	Daily Affirmation: Be a Mind Master	0	0	custom banish, once, endscombat
+item	9484	Daily Affirmation: Work For Hours a Week	0	0	custom, meat min(11111,max(111,14*(monsterhp+monsterattack+monsterdefense)))
+item	9497	exploding cigar	monsterhp*6	0	once, endscombat, !! insta-kill
+item	9554	pair of scissors	monsterhp*0.1	0	!! doesn't work vs bosses
+item	9568	little piece of steel	0.66*buffedmus none,hot	0	!! breaks after 5 uses
+item	9577	mafia filofax	0	0	custom, !! increases chance of next noncombat
+item	9683	burning newspaper	130 hot	0	stun, !! hot damage decreases on multiple uses per fight
+item	9815	sitrep berry	0	-maxhp*0.75	!! 20 turns of Berry Experiential
+monster	-89	Count Drunkula (Hard Mode)	0	0	damagecap min(600,D*(7-castlekisses)), capexp 1
+monster	-86	Mayor Ghost (Hard Mode)	0	0	nostagger, nostun
+monster	-85	The Unkillable Skeleton (Hard Mode)	2.5 prismatic	0	noitems, noskills
+monster	-84	Zombie Homeowners' Association (Hard Mode)	0	0	nostagger
+monster	-32	Sssshhsssblllrrggghsssssggggrrgglsssshhssslblgl	0	0	noitems 0.5, delevelres 1.0, maxround 6
+monster	133	Flock of Stab-Bats	0	0	group 4
+monster	144	Troll Twins	0	0	group 2
+monster	167	Irritating Series of Random Encounters	0	0	group 20
+monster	180	Family Jewels	0	0	group 2
+monster	198	Bonerdagon	0	0	noskills 0.25, noitems 0.25
+monster	210	Your Shadow	0	0	nostun, autohit, noskills
+monster	221	Swarm of Killer Bees	0	0	group 6
+monster	226	Cloud of Disembodied Whiskers	0	0	group 20
+monster	237	X-headed Hydra	0	0	maxround 50
+monster	238	Ghost of Fernswarthy's Grandfather	0	0	maxround 50
+monster	239	Beast with X Eyes	0	0	maxround 50
+monster	240	Beast with X Ears	0	0	maxround 50
+monster	241	X Bottles of Beer on a Golem	0	0	maxround 50, spellres
+monster	242	X Stone Golem	0	0	maxround 50
+monster	243	Naughty Sorceress	0	0	maxround 50, noskills 0.5, noitems 0.75, damagecap 111, capexp 0.75
+monster	244	Naughty Sorceress (2)	0	0	maxround 50, noskills 0.5, noitems 0.75, damagecap 111, capexp 0.75
+monster	257	Mad Bugbears	0	0	group 3
+monster	336	eXtreme Sports Orcs	0	0	group 2
+monster	352	Twig and Berries	0	0	group 3
+monster	394	Guy with a Pitchfork, and his Wife	0	0	group 2
+monster	401	Zombie Waltzers	0	0	group 2
+monster	410	War Hippy Dread Squad	0	0	group 2
+monster	418	blackberry bush	0	0	retal 5.5
+monster	448	Pygmy Assault Squad	0	0	group 2
+monster	456	Swarm of Scarab Beatles	0	0	group 4
+monster	461	Swarm of Fire Ants	0	0	group 20
+monster	465	cactuary	0	0	retal 5.5
+monster	510	Naughty Sorority Nurse	0	0	automiss
+monster	545	The Big Wisniewski	0	0	maxround 50
+monster	546	Erudite Gremlin	0	0	autohit
+monster	547	Erudite Gremlin (tool)	0	0	autohit
+monster	548	Batwinged Gremlin	0	0	autohit
+monster	549	Batwinged Gremlin (tool)	0	0	autohit
+monster	550	Vegetable Gremlin	0	0	autohit
+monster	551	Vegetable Gremlin (tool)	0	0	autohit
+monster	552	Spider Gremlin	0	0	autohit
+monster	553	Spider Gremlin (tool)	0	0	autohit
+monster	554	A.M.C. Gremlin	0	0	autohit
+monster	555	The Man	0	0	maxround 50
+monster	592	X-dimensional Horror	0	0	maxround 50
+monster	624	Chatty Pirate	0	0	nostun
+monster	669	Hulking Construct	5 prismatic	0	
+monster	675	Hulking Construct (translated)	5 prismatic	0	
+monster	688	Hodgman, The Hoboverlord	1.25 prismatic	0	nostun, damagecap 500, capexp 0.85, !! WARNING: BatBrain presently assumes Frosty was defeated
+monster	692	Spooky Hobo	5.0 prismatic	0	
+monster	694	Ol' Scratch	0	0	nostun, damagecap 500, capexp 0.7
+monster	695	Frosty	5 prismatic	0	nostun, aura 10 cold, !! aura damage unknown
+monster	696	Oscus	0	0	nostun, damagecap 500, capexp 0.75
+monster	697	Zombo	5.0 prismatic	0	nostun, damagecap 500, capexp 0.65
+monster	698	Chester	0	0	nostun, noitems 1.0, damagecap 500, capexp 0.65
+monster	699	Flock of seagulls	0	0	group 2
+monster	707	Gang of Hobo Muggers	0	0	damagecap 500, capexp 0.7
+monster	717	School of Wizardfish	0	0	group 4
+monster	757	Pufferfish	0	0	autohit
+monster	771	Mer-kin Raider	0	0	damagecap 400, capexp 0.75
+monster	774	Trophyfish	1.25 prismatic	0	damagecap 500, capexp 0.8
+monster	778	wild seahorse	5 prismatic	0	
+monster	792	Mother Slime	0	0	variable, noitems, damagecap 200, capexp 0.7
+monster	793	Spawn of Wally	0	0	onlyhurtby club
+monster	794	broodling seal	0	0	onlyhurtby club
+monster	795	Centurion of Sparky	0	0	onlyhurtby club
+monster	796	hermetic seal	0	0	onlyhurtby club
+monster	797	watertight seal	0	0	onlyhurtby club
+monster	798	shadow of Black Bubbles	0	0	onlyhurtby club
+monster	799	Servant of Grodstank	0	0	onlyhurtby club
+monster	800	heat seal	0	0	onlyhurtby club
+monster	801	navy seal	0	0	onlyhurtby club
+monster	802	wet seal	0	0	onlyhurtby club
+monster	811	Cyrus the Virus	5 prismatic	0	nostun
+monster	828	Group of cultists	0	0	group 3
+monster	838	Mer-kin Teacher	0	0	nostun, damagecap 500, capexp 0.75
+monster	839	Mer-kin Punisher	0	0	damagecap 500, capexp 0.75
+monster	840	Mer-kin Researcher	0	0	nostun, damagecap 400, capexp 0.75
+monster	841	Mer-kin Trainer	0	0	damagecap 600, capexp 0.75
+monster	842	Mer-kin Balldodger	0	0	nostagger, nostun
+monster	843	Mer-kin Netdragger	0	0	nostagger, nostun
+monster	844	Mer-kin Bladeswitcher	0	0	nostagger, nostun
+monster	849	Mer-kin Poseur	0	0	damagecap 600, capexp 0.75
+monster	850	Mer-kin Alphabetizer	0	0	nostun, damagecap 400, capexp 0.75
+monster	851	Mer-kin Drifter	0	0	nostun, damagecap 400, capexp 0.75
+monster	852	Mer-kin Monitor	0	0	nostun, damagecap 500, capexp 0.75
+monster	853	Mer-kin Juicer	0	0	damagecap 600, capexp 0.75
+monster	854	Crys-Rock	2.5 prismatic	0	
+monster	879	Georgepaul, the Balldodger	0	0	nostagger, nostun
+monster	880	Johnringo, the Netdragger	0	0	nostagger, nostun
+monster	881	Ringogeorge, the Bladeswitcher	0	0	nostagger, nostun
+monster	882	Gorgolok, the Infernal Seal (Volcanic Cave)	1.5 none,prismatic	0	onlyhurtby club, damagecap 100, 
+monster	883	Stella, the Turtle Poacher (Volcanic Cave)	1.25 prismatic	0	damagecap 100, capexp 0.85
+monster	884	Spaghetti Elemental (Volcanic Cave)	0	0	damagecap 100, capexp 0.85
+monster	885	Lumpy, the Sinister Sauceblob (Volcanic Cave)	1.25 prismatic	0	damagecap 100, capexp 0.85
+monster	886	Spirit of New Wave (Volcanic Cave)	1.25 prismatic	0	damagecap 100, capexp 0.85
+monster	887	Somerset Lopez, Dread Mariachi (Volcanic Cave)	1.25 prismatic	0	damagecap 100, capexp 0.85
+monster	888	Gorgolok, the Demonic Hellseal	2 prismatic	0	onlyhurtby club, damagecap 75, capexp 0.65
+monster	889	Stella, the Demonic Turtle Poacher	2 prismatic	0	damagecap 50, capexp 0.65
+monster	890	Spaghetti Demon	2 prismatic	0	damagecap 75, capexp 0.65
+monster	891	Lumpy, the Demonic Sauceblob	2 prismatic	0	damagecap 75, capexp 0.65
+monster	892	Demon of New Wave	2 prismatic	0	damagecap 75, capexp 0.65
+monster	893	Somerset Lopez, Demon Mariachi	2 prismatic	0	damagecap 75, capexp 0.65
+monster	917	The Landscaper	5 prismatic	0	autohit
+monster	925	BRICKO Vacuum Cleaner	0.5 prismatic	0	
+monster	927	BRICKO Cathedral	0	0	damagecap 1000, capexp 0.2
+monster	928	BRICKO Gargantuchicken	2.5 prismatic	0	damagecap 1000, capexp 0.2
+monster	935	swarm of lowercase As	0	0	group 6
+monster	949	The Whole Kingdom	5 prismatic	0	maxround 11, noitems
+monster	950	Ghost	0	0	automiss
+monster	983	Victor the Insult Comic Hellhound	0	0	
+monster	984	Larry of the Field of Signs	0	0	nostun
+monster	985	Carbuncle Top	0	0	nostun
+monster	986	reanimated bat skeleton	0	0	autohit
+monster	987	reanimated serpent skeleton	0	0	autohit
+monster	988	reanimated baboon skeleton	0	0	autohit
+monster	989	reanimated wyrm skeleton	0	0	autohit
+monster	990	reanimated demon skeleton	0	0	autohit
+monster	991	reanimated giant spider skeleton	0	0	autohit
+monster	992	Crate	0	0	automiss
+monster	995	Bunch of Drunken Rats	0	0	group 3
+monster	1059	Swarm of Knob Lice	0	0	group 100
+monster	1070	Modern Zmobie	0	0	nostun
+monster	1071	Dirty Old Lihc	0	0	nostun
+monster	1072	Swarm of Ghuol Whelps	0	0	group 15
+monster	1073	Big Swarm of Ghuol Whelps	0	0	group 15
+monster	1074	Giant Swarm of Ghuol Whelps	0	0	group 45
+monster	1076	moneybee	0	0	nostun
+monster	1077	Beebee Gunners	0	0	group 3
+monster	1078	Buzzerker	0	0	nostun
+monster	1079	Bee Swarm	0	0	nostun, group 3
+monster	1080	Beebee Queue	0	0	nostun, group 2
+monster	1081	Bee Thoven	2.5 prismatic	0	nostun, group 3, noitems 0.9, delevelres 0.75, spellres 0.5
+monster	1082	Beebee King	3 none,prismatic	0	nostun, delevelres 0.75, spellres 0.5
+monster	1083	Queen Bee	2.5 prismatic	0	nostun, noitems 0.9, delevelres 0.75, spellres 0.5
+monster	1099	Antique Database Server	0	0	automiss
+monster	1101	Family of Kobolds	0	0	group 100
+monster	1103	Sexy Sorority Skeleton	5 prismatic	0	
+monster	1106	Sexy Sorority Werewolf	2.5 prismatic	0	
+monster	1128	The Bat in the Spats	0	0	noskills
+monster	1141	The Large-Bellied Snitch	0	0	autohit
+monster	1142	Mammon the Elephant	0	0	autohit
+monster	1143	The Thing with No Name	0	0	damagecap 50, capexp 0.6, noitems 0.75
+monster	1144	Swarm of fudgewasps	0	0	group 3
+monster	1157	Groar	0	0	damagecap 50, capexp 0.7, autohit
+monster	1162	Clan of Cave Bars	0	0	group 10
+monster	1170	Black Ops Bugbear	1.25 prismatic	0	nostun
+monster	1171	Battlesuit Bugbear Type	2.5 prismatic	0	nostun 0.5
+monster	1173	trendy bugbear chef	3.75 prismatic|-0.5 cold,sleaze	0	nostun 0.5
+monster	1180	bugbear drone	2.5 prismatic	0	nostun 0.5
+monster	1181	liquid metal bugbear	2.5 prismatic		
+monster	1182	Bugbear Captain	1.25 prismatic	0	nostun
+monster	1183	angry cavebugbear	3.75 prismatic	0	nostun 0.5
+monster	1184	N-space Virtual Assistant	2.5 prismatic	0	nostun 0.6
+monster	1185	ninja snowman assassin	0	0	autohit
+monster	1210	blazing bat	5 none,hot,spooky,stench,sleaze	autohit, dodge 1.0	
+monster	1211	Servant of Lord Flameface	3 stench,sleaze,spooky	0	
+monster	1220	Deputy Nick Soames & Earl	0	0	group 2
+monster	1225	Rag-tag band of survivors	0	0	group 4
+monster	1236	oil tycoon	0.5 hot,stench|-0.5 cold	0	nostun, autohit
+monster	1237	oil baron	2.5 none,hot,spooky,stench,sleaze	0	nostun, autohit
+monster	1238	oil cartel	2.25 hot,stench,sleaze|1.0 spooky,cold	0	group 3, nostun, autohit
+monster	1240	Bubblemint Twins	0	0	group 2
+monster	1241	Big Wheelin' Twins	0	0	group 2
+monster	1242	Mismatched Twins	0	0	group 2
+monster	1323	procedurally-generated skeleton	0	0	variable
+monster	1331	Video Game boss	0	0	variable
+monster	1338	Clancy	0	0	nostagger, autohit
+monster	1339	Avatar of Boris	2.5 prismatic	0	
+monster	1371	moister oyster	1.25 prismatic	0	nostun, nostagger
+monster	1372	Mer-kin specter	0	0	nostun
+monster	1374	School of Many	0	0	group 20
+monster	1376	Peanut	1.25 cold,hot,spooky,sleaze,stench	0	
+monster	1377	Shub-Jigguwatt, Elder God of Violence	5.0 cold,hot,spooky,sleaze,stench	0	nostagger
+monster	1378	Yog-Urt, Elder Goddess of Hatred	0	0	nostagger, nostun, damagecap 100, capexp 0.7
+monster	1379	Dad Sea Monkee	0	0	nostagger, noitems, nostun, damagecap 301, maxround 12, variable
+monster	1389	Mayor Ghost	0	0	nostagger, nostun, variable
+monster	1390	Count Drunkula	0	0	maxround 11, damagecap D*(7-castlekisses), capexp 1
+monster	1391	The Unkillable Skeleton	2.5 prismatic	0	noitems
+monster	1425	Principal Mooney	1.5 prismatic	0	
+monster	1459	Warbear Foot Soldier	0	0	autohit
+monster	1466	Chef Boy, R&amp;D	2.5 prismatic	0	nostagger, nostun
+monster	1467	Warbear Officer	0	0	variable, damagecap 10, capexp 0.1, autohit
+monster	1468	High-Ranking Warbear Officer	0	0	variable, damagecap 10, capexp 0.1, nostagger, autohit
+monster	1564	ghost of Elizabeth Spookyraven	0	0	nostagger, nostun
+monster	1565	Stephen Spookyraven	0	0	nostagger, nostun
+monster	1569	Fun-Guy playmate	0	0	variable
+monster	1570	wild girl	0	0	nostagger, nostun
+monster	1571	broctopus	0	0	nostagger, nostun
+monster	1572	cocktail shrimp	0	0	nostagger, nostun
+monster	1574	son of a son of a sailor	0	0	nostagger, nostun
+monster	1575	drownedbeat	0	0	nostun
+monster	1602	storm cow	0	0	nostun, nostagger
+monster	1605	Aquabat	0	0	damagecap 12
+monster	1606	Aquagoblin	0	0	damagecap 23
+monster	1607	Auqadargon	0	0	damagecap 28
+monster	1608	Dr. Aquard	0	0	spellres, damagecap 12
+monster	1609	Lord Soggyraven	0	0	damagecap 39
+monster	1610	Protector Spurt	0	0	damagecap 21
+monster	1611	Gurgle	0	0	damagecap 56
+monster	1612	Big Wisnaqua	0	0	damagecap 200
+monster	1613	The Aquaman	0	0	damagecap 200
+monster	1614	The Rain King	0	0	damagecap 40
+monster	1632	one of Doctor Weirdeaux's creations	0	0	variable
+monster	1633	government scientist	0	0	nostagger, nostun
+monster	1673	Tasmanian Dervish	0	0	multiattack 3, dodge 0.7
+monster	1681	Mastermind	0	0	autohit, dodge 0.7
+monster	1695	Cheese Wizard	0	0	dodge 0.7
+monster	1696	Assassin	0	0	dodge 0.7
+monster	1700	Batburglar	0	0	dodge 0.7
+monster	1706	wall of meat	0	0	autohit
+monster	1708	wall of bones	0	0	nostagger, nostun, group 100, autohit
+monster	1711	topiary duck	2.5 prismatic	0	
+monster	1733	queen bee (spelunky)	0	0	nostun
+monster	1735	Bananubis	0	0	nostun
+monster	1770	Wart Dinsey	0	0	damagecap 100
+monster	1788	healing crystal golem	0	0	damagecap 30, capexp 0.7
+monster	1814	Mr. Choch	0	0	nostun, nostagger
+monster	1815	Mr. Cheeng	0	0	nostun, nostagger
+monster	1816	Travoltron	0	0	damagecap 100, capexp 0.85
+monster	1817	Geve Smimmons	0	0	nostun, nostagger
+monster	1818	Raul Stamley	0	0	nostun, nostagger
+monster	1819	Pener Crisp	0	0	nostun, nostagger
+monster	1820	Deuce Freshly	0	0	nostun, nostagger
+monster	1821	Lavalos	0	0	nostagger, nostun
+monster	1840	The Barrelmech of Diogenes	0	0	autohit, nostun, nostagger
+monster	1901	wannabe gunslinger	0	0	nostun lttdifficulty*0.5, nostagger lttdifficulty*0.5
+monster	1902	cow cultist	4.0*lttdifficulty prismatic	0	
+monster	1906	restless ghost	1.0|3.75*max(0,lttdifficulty-1.0) prismatic	0	
+monster	1907	buzzard	0	0	aura lttdifficulty*20 stench
+monster	1909	grizzled bear	0	0	damagecap 50, capexp 1.0-(0.15*lttdifficulty)
+monster	1911	coal snake	0	0	aura 55*lttdifficulty hot
+monster	1913	caugr	0	0	nostun lttdifficulty*0.5, nostagger lttdifficulty*0.5
+monster	1915	spidercow	0	0	aura 25*lttdifficulty spooky
+monster	1916	moomy	1.8*lttdifficulty none,prismatic	0	
+monster	1917	Jeff the Fancy Skeleton	0.5|3.5 prismatic	0	nostagger, nostun, noskills 0.9, noitems, onlyhurtby club
+monster	1918	Daisy the Unclean	0	0	nostun, nostagger
+monster	1919	Pecos Dave	0	0	nostun, nostagger, damagecap 50, capexp 0.7
+monster	1920	Pharaoh Amoon-Ra Cowtep	0	0	multiattack 2, nostun, nostagger, spellres, aura 100 spooky
+monster	1921	Snake-Eyes Glenn	0	0	damagecap 100, capexp 0.5, variable
+monster	1922	Former Sheriff Dan Driscoll	0	0	dodge, noitems, noskills
+monster	1923	unusual construct	3.0 none,prismatic	0	damagecap 500, capexp 0.5, noskills
+monster	1924	Clara	3.0 none,prismatic	0	damagecap 500, capexp 0.5, nostun, noitems
+monster	1925	Granny Hackleton	3.0 none,prismatic	0	damagecap 200, capexp 0.5, noskills, dodge 1.0
+monster	1937	Witchess Ox	2.5 prismatic	0	
+monster	1939	Witchess Queen	2.5 prismatic|0.75	0	delevelres 0.5, nostun, nostagger, noskills, !! immune to instakills
+monster	1940	Witchess King	3.0 none,prismatic	0	nostun, nostagger, delevelres 0.2
+monster	1941	Witchess Witch	3.75 prismatic|0.5	0	nostun, nostagger, noitems, spellres, aura 5 spooky, !! aura unspaded
+monster	1945	Source Agent	0	0	noitems, dodge 1.0, nofamiliar
+monster	1959	Apathetic Tyrannosaurus	0.6|2.5 prismatic	0	
+monster	1960	Assembly Elemental	0.8|2.5 prismatic	0	
+monster	1961	Cro-Magnon Gnoll	0.4|3.75 prismatic	0	
+monster	1962	Ancient Skeleton with Skin still on it	0.6|2.5 prismatic	0	
+monster	1963	Wooly Duck	0.4|1.25 prismatic	0	
+monster	1964	Krakrox the Barbarian	0.75|3.75 prismatic	0	
+monster	1974	Eldritch Tentacle	0.5|2.5 prismatic	0	nostun, nostagger, damagecap 50, capexp 0.5
+monster	2000	endless winter	5.0 prismatic	0	
+monster	2002	angry viking warriors	1.0 none	0	
+monster	2062	fantasy forest faerie	0	0	dodge 1.0
+monster	2063	swamp monster	0	0	damagecap 20, capexp 0.7, aura maxhp*0.3 stench
+monster	2064	cursed villager	0	0	noskills, dodge 1.0
+monster	2065	spooky ghost	0	0	aura maxhp*0.4 spooky
+monster	2068	rubber bat	3.75 prismatic	0	autohit, dodge 1.0, !! melee attacks retaliate severely
+monster	2069	quadfaerie	0	0	noitems, noskills, dodge 0.5
+monster	2071	flock of every birds	0	0	multiattack 3, group 10, !! group size unknown
+monster	2072	plywood cultists	0	0	dodge 1.0, noskills, noitems
+monster	2073	barrow wraith	0	0	dodge, noskills, noitems, !! win by running away
+monster	2075	swamp troll	5 none,cold,spooky,stench,sleaze	0	
+monster	2076	crypt creeper	5 prismatic|1 none	0	nostun, !! win by surviving 5 attacks
+monster	2077	"Phoenix"	0	0	aura maxhp*0.3 hot, nostagger
+monster	2084	Ogre Chieftain	0.5 none	0	nomiss, nostagger, noskills, dodge 1.0
+monster	2085	Ted Schwartz, Master Thief	0	0	nostagger, nostun, dodge 1.0
+scare	94	basic meat pants	fweight*1.5	0	rate 0.5
+scare	265	white satin pants	fweight*1.75	0	rate 1.0
+scare	295	demonskin trousers	fweight*2.25 hot	0	rate 1.0
+scare	296	dungeoneer's dungarees	fweight*2.5 stench	0	rate 0.5
+scare	305	gnob goblin harem pants	fweight*7.5 sleaze	0	rate 0.5
+scare	352	ninja hot pants	fweight*2 hot	0	rate 0.5
+scare	361	miner's pants	fweight*2 stench	0	rate 0.5
+scare	650	crimbo pants	fweight*2.5	0	rate 1.0
+scare	1228	stainless steel slacks	fweight*3.25 hot	0	rate 1.0
+scare	1249	boss bat britches	fweight*2.25	0	rate 1.0
+scare	1480	chain-mail monokini	fweight*2.5 sleaze	0	rate 0.5
+scare	1691	giant discarded torn-up glove	fweight*1.5 stench	0	rate 0.5
+scare	2032	bullet-proof corduroys	fweight*0.75 stench	0	rate 0.5
+scare	2070	distressed denim pants	fweight*0.75 sleaze	0	rate 0.5
+scare	2222	liar's pants	fweight*4 hot,cold	0	rate 1.0
+scare	2394	danglin' chad's loincloth	fweight*1.75 stench	0	rate 1.0
+scare	2458	barskin loincloth	fweight*1.5 sleaze	0	rate 1.0
+scare	2459	tighty whiteys	fweight*1.75 sleaze	0	rate 1.0
+scare	2640	black greaves	fweight*1.5	0	rate 1.0
+scare	2989	clingfilm trousers	fweight*0.75 sleaze	0	rate 1.0
+scare	3262	chester's cutoffs	fweight*3.5 sleaze	0	rate 1.0
+scare	4081	corroded breeches	fweight*0.75 sleaze	0	rate 0.5
+scare	4125	poodle skirt	fweight*1.75	0	rate 1.0
+scare	4350	snow pants	fweight*3 cold	0	rate 1.0, !! spading unsure
+scare	4400	stinky cheese diaper	fweight*2.25 stench	0	rate 1.0
+scare	4445	spangly mariachi pants	0	0	rate min(0.9,0.03*fweight), stun
+scare	4540	trousers of the white knight	fweight*1.5	0	rate 1.0
+scare	5051	double-ice britches	fweight*2.5 cold	0	rate 1.0
+scare	5333	BRAINS shorts	fweight*2.5 sleaze	0	rate 0.5
+scare	5339	necbromancer's shorts	fweight*3.5	0	rate 1.0
+servant	1	Cat	0	0	att -floor(servantlevel/14.0)*floor(servantlevel*0.5), def -floor(servantlevel/14.0)*floor(servantlevel*0.5)
+servant	2	Belly-Dancer	0	0	att -servantlevel*0.5, def -servantlevel*0.5, mp 8.5*min(1,floor(servantlevel/7.0))
+servant	3	Maid	0	0	stun floor(servantlevel/14.0)*0.5
+servant	4	Bodyguard	servantlevel/2.0	0	stun servantlevel*0.1, !! this familiar is unspaded
+servant	5	Scribe	0	0	!! improved spell damage?
+servant	6	Priest	0	0	!! attacks undead foes but not by enough to really matter
+servant	7	Assassin	servantlevel*0.25	0	stun floor(servantlevel/14.0)*servantlevel*0.1, att -min(1,floor(servantlevel/7.0))*servantlevel*0.5, def -min(1,floor(servantlevel/7.0))*servantlevel*0.5
+skill	2	Chronic Indigestion	7.5+F hot	0	
+skill	15	CLEESH	0	0	custom
+skill	19	Transcendent Olfaction	0	0	custom attract, once
+skill	28	Awesome Balls of Fire	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus) hot	0	
+skill	29	Conjure Relaxing Campfire	spelldmgpercent*(15+(0.1*buffedmys)+spelldmg+elembonus) hot	0	
+skill	30	Snowclone	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus) cold	0	
+skill	31	Maximum Chill	spelldmgpercent*(15+(0.1*buffedmys)+spelldmg+elembonus) cold	0	
+skill	32	Eggsplosion	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus) stench	0	
+skill	33	Mudbath	spelldmgpercent*(15+(0.1*buffedmys)+spelldmg+elembonus) stench	0	
+skill	36	Grease Lightning	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus) sleaze	0	
+skill	37	Inappropriate Backrub	spelldmgpercent*(15+(0.1*buffedmys)+spelldmg+elembonus) sleaze	0	
+skill	42	Raise Backup Dancer	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus) spooky	0	
+skill	43	Creepy Lullaby	spelldmgpercent*(15+(0.1*buffedmys)+spelldmg+elembonus) spooky	0	
+skill	49	Gothy Handwave	0	0	custom
+skill	50	Break It On Down	7.5+bonusdb	0	stun
+skill	51	Pop and Lock It	7.5+bonusdb	0	
+skill	52	Run Like the Wind	7.5+bonusdb	0	
+skill	55	Volcanometeor Shower	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus)*3 hot	0	itemcost volcanic ash
+skill	56	Wassail	spelldmgpercent*(15+(0.1*buffedmys)+spelldmg)	0	
+skill	57	Toynado	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg)	0	
+skill	61	Offensive Joke	{30,35,40} sleaze	0	att -20, def -20
+skill	66	Flying Fire Fist	9+3*pref(fistSkillsKnown)+5*effect(906)+min(1,effect(907))*10+{-1,0,1} hot	0	
+skill	67	Stinkpalm	pref(fistSkillsKnown)*5+17+min(1,effect(907))*10 stench	0	
+skill	68	Seven-Finger Strike	pref(fistSkillsKnown)*7+min(1,effect(907))*10	0	
+skill	69	Knuckle Sandwich	pref(fistSkillsKnown)*5+min(1,effect(907))*10	0	att -3*pref(fistSkillsKnown)
+skill	70	Chilled Monkey Brain Technique	pref(fistSkillsKnown)*5+17+min(1,effect(907))*10 cold	0	stun
+skill	71	Drunken Baby Style	pref(fistSkillsKnown)*5+5*D+17+min(1,effect(907))*10	0	
+skill	73	Zendo Kobushi Kancho	pref(fistSkillsKnown)*5+17+min(1,effect(907))*10 sleaze	0	def -3*pref(fistSkillsKnown)
+skill	77	Torment Plant	{40,50,60}	0	phylum plant
+skill	78	Pinch Ghost	{40,50,60}	0	!! only available vs ghosts
+skill	79	Tattle	0	0	att -7, def -12
+skill	84	Silent Slam	0.15*wpnpower*(1+mainhand(club)) spooky	0	att -max(1,0.075*wpnpower), stun, once
+skill	85	Silent Squirt	{50,55,60} spooky	0	stun, once
+skill	86	Silent Slice	0.15*wpnpower*(1+mainhand(knife)) spooky	0	def -max(1,0.075*wpnpower), stun, once
+skill	92	Club Earth	0	0	regular, stun
+skill	93	Carbohydrate Cudgel	monsterhp*6 none,hot,cold,spooky,stench,sleaze	0	endscombat, once, itemcost dry noodles
+skill	94	Splattersmash	35+max(0,buffedmus-monsterdefense)	0	aoe 1000
+skill	97	Turtleini	spelldmgpercent*(48+(0.35*buffedmys)+spelldmg+elembonus) none,spooky	0	!! ongoing spooky*0.5
+skill	99	Conspiratorial Whispers	fweight/2	0	att -fweight/4, def -fweight/4, quick, !! damage and deleveling are ongoing!
+skill	102	Shadow Noodles	0	0	once, stun 4, att -9, def -9
+skill	104	Splashdance	0	-55	once, quick
+skill	110	Shrap	spelldmgpercent*(40+(0.35*buffedmys)+spelldmg+elembonus)*3	0	itemcost warbear whosit
+skill	117	Belch The Rainbow	5*min(11,pref(skillLevel117)) prismatic	0	
+skill	131	Garbage Nova	47.5+0.4*buffedmys stench	0	aoe 1000
+skill	136	Healing Salve	0	-3000	itemcost white mana
+skill	138	Lightning Bolt	3000	0	itemcost red mana
+skill	139	Giant Growth	0	0	att -2*buffedmox, def -2*buffedmus, itemcost green mana, !! actually gives +300% all stats
+skill	143	Firegate	35+max(0,buffedmys-monsterdefense)	0	aoe 1000
+skill	148	Frost Bite	50 cold|max(0,buffedmus-monsterdefense)	0	once, stun 2.5
+skill	149	Shattering Punch	monsterhp*6 none,prismatic	0	once, endscombat, !! 3/day instakill
+skill	150	Snokebomb	0	0	custom banish 30, endscombat, once, !! 3/day free runaway and banish
+skill	156	Shoot	sixgundmg	0	once
+skill	162	Licorice Rope	0	0	custom banish, endscombat, once
+skill	173	Disintegrate	0	0	custom yellow, endscombat, once
+skill	1003	Thrust-Smack	skill(1028)*5 cold	-1.5*Y*skill(1036)	regular
+skill	1004	Lunge-Smack	5|skill(1028)*5 cold	-1.5*Y*skill(1036)	regular
+skill	1005	Lunging Thrust-Smack	skill(1028)*5 cold	-1.5*Y*skill(1036)	regular
+skill	1014	Batter Up	0	0	custom banish
+skill	1022	Clobber	max(1,0.15*wpnpower+0.5)	0	
+skill	1023	Harpoon!	0	0	regular, aoe 3
+skill	1032	Furious Wallop	0	0	regular, !! instant crit
+skill	1033	Club Foot	0	0	stun min(1,Y)*(min(3,Y)+mainhand(club)), once, def -(4+2*Y)
+skill	1037	Cavalcade of Fury	0.15*wpnpower*Y	0	!! damage unspaded
+skill	1038	Northern Explosion	skill(1028)*5 cold	-1.5*Y*skill(1036)	regular
+skill	2003	Headbutt	{0.1,0.15,0.2}*helmetpower	0	regular
+skill	2005	Shieldbutt	{0.1,0.15,0.2}*shieldpower	0	att -5, regular
+skill	2015	Kneebutt	{0.1,0.15,0.2}*pantspower	0	stun 0.45, regular, def -min(5.5,effect(1416))-min(11,effect(1417))-min(19,effect(1418)), att -min(5.5,effect(1419))-min(11,effect(1420))-min(19,effect(1421))
+skill	2022	Spectral Snapper	buffedmus/5+25 spooky	0	
+skill	2023	Toss	min(fweight+3,10)+floor(sqrt(max(fweight-7,0)))	0	
+skill	2024	Summon Leviatuga	325.5	0	underwater
+skill	2028	Shell Up	0	0	once, stun 1+min(2,effect(1422))+min(3,effect(1423))+min(4,effect(1423)), hp min(4.5,effect(1419))+min(9,effect(1420))+min(19,effect(1421))
+skill	2032	Spirit Snap	0	0	once, custom
+skill	3003	Ravioli Shurikens	spelldmgpercent*min(10*(1+skill(3030)*min(1,P)),3+spelldmg+elembonus) pasta|spelldmgpercent*min(10*(1+skill(3030)*min(1,P)),3+spelldmg+elembonus)*2 prismatic	0	
+skill	3004	Entangling Noodles	0	0	stun 3, once
+skill	3005	Cannelloni Cannon	spelldmgpercent*min(50*(1+skill(3030)*min(1,P)),24+0.25*buffedmys+spelldmg+elembonus) pasta	0	aoe 2
+skill	3007	Stuffed Mortar Shell	spelldmgpercent*(48+0.5*buffedmys+spelldmg+elembonus) pasta	0	once, aoe 3, !! happens the following round
+skill	3008	Weapon of the Pastalord	spelldmgpercent*(48+0.5*buffedmys+spelldmg+elembonus) pasta	0	
+skill	3009	Lasagna Bandages	0	-16	!! restore
+skill	3019	Fearful Fettucini	spelldmgpercent*(48+(0.5*buffedmys)+spelldmg+elembonus) spooky	0	
+skill	3020	Spaghetti Spear	spelldmgpercent*min(8,2.5+spelldmg+elembonus)	0	
+skill	3022	Candyblast	spelldmgpercent*min(50,12+0.25*buffedmys+spelldmg)	0	item cold hots candy; daffy taffy; mr. mediocrebar; senior mints; wint-o-fresh mint
+skill	3023	Stringozzi Serpent	spelldmgpercent*min(75*(1+skill(3030)*min(1,P)),24+0.25*buffedmys+spelldmg+elembonus)*1.3	0	!! ongoing poison
+skill	3025	Utensil Twist	0.15*wpnpower+0.1*buffedmys	0	!! also deals weapon damage
+skill	4003	Stream of Sauce	spelldmgpercent*min(24,{9,10,11}+0.2*buffedmys+spelldmg+skill(4010)*min(10,L)+elembonus) hot	0	
+skill	4005	Saucestorm	2*spelldmgpercent*min(50,{20,22,24}+0.2*buffedmys+spelldmg+skill(4010)*min(10,L)+elembonus) hot,cold	0	aoe 2
+skill	4009	Wave of Sauce	spelldmgpercent*min(100,{35,37.5,40}+0.3*buffedmys+spelldmg+skill(4010)*min(10,L)+elembonus) hot	0	aoe 2
+skill	4012	Saucegeyser	spelldmgpercent*(65+(0.4*buffedmys)+spelldmg+skill(4010)*min(10,L)+elembonus) sauce	0	aoe 3
+skill	4014	Saucy Salve	0	-13	quick
+skill	4020	Salsaball	spelldmgpercent*min(8,{2,2.5,3}+spelldmg+skill(4010)*min(10,L)+elembonus) hot	0	
+skill	4022	Surge of Icing	(1+0.5*min(1,effect(17)))*spelldmgpercent*min({14,16,18}+0.2*buffedmys+spelldmg+elembonus,25)	0	
+skill	4023	Kasesossesturm	spelldmgpercent*min(100,{35,37.5,40}+0.3*buffedmys+spelldmg+skill(4010)*min(10,L)+elembonus) stench	0	aoe 2
+skill	4024	Curse of Vichyssoise	2.5+min(5,res(cold))*2 cold	0	once, stun skill(4030), !! damage is ongoing
+skill	4029	Curse of Marinara	max(2.5,0.03*monsterattack)	-max(2.5,0.03*monsterattack)	once, stun skill(4030), !! damage and healing are ongoing
+skill	4031	Curse of the Thousand Islands	0	0	once, stun skill(4030), !! gives monster 30% automiss
+skill	4032	Saucecicle	spelldmgpercent*min(150,{45,47.5,50}+0.3*buffedmys+spelldmg+skill(4010)*min(10,L)+elembonus) cold	0	
+skill	4034	Curse of Weaksauce	0	0	att -0.03*monsterattack, def -0.03*monsterdefense, once, stun skill(4030), !! deleveling is ongoing
+skill	5003	Disco Eye-Poke	{1,2,3}+bonusdb+I	0	att -(3+I), def -(3+I)
+skill	5005	Disco Dance of Doom	{6,7,8}+bonusdb+(4*I)	0	once, att -(5+4*I), def -(5+4*I), aoe 2
+skill	5008	Disco Dance II: Electric Boogaloo	{8,9,10}+bonusdb+(6*I)	0	once, att -(7+6*I), def -(7+6*I), aoe 3
+skill	5012	Disco Face Stab	{15,16.5,18}+bonusdb+(4*I)+{0.1,0.15,0.2}*bestknife*1.25	0	once, att -9, def -9
+skill	5019	Tango of Terror	{15,16.5,18} spooky	0	att -8, def -8
+skill	5021	Suckerpunch	1	0	att -1, def -1
+skill	5023	Stealth Mistletoe	0	0	once, quick
+skill	5033	Knife in the Dark	{15,16.5,18}+bonusdb+(4*I)+{0.1,0.15,0.2}*bestknife*1.25*2 none, spooky	0	once, att -9, def -9
+skill	5035	Disco Shank	0.3*buffedmox*I+{0.1,0.15,0.2}*bestknife*1.25	0	once
+skill	5036	Disco Dance 3: Back in the Habit	26+(9*I)	0	once, att -(14+9*I), def -(14+9*I)
+skill	5037	Disco Inferno	5*I^2+25*I+20 hot	0	once, aoe 3
+skill	6025	Sing	2.5	0	
+skill	6029	Dissonant Riff	1.5+mainhand(accordion)*3.5	0	att -2*(mainhand(accordion)+1), def -2*(mainhand(accordion)+1)
+skill	6030	Cadenza	0	0	once
+skill	6032	Accordion Bash	0	0	once, stun mainhand(accordion)*3+max(0,songduration-10)/3
+skill	6034	Concerto de los Muertos	(mainhand(accordion)+1)*10 spooky	0	once, !! ongoing damage and range unspaded
+skill	6037	Bawdy Refrain	1+(0.25+mainhand(accordion)*0.1)*buffedmox sleaze	0	
+skill	6040	Cone of Zydeco	1+mainhand(accordion)*0.4*buffedmox	0	aoe 5
+skill	7001	Give In To Your Vampiric Urges	35.5	-17.75	mp 17.75, once
+skill	7002	Shake Hands	0	0	
+skill	7003	Hot Breath	3+2*min(effect(194),10) hot	0	
+skill	7004	Cold Breath	3+2*min(effect(195),10) cold	0	
+skill	7005	Spooky Breath	3+2*min(effect(196),10) spooky	0	
+skill	7006	Stinky Breath	3+2*min(effect(197),10) stench	0	
+skill	7007	Sleazy Breath	3+2*min(effect(198),10) sleaze	0	
+skill	7009	Magic Missile	min(5,ceil(L/2))*3.5	0	
+skill	7010	Fire red bottle-rocket	3*L+3 hot	0	once
+skill	7011	Fire blue bottle-rocket	3*L+3 cold	0	once
+skill	7012	Fire orange bottle-rocket	0	0	stats 1|1|1, att {10,12.5,15}, def {10,12.5,15}, once
+skill	7013	Fire purple bottle-rocket	3*L+3 sleaze	0	once
+skill	7014	Fire black bottle-rocket	0	0	att -{10,12.5,15}, def -{10,12.5,15}, once
+skill	7015	Creepy Grin	0	0	custom banish 10, endscombat
+skill	7016	Start Trash Fire	2.5*monsterhp hot	0	
+skill	7017	Overload Discarded Refrigerator	2.5*monsterhp cold	0	
+skill	7018	Trashquake	2.5*monsterhp stench	0	
+skill	7019	Zombo's Visage	2.5*monsterhp spooky	0	
+skill	7020	Hypnotize Hobo	2.5*monsterhp sleaze	0	
+skill	7021	Ask Richard for a Bandage	0	-{500,550,600}	custom, !! KoL bug: doesn't work in macros
+skill	7022	Ask Richard for a Grenade	0	0	custom, stun 3.5, !! KoL bug: doesn't work in macros
+skill	7023	Ask Richard to Rough the Hobo Up a Bit	125	0	custom, !! KoL bug: doesn't work in macros
+skill	7024	Summon Mayfly Swarm	0	0	once
+skill	7038	Vicious Talon Slash	0.8*buffedmus	0	
+skill	7039	All-You-Can-Beat Wing Buffet	0	0	att -sqrt(buffedmox), def -sqrt(buffedmox)
+skill	7040	Tunnel Upwards	min(L+10,50)	0	once
+skill	7041	Tunnel Downwards	0	0	att -1, def -1, once
+skill	7042	Rise From Your Ashes	buffedmys/2 hot	0	
+skill	7043	Antarctic Flap	{0.45,0.5,0.55}*buffedmys cold	0	mp 3*sqrt(buffedmys)
+skill	7044	The Statue Treatment	0.75*buffedmys stench	0	
+skill	7045	Feast on Carrion	0.5*buffedmys spooky	-0.25*buffedmys	
+skill	7046	Give Your Opponent "The Bird"	0.5*buffedmys sleaze	0	att -sqrt(buffedmys), def -sqrt(buffedmys)
+skill	7047	Ask the hobo for a drink	0	0	custom
+skill	7048	Ask the hobo for something to eat	0	0	custom
+skill	7049	Ask the hobo for some violence	{150,175,200}	0	
+skill	7050	Ask the hobo to tell you a joke	0	0	custom
+skill	7051	Ask the hobo to dance for you	0	0	custom
+skill	7052	Summon hobo underling	0	0	custom
+skill	7053	Rouse Sapling	0	0	once, !! causes 15-30-45-60 damage over following 4 rounds
+skill	7054	Spray Sap	0	0	att -monsterattack/6.66, def -monsterattack/6.66, once
+skill	7055	Put Down Roots	0	0	stun 2, once
+skill	7056	Fire off a Roman Candle	fweight/1.5 hot,cold,sleaze,stench,spooky	0	
+skill	7061	Spring Raindrop Attack	0	-{0.1,0.15,0.2}*wpnpower	mp {0.1,0.15,0.2}*wpnpower
+skill	7062	Summer Siesta	0	0	regular, !! instant crit
+skill	7063	Falling Leaf Whirlwind	0	0	att -(0.3*monsterattack-{0,0.5,1}), def -(0.3*monsterattack-{0,0.5,1})
+skill	7064	Winter's Bite Technique	15 cold	0	
+skill	7065	The 17 Cuts	17	0	once
+skill	7070	Disarm	0	0	
+skill	7071	Entangle	0	0	stun 2, once
+skill	7073	Strangle	15	-0.25*15	
+skill	7074	Consume Burrowgrub	0	-2*min(L,15)*(1+min(effect(580),1))	mp min(L,15)*(1+min(effect(580),1))
+skill	7075	Play an Accordion Solo	0	0	once
+skill	7076	Play a Guitar Solo	0	0	stats 1.66|1.66|1.66, once
+skill	7077	Play a Drum Solo	0	0	stun 2, once
+skill	7078	Play a Flute Solo	min(buffedmox,200)+max(0,buffedmox-200)^0.75 sleaze	0	once
+skill	7079	Furious Cleave	55.5	0	
+skill	7080	Mighty Shout	0	0	def -buffedmus, att -buffedmox
+skill	7081	Open the Bag o' Tricks	{5,7.5,10}*(2^pref(bagOTricksCharges))	0	stun, once
+skill	7082	Point at your opponent	0	0	custom, !! handled in-script
+skill	7083	Apprivoisez la tortue	0	0	custom
+skill	7085	Ball Bust	150	0	once, stun, underwater
+skill	7086	Ball Sweat	0	0	once, stun, def -220, underwater
+skill	7087	Ball Sack	0	0	stun 3, underwater
+skill	7088	Net Gain	125	0	once, underwater, !! +100% muscle buff
+skill	7089	Net Loss	0	0	once, stun, att -230, underwater
+skill	7090	Net Neutrality	0	0	stun 2, att -55, def -50, underwater
+skill	7091	Blade Sling	200	0	once, underwater
+skill	7092	Blade Roller	0	0	once, underwater, !! +100% moxie buff
+skill	7093	Blade Runner	0	0	stun 2, underwater
+skill	7094	Static Shock	5.5	0	mp 5.5, once
+skill	7095	Give Your Opponent the Stinkeye	0	0	custom banish 10, endscombat
+skill	7096	Bashing Slam Smash	0	0	regular
+skill	7097	Turtle of Seven Tails	0	0	regular
+skill	7098	Noodles of Fire	{30,40,50} hot	0	stun 3, !! same dmg also following two rounds
+skill	7099	Saucemageddon	spelldmgpercent*(85+0.5*buffedmys+spelldmg+elembonus) sauce	0	aoe 5
+skill	7100	Funk Bluegrass Fusion	0	0	att -0.1*monsterattack, def -0.1*monsterattack
+skill	7101	Extreme High Note	{0.135,0.15,0.165}*monsterhp	0	
+skill	7102	Goldenshower	{10,15,20} hot	0	!! ongoing throughout combat
+skill	7103	Shoot Web	0	0	att -7, def -7
+skill	7108	Fire a badly romantic arrow	0	0	custom copy, stun
+skill	7112	Nuclear Breath	5000/effect(839)^{1.5,1.75,2.0} hot	0	
+skill	7113	Squeeze Stress Ball	0	-{50,100,150}	mp {50,100,150}
+skill	7114	Throw Shield	0	0	stun, once
+skill	7115	Release the Boots	0	0	custom, endscombat
+skill	7116	Feed	min(monsterhp,5*min(11,L))	-min(monsterhp,5*min(11,L))/2	mp min(monsterhp,5*min(11,L))/2, once
+skill	7117	Siphon Spirits	0	0	once, stun 1, custom
+skill	7118	Swirl Cloak	10 hot	-10	stun, once, !! dmg/healing unknown
+skill	7131	Kodiak Moment	0	0	regular, once, bear, !! instant crit
+skill	7132	Grizzly Scene	0	0	regular, once, bear
+skill	7133	Bear-Backrub	0	-20	once, stun, bear
+skill	7134	Bearly-Legal	0	0	att -0.2*monsterattack, def -0.2*monsterdefense, once, bear
+skill	7135	Bear Hug	0	-{20,25,30}	att -{8,9,10}, def -{8,9,10}, regular, once, bear
+skill	7136	I Can Bearly Hear You Over The Applause	0	0	once
+skill	7137	Unleash Nanites	0	0	custom, once
+skill	7138	Air Blast	0	0	once, stun
+skill	7139	Haggis Kick	9 sleaze	0	
+skill	7140	Play Hog Fiddle	0	0	att -5, def -5, once, !! deleveling unspaded
+skill	7142	Rage Flame	100 hot	0	stun 1, itemcost pixel power cell
+skill	7143	Doubt Shackles	0	0	att -30, itemcost pixel power cell
+skill	7144	Fear Vapor	0	0	def -30, itemcost pixel power cell
+skill	7145	Tear Wave	100 cold	0	stun 1, itemcost pixel power cell
+skill	7150	Fire Death Ray	{20,25,30}	0	stun, once
+skill	7151	Stomp Ass	{90,95,100}	0	stun, once
+skill	7152	Brand	{90,100,110} hot	0	stun, once
+skill	7153	Violent Gaze	0	0	stun, once, !! next spell will crit
+skill	7154	Mosh	{50,55,60}	0	att -{30,35,40}, def -{30,35,40}, once
+skill	7155	Chilling Grip	{90,95,100} cold	0	stun, once
+skill	7156	Static Shock	0	0	mp 50, stun, once, !! MP amount unspaded
+skill	7157	Hateful Gaze	0	0	att -0.15*monsterattack, def -0.15*monsterdefense, once
+skill	7158	Tighten Girdle	50	0	stats -50|0|0, once, !! actual damage and stat loss unspaded
+skill	7159	Hide Behind a Tree	0	0	custom
+skill	7160	Dive Into a Puddle	0	0	custom
+skill	7161	Hide Under a Rock	0	0	custom
+skill	7162	Throw a Mr Card	9 prismatic	0	
+skill	7163	Hammer Ghost	500	0	phylum ghost, !! damage ignores physical resistance
+skill	7164	Fire Rocket	0.45*buffedmox hot	0.3*maxhp hot	once, aoe 1000
+skill	7165	Great Slash	buffedmus/3	0	
+skill	7166	Get a Good Whiff of This Guy	0	0	custom attract
+skill	7167	Blinding Flash	0	0	once, att -11, def -11, stun 1, !! deleveling depends on camera power
+skill	7168	Wink at	0	0	custom copy, stun 1
+skill	7169	Talk About Politics	0	0	custom banish, endscombat
+skill	7170	Pocket Crumbs	0	0	once, stun 1, att -0.12*monsterattack, def -0.12*monsterdefense, item pat of butter
+skill	7171	Air Dirty Laundry	F*2 none,hot,cold,spooky,sleaze,stench	0	once, stun 1, !! food eaten not tracked; damage may vary
+skill	7172	Steal Accordion	0	0	custom
+skill	7173	Rage of the War Snapper	1.5*buffedmus	0	once
+skill	7174	Voice of She-Who-Was	buffedmys hot,cold,stench,spooky,sleaze	0	once, !! actual damage unspaded
+skill	7175	Will of the Storm Tortoise	0	0	once, mp 53
+skill	7182	Soul Bubble	0	0	once, stun 3
+skill	7183	Soul Finger	0	0	att -0.3*monsterattack, def -0.3*monsterdefense
+skill	7184	Soul Blaze	spelldmgpercent*(350+buffedmys+spelldmg+elembonus) hot	0	
+skill	7189	Spray Hot Grease	2*spelldmgpercent*min({20,22,24}+0.2*buffedmys+spelldmg+elembonus,50) hot,sleaze	0	aoe 2
+skill	7190	Huff	0	0	!! regain maxbreath/3 breath
+skill	7191	Puff	0	0	custom, endscombat, !! skip this monster
+skill	7192	Blow House Down	wolfoffense*10	0	
+skill	7193	Hot Blow	wolfoffense*10 hot	0	
+skill	7194	Cold Blow	wolfoffense*10 cold	0	
+skill	7195	Stinky Blow	wolfoffense*10 stench	0	
+skill	7196	Spooky Blow	wolfoffense*10 spooky	0	
+skill	7197	"Blow"	wolfoffense*10 sleaze	0	
+skill	7198	Throw Frostball	100 cold	0	once
+skill	7199	Blow Wolf Whistle	100 sleaze	0	once
+skill	7200	Unload Tommy Gun	buffedmox*1.25	0	itemcost drum of tommy ammo
+skill	7201	Mug for the Audience	0	0	custom, !! gives more Love
+skill	7202	Pull Voice Box String	13 spooky	0	att -13, def -13
+skill	7203	Shovel Hot Coal	buffedmus hot	0	itemcost hot coal
+skill	7204	Unleash the Greash	25+5.5*effect(1627) sleaze	0	once
+skill	7205	Heat Space	32.5 hot	0	
+skill	7206	Consult the Helix Fossil	0	0	
+skill	7207	Bang! Bang! Bang! Bang!	0	0	stun 1, once, att -13.5, def -13.5
+skill	7209	Ply Reality	20 hot,cold,spooky,sleaze,stench	0	stun 1, once
+skill	7210	Overload Teddy Bear	10 spooky	0	itemcost cuddly teddy bear, !! actual damage unspaded
+skill	7211	Thousand-Yard Stare	35+5*effect(1759) spooky	0	once
+skill	7212	Activate Butt	175 none,hot,cold,spooky,sleaze,stench	0	att -10, def -10, once, !! 350 of ONE random element or unspaded deleveling
+skill	7231	Open a Big Yellow Present	6*monsterhp	0	custom yellow, once, endscombat
+skill	7232	Open a Big Red Present	0	0	custom, once, meat 2500
+skill	7233	LIGHT	0	0	att -monsterattack*.03*crimbotpower, def -monsterdefense*.03*crimbotpower
+skill	7234	ZAP	0	0	stun 1, once, mp 4*crimbotpower
+skill	7235	POW	10*crimbotpower+max(0,buffedmus-monsterdefense)	0	once
+skill	7236	BURN	7.5*crimbotpower+max(0,buffedmys-monsterdefense) hot	0	once, !! ongoing 60% fire damage
+skill	7237	LUBE	7.5*crimbotpower sleaze	0	once
+skill	7238	Throw Skull	20	0	itemcost crumbling skull
+skill	7239	Throw Rock	30	0	itemcost rock
+skill	7240	Use Rope	0	0	stun 11
+skill	7241	Throw Bomb	50	0	
+skill	7242	Throw Pot	20	0	itemcost pot
+skill	7243	Throw Ten Bombs	150	0	
+skill	7244	Throw Torch	100 none,hot	itemcost torch	
+skill	7245	Summon Love Mosquito 	max(10,0.1*monsterhp)	-max(10,0.1*monsterhp)	once, stun
+skill	7246	Summon Love Stinkbug	16 none,stench	0	once, !! damage is ongoing
+skill	7247	Summon Love Gnats	0	0	once, stun 3
+skill	7248	Summon Love Scarabs	max(9,0.1*monsterhp)	0	mp max(9,0.1*monsterhp)/3, once, stun
+skill	7249	Tell a Skeleton What To Do	9 spooky	0	
+skill	7250	Tell This Skeleton What To Do	17.5	0	
+skill	7251	Fire Sewage Pistol	5 stench	0	stun, once, !! damage unspaded
+skill	7252	Propose To Your Opponent	5 stench	0	stun, once, !! damage unspaded
+skill	7253	Spit Fireballs	0.75*max(buffedmus,max(buffedmys,buffedmox)) hot	0	once
+skill	7255	Bat-Punch	(batpunch+batpunchmodifier)*batpunchmultiplier	0	
+skill	7256	Bat-Kick	(batkick+batkickmodifier)*batkickmultiplier	0	
+skill	7257	Bat-oomerang	20	0	itemcost bat-oomerang, !! disarms opponent
+skill	7258	Bat-Jute	10	0	itemcost bat-jute, stun 1, !! wasted if opponent has more than 10 hp
+skill	7259	Bat-o-mite	50	0	itemcost bat-o-mite, !! insta-kill vs. non-villains
+skill	7260	Ultracoagulator	0	-1000	itemcost ultracoagulator
+skill	7261	Kickball	30	0	itemcost exploding kickball, !! insta-kill vs. non-villains
+skill	7262	Bat-Glue	0	0	itemcost glob of Bat-Glue, stun 3, !! stun duration unspaded
+skill	7263	Bat-Bearing	15	0	itemcost bat-bearing, stun 1
+skill	7264	Use Bat-Aid	0	-20	itemcost bat-aid bandage, stun 1
+skill	7265	Fire the Jokester's Gun	monsterhp*6 prismatic	0	custom, once, endscombat, !! 1/day insta-kill vs. non-bosses
+skill	7266	Adjust the Jokester's Wig	0	0	stun, !! 1/day grants 100 turns of +9 spooky resistance
+skill	7267	Adjust the Jokester's Pants	30 sleaze	0	stun
+skill	7268	Cowboy Kick	max(1,0.1*buffedmus)	0	stun, once
+skill	7269	Absorb Cowrruption	0	0	custom, once
+skill	7270	Science! Fight with Medicine	0	-150	stun, once
+skill	7271	Science! Fight with Rational Thought	0	0	stun, once, custom
+skill	7272	Science! Fight with Internet Debate	0	0	stun, once, custom
+skill	7273	Extract	0	0	once, item Source essence; Source essence
+skill	7274	Digitize	0	0	once, custom
+skill	7275	Compress	monsterhp*0.25	0	stun, once
+skill	7276	Duplicate	0	0	once, custom
+skill	7277	Portscan	0	0	once, custom
+skill	7278	Turbo	0	0	once, custom
+skill	7279	Shoot Ghost	0	0	custom
+skill	7280	Trap Ghost	0	0	custom
+skill	7281	Censurious Lecture	0	0	att -{5,7,10}, def -{5,7,10}, stun, once
+skill	7282	Extract Jelly	0	0	once, custom, item hot jelly|cold jelly|spooky jelly|sleaze jelly|stench jelly
+skill	7283	Breathe Out	0	0	once, custom banish 30, endscombat
+skill	7284	EXTERMINATE SPANT	0	0	custom, once, endscombat, monster spant drone|spant soldier
+skill	7285	KGB tranquilizer dart	0	0	once, custom banish, endscombat
+skill	7286	Asdon Martin: Missile Launcher	0	0	once, custom yellow, endscombat
+skill	7287	Asdon Martin: Bean Bag Cannon	10	0	stun, !! damage unspaded
+skill	7288	Asdon Martin: Spring-Loaded Front Bumper	0	0	once, custom banish 30, endscombat
+skill	7289	Micrometeorite	0	0	att -0.25*monsterattack, def -0.25*monsterdefense
+skill	7290	Macrometeorite	0	0	custom, !! 10x/day replace monster with a different one from this zone
+skill	7291	Meteor Shower	0	0	once, custom, !! 5x/day buff weapon/spell damage and gives +20lbs to familiar
+skill	7293	Hugs and Kisses!	0	0	custom, att -10, def -10, !! 11/day and grants pickpocket attempt
+skill	7294	Show them your ring	0	0	custom runaway, !! 1/day free runaway
+skill	7295	Unleash Disco Pudge	0	0	att -22.5, def -22.5
+skill	11000	Mighty Axing	0	0	regular, stats 1|0|0
+skill	11001	Cleave	0	0	regular
+skill	11003	Broadside	0	0	stun 4, once
+skill	11006	Throw Trusty	0.5*buffedmus	0	
+skill	11010	Bifurcating Blow	min(monsterhp*6,1000)	0	once, !! 20-turn cooldown
+skill	11011	Intimidating Bellow	0	0	att -0.15*(1+skill(11018))*monsterattack, def -0.15*(1+skill(11018))*monsterdefense, once, stun skill(11018)
+skill	11020	Banishing Shout	0	0	custom banish, endscombat
+skill	11026	Heroic Belch	F*{3,4,5}+{5,8,10} stench	0	
+skill	12000	Infectious Bite	L	0	
+skill	12006	Devour Minions	0	-min(20,maxhp/2)	
+skill	12010	Ravenous Pounce	0	0	regular
+skill	12011	Distracting Minion	0	0	regular
+skill	12012	Plague Claws	0	0	att -{5,7,10}, def -{5,7,10}
+skill	12013	Flesh Mob	0	0	0
+skill	12017	Bilious Burst	{140,170,200} spooky,stench	0	
+skill	12019	Corpse Pile	{20,25,30}	0	stun 3
+skill	12020	Howl of the Alpha	0	0	custom banish, endscombat
+skill	12023	Smash & Graaagh	{7,10,12}	0	once
+skill	12025	Meat Shields	0	0	0
+skill	12030	Zombie Maestro	0	0	0
+skill	14000	Curdle	spelldmgpercent*min(15,3.5+0.5*buffedmys+spelldmg+elembonus) stench	0	0
+skill	14003	Boil	spelldmgpercent*min(mpcost*10,{10,12.5,15}+0.4*buffedmys+spelldmg+elembonus) hot	0	0
+skill	14004	Fry	spelldmgpercent*min(mpcost*10,{40,45,50}+0.4*buffedmys+spelldmg+elembonus) sleaze	0	0
+skill	14013	Slice	spelldmgpercent*min(mpcost*10,{40,45,50}+0.4*buffedmys+spelldmg+elembonus)	0	att -9
+skill	14014	Chop	spelldmgpercent*min(mpcost*10,{10,12.5,15}+0.4*buffedmys+spelldmg+elembonus)	0	0
+skill	14023	Bake	spelldmgpercent*5 hot	0	0
+skill	14024	Grill	spelldmgpercent*min(mpcost*10,{40,45,50}+0.3*buffedmys+spelldmg+elembonus)*2 hot,spooky	0	0
+skill	14033	Freeze	spelldmgpercent*min(mpcost*10,{10,12.5,15}+0.4*buffedmys+spelldmg+elembonus) cold	0	0
+skill	14034	Blend	0	0	stun 3
+skill	15001	Catchphrase	max(6,N)/2-2	0	att -max(4,N)/4, def -max(4,N)/4, !! formulas unspaded
+skill	15004	Fix Jukebox	0	0	custom, !! +300% items and +10 Love 3/day
+skill	15005	Snap Fingers	0	0	stun min(3,max(1,N/3)), !! stun formula needed since I completely made this one up
+skill	15009	Make Friends	0	0	custom attract
+skill	15013	Pop Wheelie	0.3*buffedmox	0	att -0.15*monsterattack, def -0.15*monsterdefense
+skill	15015	Peel Out	0	0	custom runaway
+skill	15020	Flash Headlight	0	0	
+skill	15021	Insult	5	0	att -2, def -2, stun, !! damage and delevel amount unknown
+skill	15024	Jump Shark	0	0	custom, substats 10*L|10*L|10*L, !! increases Hate
+skill	15026	Smoke Break	10	0	once, !! ongoing damage amount unknown
+skill	15030	Walk Away From Explosion	monsterhp*0.5	0	custom banish, endscombat
+skill	16001	Thunder Clap	0	0	custom banish, once, endscombat
+skill	16003	Thunder Bird	0	0	att -monsterhp*0.15, def -monsterhp*0.15
+skill	16005	Thunderstrike	0	0	stun 4, once
+skill	16013	Make it Rain	0	0	custom, once, !! increases meat drop by 300%
+skill	16021	Lightning Strike	monsterhp	0	custom runaway, endscombat, !! insta-kills monster
+skill	16023	Ball Lightning	0	0	custom yellow, once, endscombat
+skill	17007	Fist of the Mummy	min(buffedmys+spelldmg,50)*spelldmgpercent	0	0
+skill	17008	Howl of the Jackal	min(buffedmys+spelldmg+elembonus,100)*spelldmgpercent spooky	0	0
+skill	17009	Roar of the Lion	(1.5*buffedmys+spelldmg+elembonus)*spelldmgpercent hot	0	0
+skill	17010	Storm of the Scarab	(.5*buffedmys+spelldmg)*spelldmgpercent*5 hot,cold,sleaze,stench,spooky	0	0
+skill	17013	Wrath of Ra	0	0	custom yellow, once, endscombat
+skill	17014	Curse of the Marshmallow	0	0	att -15, def -15, stun, once
+skill	17015	Curse of Indecision	0	0	stun 3, once
+skill	17016	Curse of Yuck	18	0	once, !! damage is ongoing
+skill	17017	Curse of Heredity	3	0	att -7.5, def -7.5, !! damage is ongoing vs all monsters of this phylum
+skill	17018	Curse of Fortune	0	0	custom, !! spend 1 Ka for +200% meat
+skill	17019	Curse of Vacation	0	0	custom banish, endscombat, once
+skill	17020	Curse of Stench	0	0	custom attract, once
+skill	17047	Mild Curse	2.5 spooky	0	
+skill	18000	One-Two Punch	0	0	regular
+skill	18001	Cowcall	(66+(.4*buffedmys)+min(effect(2064),100)) spooky	0	
+skill	18002	Pistolwhip	sixgundmg	0	stun, once
+skill	18003	Hogtie	0	0	stun 4, once, !! only works on monsters with a bodypart with 'leg' in the name
+skill	18007	Unleash Cowrruption	0	0	custom yellow, endscombat, once
+skill	19000	Lavafava	(min(4.5+floor(0.1*buffedmys),50)) hot|(min(4.5+floor(0.1*buffedmys),50)) hot	0	
+skill	19001	Pungent Mung	sixgundmg|min(12.5+(0.5*buffedmys),50) stench	0	
+skill	19002	Canhandle	0	0	once
+skill	19003	Bean Screen	0	0	stun 4, once, !! 3 rounds stun plus 1 stagger
+skill	19006	Beanstorm	(25+(0.25*buffedmys)) hot,cold,sleaze,stench,spooky|(25+(0.25*buffedmys)) hot,cold,sleaze,stench,spooky 	0	!! it hits for the top two boosted elemental damage types once each
+skill	19007	Beancannon	0	0	custom banish, endscombat, once, meat -500, !! lose your equipped beans!
+skill	20000	Snakewhip	pref(awolVenom)	0	!! ongoing poison not tracked
+skill	20001	Fan Hammer	sixgundmg|sixgundmg|sixgundmg	0	
+skill	20002	Extract Oil	0	0	custom
+skill	20003	Bad Medicine	0	0	att -((10+pref(awolMedicine))/100.0*monsterattack), def -((10+pref(awolMedicine))/100.0*monsterdefense), once
+skill	20006	Good Medicine	0	-(20+(pref(awolMedicine)*5))	stun, once
+skill	20007	Long Con	0	0	custom attract, once
+skill	21000	Source Punch	max(20,30+buffedmus-monsterdefense)	0	
+skill	21005	Disarmament	0	0	stun, once
+skill	21006	Big Guns	300	0	stun, once
+skill	21007	Humiliating Hack	0	0	att -(50.0*monsterattack), def -(50.0*monsterdefense), stun, once
+skill	21008	Source Kick	max(50,100+buffedmus-monsterdefense)	0	
+skill	21009	Reboot	0	0	stun, once
+skill	21010	Restore	0	-maxhp	stun, once
+skill	22001	Comically Large Fist	max(1,0.4*buffedmus-10)	0	stun
+skill	22003	Dislocatable Jaw	max(1,0.4*buffedmus-10)	0	
+skill	22005	Noodly Arms	max(1,0.4*buffedmys-10)	0	!! damage unspaded
+skill	22007	Hollow Canines	max(1,0.4*buffedmys-10)	-5	!! heals for 5HP only the first time
+skill	22009	Finger Knives	max(1,0.4*buffedmox-10)	0	att -monsterattack*0.1, def -monsterdefense*0.1, !! delevels only the first time
+skill	22011	Ultrasonic Ululations	monsterattack/2	0	!! damage unspaded
+skill	22012	Boiling Tear Ducts	15 hot	0	
+skill	22013	Throat Refrigerant	15 cold	0	
+skill	22014	Skunk Glands	15 stench	0	
+skill	22015	Translucent Skin	15 spooky	0	
+skill	22016	Projectile Salivary Glands	15 sleaze	0	
+skill	22017	Mind Bullets	0	0	stun 3, once
+skill	23201	Gelatinous Punch	buffedmox	0	
+skill	23202	Gelatinous Headbutt	2*buffedmox	0	!! elemental bonuses are doubled
+skill	23203	Gelatinous Kick	2*buffedmox	0	!! elemental bonuses are tripled
+thrall	1	Vampieroghi	1.5*P	-tdmg	
+thrall	2	Vermincelli	min(0.75,max(0,P-4))*P	0	!! also poisons on first attack
+thrall	3	Angel Hair Wisp	0	0	stun min(0.3,max(0,P-9)), !! actual stun unspaded
+thrall	6	Lasagmbie	min(0.75,max(0,P-4))*P spooky	0	
+thrall	7	Spice Ghost	0	0	meat min(1,max(0,P-4))*5, !! sometimes drops spices

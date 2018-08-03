@@ -1,0 +1,70 @@
+angry tourist	20180803221648	crit	1	false
+angry tourist	20180803221648	skill 7273	1	true
+angry tourist	20180803221648	use 9497	2	true
+angry tourist	20180803221648	win	3	false
+angry tourist	20180803221658	skill 7273	1	true
+angry tourist	20180803221658	use 9497	2	true
+angry tourist	20180803221658	win	3	false
+angry tourist	20180803221701	skill 7273	1	true
+angry tourist	20180803221701	use 9497	2	true
+angry tourist	20180803221701	win	3	false
+angry tourist	20180803221720	skill 7273	1	true
+angry tourist	20180803221720	use 9497	2	true
+angry tourist	20180803221720	win	3	false
+angry tourist	20180803221735	crit	1	false
+angry tourist	20180803221735	skill 7273	1	true
+angry tourist	20180803221735	use 9497	2	true
+angry tourist	20180803221735	win	3	false
+horrible tourist family	20180803221624	skill 7273	1	true
+horrible tourist family	20180803221624	use 9497	2	true
+horrible tourist family	20180803221624	win	3	false
+horrible tourist family	20180803221630	skill 7273	1	true
+horrible tourist family	20180803221630	use 9497	2	true
+horrible tourist family	20180803221630	win	3	false
+horrible tourist family	20180803221655	skill 7273	1	true
+horrible tourist family	20180803221655	use 9497	2	true
+horrible tourist family	20180803221655	win	3	false
+horrible tourist family	20180803221714	skill 7273	1	true
+horrible tourist family	20180803221714	use 9497	2	true
+horrible tourist family	20180803221714	win	3	false
+horrible tourist family	20180803221726	skill 7273	1	true
+horrible tourist family	20180803221726	use 9497	2	true
+horrible tourist family	20180803221726	win	3	false
+horrible tourist family	20180803221732	skill 7273	1	true
+horrible tourist family	20180803221732	use 9497	2	true
+horrible tourist family	20180803221732	win	3	false
+horrible tourist family	20180803221739	skill 7273	1	true
+horrible tourist family	20180803221739	use 9497	2	true
+horrible tourist family	20180803221739	win	3	false
+garbage tourist	20180803221652	monsterfumble	1	false
+garbage tourist	20180803221652	skill 7273	1	true
+garbage tourist	20180803221652	use 9497	2	true
+garbage tourist	20180803221652	win	3	false
+garbage tourist	20180803221705	skill 7273	1	true
+garbage tourist	20180803221705	use 9497	2	true
+garbage tourist	20180803221705	win	3	false
+garbage tourist	20180803221711	skill 7273	1	true
+garbage tourist	20180803221711	use 9497	2	true
+garbage tourist	20180803221711	win	3	false
+garbage tourist	20180803221717	skill 7273	1	true
+garbage tourist	20180803221717	use 9497	2	true
+garbage tourist	20180803221717	win	3	false
+garbage tourist	20180803221723	skill 7273	1	true
+garbage tourist	20180803221723	use 9497	2	true
+garbage tourist	20180803221723	win	3	false
+garbage tourist	20180803221729	skill 7273	1	true
+garbage tourist	20180803221729	use 9497	2	true
+garbage tourist	20180803221729	win	3	false
+Witchess Knight	20180803214432	skill 7170	1	true
+Witchess Knight	20180803214432	skill 7273	2	true
+Witchess Knight	20180803214432	use 9497	3	true
+Witchess Knight	20180803214432	win	4	false
+Witchess Knight	20180803214450	monsterfumble	2	false
+Witchess Knight	20180803214450	skill 7170	1	true
+Witchess Knight	20180803214450	skill 7273	2	true
+Witchess Knight	20180803214450	use 9497	3	true
+Witchess Knight	20180803214450	win	4	false
+Witchess Knight	20180803214459	skill 7170	1	true
+Witchess Knight	20180803214459	skill 7273	2	true
+Witchess Knight	20180803214459	use 9497	3	true
+Witchess Knight	20180803214459	win	4	false

@@ -1,0 +1,805 @@
+[24]ten-leaf clover	[196]disassembled clover	1.0
+[84]Orcish meat locker	[86]rusty metal key	-1.0
+[86]rusty metal key	[84]Orcish meat locker	-1.0
+[138]ice-cold six-pack	[41]ice-cold Sir Schlitz	6.0
+[159]wad of dough	[301]flat dough	1.0
+[184]briefcase	[185]fat stacks of cash	0.5
+[196]disassembled clover	[24]ten-leaf clover	1.0
+[301]flat dough	[159]wad of dough	1.0
+[400]handful of drink tickets	[41]ice-cold Sir Schlitz	0.388
+[400]handful of drink tickets	[81]ice-cold Willer	0.388
+[400]handful of drink tickets	[180]ice-cold fotie	0.388
+[400]handful of drink tickets	[237]bottle of gin	0.388
+[400]handful of drink tickets	[238]bottle of vodka	0.388
+[400]handful of drink tickets	[328]bottle of whiskey	0.388
+[400]handful of drink tickets	[787]bottle of rum	0.388
+[400]handful of drink tickets	[1004]bottle of tequila	0.388
+[400]handful of drink tickets	[1005]boxed wine	0.388
+[401]Knob Kitchen grab-bag	[8]spices	1.0
+[401]Knob Kitchen grab-bag	[159]wad of dough	1.0
+[401]Knob Kitchen grab-bag	[302]Knob sausage	1.0
+[401]Knob Kitchen grab-bag	[303]Knob mushroom	1.0
+[413]Jolly Roger charrrm bracelet	[411]Jolly Roger charrrm	1.0
+[413]Jolly Roger charrrm bracelet	[2953]charrrm bracelet	1.0
+[500]Elf Farm Raffle ticket	[501]Elfin shortbread	1.0
+[504]evil golden arches	[568]Double Bacon Beelzeburger	0.75
+[504]evil golden arches	[569]Lord of the Flies-sized fries	0.75
+[504]evil golden arches	[570]Brimstone Chicken Sandwich	0.75
+[504]evil golden arches	[571]Jumbo Dr. Lucifer	0.75
+[533]Gnollish toolbox	[118]spring	0.625
+[533]Gnollish toolbox	[119]sprocket	0.625
+[533]Gnollish toolbox	[120]cog	0.625
+[533]Gnollish toolbox	[124]empty meat tank	0.625
+[553]31337 scroll	[24]ten-leaf clover	1.5
+[553]31337 scroll	[43]worthless trinket	0.833
+[553]31337 scroll	[44]worthless gewgaw	0.833
+[553]31337 scroll	[45]worthless knick-knack	0.833
+[604]Penultimate Fantasy chest	[587]super-spiky hair gel	0.583
+[604]Penultimate Fantasy chest	[588]soft green echo eyedrop antidote	0.583
+[604]Penultimate Fantasy chest	[589]cocoa eggshell fragment	0.583
+[604]Penultimate Fantasy chest	[592]tiny house	0.583
+[604]Penultimate Fantasy chest	[593]phonics down	0.583
+[604]Penultimate Fantasy chest	[595]scroll of drastic healing	0.583
+[643]skeleton key ring	[642]skeleton key	4.0
+[644]Crimbo pressie	[427]box	1.0
+[644]Crimbo pressie	[645]wrapping paper	1.0
+[644]Crimbo pressie	[646]fruitcake	1.0
+[647]present	[427]box	1.0
+[647]present	[645]wrapping paper	1.0
+[707]pork elf goodies sack	[704]hamethyst	1.666
+[707]pork elf goodies sack	[705]baconstone	1.666
+[707]pork elf goodies sack	[706]porquoise	1.666
+[780]scroll of pasta summoning	[17]spicy noodles	0.11
+[780]scroll of pasta summoning	[573]delicious noodles	0.11
+[780]scroll of pasta summoning	[574]delicious spicy noodles	0.11
+[780]scroll of pasta summoning	[575]painful penne pasta	0.11
+[780]scroll of pasta summoning	[576]ravioli della hippy	0.11
+[780]scroll of pasta summoning	[579]boring spaghetti	0.11
+[780]scroll of pasta summoning	[583]fettucini Inconnu	0.11
+[780]scroll of pasta summoning	[584]spaghetti with Skullheads	0.11
+[780]scroll of pasta summoning	[585]gnocchetti di Nietzsche	0.11
+[831]small box	[819]milky potion	0.33
+[831]small box	[820]swirly potion	0.33
+[831]small box	[821]bubbly potion	0.33
+[831]small box	[822]smoky potion	0.33
+[831]small box	[823]cloudy potion	0.33
+[831]small box	[824]effervescent potion	0.33
+[831]small box	[825]fizzy potion	0.33
+[831]small box	[826]dark potion	0.33
+[831]small box	[827]murky potion	0.33
+[832]large box	[819]milky potion	0.55
+[832]large box	[820]swirly potion	0.55
+[832]large box	[821]bubbly potion	0.55
+[832]large box	[822]smoky potion	0.55
+[832]large box	[823]cloudy potion	0.55
+[832]large box	[824]effervescent potion	0.55
+[832]large box	[825]fizzy potion	0.55
+[832]large box	[826]dark potion	0.55
+[832]large box	[827]murky potion	0.55
+[939]small Crimbo Pressie	[935]imitation nice watch	0.333
+[939]small Crimbo Pressie	[936]Hanukkimbo dreidl	0.333
+[939]small Crimbo Pressie	[938]tiny plastic sword	0.333
+[939]small Crimbo Pressie	[940]bow	1.0
+[941]Crimbo stocking	[932]eggnog	1.0
+[941]Crimbo stocking	[933]candy cane	1.0
+[941]Crimbo stocking	[934]gingerbread bugbear	1.0
+[941]Crimbo stocking	[939]small Crimbo Pressie	1.0
+[951]extra special Crimbo stocking	[194]Mr. Accessory	1.0
+[951]extra special Crimbo stocking	[932]eggnog	1.0
+[951]extra special Crimbo stocking	[933]candy cane	1.0
+[951]extra special Crimbo stocking	[934]gingerbread bugbear	1.0
+[951]extra special Crimbo stocking	[939]small Crimbo Pressie	1.0
+[1134]spooky cosmetics bag	[1135]spooky eyeliner	5.0
+[1134]spooky cosmetics bag	[1136]spooky lipstick	5.0
+[1155]letter from King Ralph XI	[196]disassembled clover	1.0
+[1155]letter from King Ralph XI	[707]pork elf goodies sack	1.0
+[1161]pile of candy	[540]Tasty Fun Good rice candy	0.25
+[1161]pile of candy	[617]Angry Farmer candy	0.25
+[1161]pile of candy	[905]Yummy Tummy bean	0.25
+[1161]pile of candy	[1163]marzipan skull	0.25
+[1183]all-purpose flower	[159]wad of dough	40.0
+[1332]Cloaca-Cola knapsack	[1336]Cloaca grenade	1.5
+[1332]Cloaca-Cola knapsack	[1339]Cloaca-Cola c-rations	0.5
+[1332]Cloaca-Cola knapsack	[1340]Cloaca-Cola-issue combat knife	0.2
+[1332]Cloaca-Cola knapsack	[1342]picture of a dead guy's girlfriend	0.075
+[1333]Dyspepsi-Cola knapsack	[1335]Dyspepsi grenade	1.5
+[1333]Dyspepsi-Cola knapsack	[1338]Dyspepsi-Cola d-rations	0.5
+[1333]Dyspepsi-Cola knapsack	[1341]Dyspepsi-Cola-issue canteen	0.2
+[1333]Dyspepsi-Cola knapsack	[1342]picture of a dead guy's girlfriend	0.1
+[1338]Dyspepsi-Cola d-rations	[347]Dyspepsi-Cola	6.0
+[1339]Cloaca-Cola c-rations	[1334]Cloaca-Cola	6.0
+[1429]roll of drink tickets	[81]ice-cold Willer	1.0
+[1429]roll of drink tickets	[237]bottle of gin	1.0
+[1429]roll of drink tickets	[238]bottle of vodka	1.0
+[1429]roll of drink tickets	[328]bottle of whiskey	1.0
+[1429]roll of drink tickets	[787]bottle of rum	1.0
+[1429]roll of drink tickets	[1004]bottle of tequila	1.0
+[1429]roll of drink tickets	[1005]boxed wine	1.0
+[1433]fruit bowl	[242]orange	0.388
+[1433]fruit bowl	[243]grapefruit	0.388
+[1433]fruit bowl	[244]grapes	0.388
+[1433]fruit bowl	[245]olive	0.388
+[1433]fruit bowl	[246]tomato	0.388
+[1433]fruit bowl	[332]lemon	0.388
+[1433]fruit bowl	[498]papaya	0.388
+[1433]fruit bowl	[786]strawberry	0.388
+[1434]fruit basket	[242]orange	0.388
+[1434]fruit basket	[243]grapefruit	0.388
+[1434]fruit basket	[244]grapes	0.388
+[1434]fruit basket	[245]olive	0.388
+[1434]fruit basket	[246]tomato	0.388
+[1434]fruit basket	[332]lemon	0.388
+[1434]fruit basket	[333]lime	0.833
+[1434]fruit basket	[455]jumbo olive	0.833
+[1434]fruit basket	[498]papaya	0.388
+[1434]fruit basket	[672]cranberries	0.388
+[1434]fruit basket	[786]strawberry	0.388
+[1434]fruit basket	[1006]cherry	0.833
+[1529]St. Sneaky Pete's Day goodies basket	[237]bottle of gin	0.75
+[1529]St. Sneaky Pete's Day goodies basket	[238]bottle of vodka	0.75
+[1529]St. Sneaky Pete's Day goodies basket	[328]bottle of whiskey	0.75
+[1529]St. Sneaky Pete's Day goodies basket	[787]bottle of rum	0.75
+[1529]St. Sneaky Pete's Day goodies basket	[1004]bottle of tequila	0.75
+[1529]St. Sneaky Pete's Day goodies basket	[1005]boxed wine	0.75
+[1529]St. Sneaky Pete's Day goodies basket	[1048]red striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1049]red polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1050]red paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1051]red plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1052]blue striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1053]blue polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1054]blue paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1055]blue plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1056]puce striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1057]puce polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1058]puce paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1059]puce plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1060]mauve striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1061]mauve polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1062]mauve paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1063]mauve plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1064]lavender striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1065]lavender polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1066]lavender paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1067]lavender plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1068]black striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1069]black polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1070]black paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1071]black plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1072]off-white striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1073]off-white polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1074]off-white paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1075]off-white plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1076]yellow striped oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1077]yellow polka-dot oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1078]yellow paisley oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1079]yellow plastic oyster egg	0.140625
+[1529]St. Sneaky Pete's Day goodies basket	[1080]oyster basket	0.333
+[1529]St. Sneaky Pete's Day goodies basket	[1114]tisket	0.333
+[1529]St. Sneaky Pete's Day goodies basket	[1115]tasket	0.333
+[1529]St. Sneaky Pete's Day goodies basket	[1530]fake plastic grass	1.0
+[1767]pack of chewing gum	[297]tamarind-flavored chewing gum	1.0
+[1767]pack of chewing gum	[298]lime-and-chile-flavored chewing gum	1.0
+[1767]pack of chewing gum	[299]pickle-flavored chewing gum	1.0
+[1767]pack of chewing gum	[300]jaba&ntilde;ero-flavored chewing gum	1.0
+[1768]Gnomish toolbox	[118]spring	0.85
+[1768]Gnomish toolbox	[119]sprocket	0.85
+[1768]Gnomish toolbox	[120]cog	0.72
+[1768]Gnomish toolbox	[959]flange	0.044
+[1768]Gnomish toolbox	[960]clockwork key	0.035
+[1786]six pack of Mountain Stream	[357]Mountain Stream soda	6.0
+[1789]frozen Mob Penguin	[393]penguin skin	1.0
+[1789]frozen Mob Penguin	[776]kneecapping stick	0.17
+[1789]frozen Mob Penguin	[777]iron pasta spoon	0.17
+[1789]frozen Mob Penguin	[778]support cummerbund	0.17
+[1789]frozen Mob Penguin	[779]Mob Penguin cellular phone	0.33
+[1789]frozen Mob Penguin	[780]scroll of pasta summoning	0.33
+[1789]frozen Mob Penguin	[781]mafia aria	0.33
+[1798]pile of dusty animal bones	[1800]dusty animal cranium	0.0075
+[1798]pile of dusty animal bones	[1801]dusty animal jawbone	0.0075
+[1798]pile of dusty animal bones	[1802]dusty first cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1803]dusty second cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1804]dusty third cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1805]dusty fourth cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1806]dusty fifth cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1807]dusty sixth cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1808]dusty seventh cervical vertebra	0.0075
+[1798]pile of dusty animal bones	[1809]dusty first thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1810]dusty second thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1811]dusty third thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1812]dusty fourth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1813]dusty fifth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1814]dusty sixth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1815]dusty seventh thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1816]dusty eighth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1817]dusty ninth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1818]dusty tenth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1819]dusty eleventh thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1820]dusty twelfth thoracic vertebra	0.0075
+[1798]pile of dusty animal bones	[1821]dusty first lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1822]dusty second lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1823]dusty third lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1824]dusty fourth lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1825]dusty fifth lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1826]dusty sixth lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1827]dusty seventh lumbar vertebra	0.0075
+[1798]pile of dusty animal bones	[1828]dusty sacral vertebrae	0.0075
+[1798]pile of dusty animal bones	[1829]dusty first caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1830]dusty second caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1831]dusty third caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1832]dusty fourth caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1833]dusty fifth caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1834]dusty sixth caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1835]dusty seventh caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1836]dusty eighth caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1837]dusty ninth caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1838]dusty tenth caudal vertebra	0.0075
+[1798]pile of dusty animal bones	[1839]dusty left first rib	0.0075
+[1798]pile of dusty animal bones	[1840]dusty left second rib	0.0075
+[1798]pile of dusty animal bones	[1841]dusty left third rib	0.0075
+[1798]pile of dusty animal bones	[1842]dusty left fourth rib	0.0075
+[1798]pile of dusty animal bones	[1843]dusty left fifth rib	0.0075
+[1798]pile of dusty animal bones	[1844]dusty left sixth rib	0.0075
+[1798]pile of dusty animal bones	[1845]dusty left seventh rib	0.0075
+[1798]pile of dusty animal bones	[1846]dusty left eighth rib	0.0075
+[1798]pile of dusty animal bones	[1847]dusty left ninth rib	0.0075
+[1798]pile of dusty animal bones	[1848]dusty left tenth rib	0.0075
+[1798]pile of dusty animal bones	[1849]dusty left eleventh rib	0.0075
+[1798]pile of dusty animal bones	[1850]dusty left twelfth rib	0.0075
+[1798]pile of dusty animal bones	[1851]dusty right first rib	0.0075
+[1798]pile of dusty animal bones	[1852]dusty right second rib	0.0075
+[1798]pile of dusty animal bones	[1853]dusty right third rib	0.0075
+[1798]pile of dusty animal bones	[1854]dusty right fourth rib	0.0075
+[1798]pile of dusty animal bones	[1855]dusty right fifth rib	0.0075
+[1798]pile of dusty animal bones	[1856]dusty right sixth rib	0.0075
+[1798]pile of dusty animal bones	[1857]dusty right seventh rib	0.0075
+[1798]pile of dusty animal bones	[1858]dusty right eighth rib	0.0075
+[1798]pile of dusty animal bones	[1859]dusty right ninth rib	0.0075
+[1798]pile of dusty animal bones	[1860]dusty right tenth rib	0.0075
+[1798]pile of dusty animal bones	[1861]dusty right eleventh rib	0.0075
+[1798]pile of dusty animal bones	[1862]dusty right twelfth rib	0.0075
+[1798]pile of dusty animal bones	[1863]dusty animal pelvis	0.0075
+[1798]pile of dusty animal bones	[1864]dusty left scapula	0.0075
+[1798]pile of dusty animal bones	[1865]dusty right scapula	0.0075
+[1798]pile of dusty animal bones	[1866]dusty left clavicle	0.0075
+[1798]pile of dusty animal bones	[1867]dusty right clavicle	0.0075
+[1798]pile of dusty animal bones	[1868]dusty left humerus	0.0075
+[1798]pile of dusty animal bones	[1869]dusty right humerus	0.0075
+[1798]pile of dusty animal bones	[1870]dusty left radius	0.0075
+[1798]pile of dusty animal bones	[1871]dusty right radius	0.0075
+[1798]pile of dusty animal bones	[1872]dusty left ulna	0.0075
+[1798]pile of dusty animal bones	[1873]dusty right ulna	0.0075
+[1798]pile of dusty animal bones	[1874]dusty left femur	0.0075
+[1798]pile of dusty animal bones	[1875]dusty right femur	0.0075
+[1798]pile of dusty animal bones	[1876]dusty left tibia	0.0075
+[1798]pile of dusty animal bones	[1877]dusty right tibia	0.0075
+[1798]pile of dusty animal bones	[1878]dusty left fibula	0.0075
+[1798]pile of dusty animal bones	[1879]dusty right fibula	0.0075
+[1798]pile of dusty animal bones	[1880]dusty left kneecap	0.0075
+[1798]pile of dusty animal bones	[1881]dusty right kneecap	0.0075
+[1798]pile of dusty animal bones	[1882]dusty left first front claw	0.0075
+[1798]pile of dusty animal bones	[1883]dusty left second front claw	0.0075
+[1798]pile of dusty animal bones	[1884]dusty left third front claw	0.0075
+[1798]pile of dusty animal bones	[1885]dusty left fourth front claw	0.0075
+[1798]pile of dusty animal bones	[1886]dusty right first front claw	0.0075
+[1798]pile of dusty animal bones	[1887]dusty right second front claw	0.0075
+[1798]pile of dusty animal bones	[1888]dusty right third front claw	0.0075
+[1798]pile of dusty animal bones	[1889]dusty right fourth front claw	0.0075
+[1798]pile of dusty animal bones	[1890]dusty left thumb	0.0075
+[1798]pile of dusty animal bones	[1891]dusty right thumb	0.0075
+[1798]pile of dusty animal bones	[1892]dusty left first rear claw	0.0075
+[1798]pile of dusty animal bones	[1893]dusty left second rear claw	0.0075
+[1798]pile of dusty animal bones	[1894]dusty left third rear claw	0.0075
+[1798]pile of dusty animal bones	[1895]dusty left fourth rear claw	0.0075
+[1798]pile of dusty animal bones	[1896]dusty right first rear claw	0.0075
+[1798]pile of dusty animal bones	[1897]dusty right second rear claw	0.0075
+[1798]pile of dusty animal bones	[1898]dusty right third rear claw	0.0075
+[1798]pile of dusty animal bones	[1899]dusty right fourth rear claw	0.0075
+[1998]pack of KWE trading card	[-1]none	0.0625
+[1998]pack of KWE trading card	[1999]stick of &quot;gum&quot;	1.0
+[1998]pack of KWE trading card	[2001]Vaso De Agua trading card	0.0625
+[1998]pack of KWE trading card	[2002]The Grand Poo-Bah trading card	0.0625
+[1998]pack of KWE trading card	[2003]Thorny Toad trading card	0.0625
+[1998]pack of KWE trading card	[2004]Chori Zo trading card	0.0625
+[1998]pack of KWE trading card	[2005]Morbidda trading card	0.0625
+[1998]pack of KWE trading card	[2006]Poison Oak trading card	0.0625
+[1998]pack of KWE trading card	[2007]Princess Rutabaga trading card	0.0625
+[1998]pack of KWE trading card	[2008]Roo trading card	0.0625
+[1998]pack of KWE trading card	[2009]Woldo trading card	0.0625
+[1998]pack of KWE trading card	[2010]The Snake trading card	0.0625
+[1998]pack of KWE trading card	[2011]Nayztameetjoo trading card	0.0625
+[1998]pack of KWE trading card	[2012]Arrrmetia trading card	0.0625
+[1998]pack of KWE trading card	[2013]Serenity trading card	0.0625
+[1998]pack of KWE trading card	[2014]Inndya trading card	0.0625
+[1998]pack of KWE trading card	[2015]Kitty the Zmobie Basher trading card	0.0625
+[2058]black picnic basket	[2338]black pudding	0.583
+[2058]black picnic basket	[2339]Blackfly Chardonnay	0.583
+[2058]black picnic basket	[2340]black & tan	0.583
+[2058]black picnic basket	[2341]black pepper	0.583
+[2058]black picnic basket	[2342]black forest cake	0.583
+[2058]black picnic basket	[2343]black forest ham	0.583
+[2372]bunch of bananas	[2373]banana	5.0
+[2449]six-pack of New Cloaca-Cola	[2437]New Cloaca-Cola	6.0
+[2536]canopic jar	[2537]ancient spice	0.495
+[2536]canopic jar	[2538]powdered organs	0.495
+[2536]canopic jar	[2539]Ankh of Badahnkadh	0.01
+[2592]Knob Goblin lunchbox	[2593]Knob pasty	1.5
+[2592]Knob Goblin lunchbox	[2594]thermos full of Knob coffee	1.5
+[2959]rum barrel charrrm bracelet	[2953]charrrm bracelet	1.0
+[2959]rum barrel charrrm bracelet	[2957]rum barrel charrrm	1.0
+[2973]grumpy old man charrrm bracelet	[2953]charrrm bracelet	1.0
+[2973]grumpy old man charrrm bracelet	[2972]grumpy old man charrrm	1.0
+[2975]tarrrnished charrrm bracelet	[2953]charrrm bracelet	1.0
+[2975]tarrrnished charrrm bracelet	[2974]tarrrnish charrrm	1.0
+[2981]booty chest charrrm bracelet	[2953]charrrm bracelet	1.0
+[2981]booty chest charrrm bracelet	[2980]booty chest charrrm	1.0
+[2983]cannonball charrrm bracelet	[2953]charrrm bracelet	1.0
+[2983]cannonball charrrm bracelet	[2982]cannonball charrrm	1.0
+[2985]copper ha'penny charrrm bracelet	[2953]charrrm bracelet	1.0
+[2985]copper ha'penny charrrm bracelet	[2984]copper ha'penny charrrm	1.0
+[2987]silver tongue charrrm bracelet	[2953]charrrm bracelet	1.0
+[2987]silver tongue charrrm bracelet	[2986]silver tongue charrrm	1.0
+[3013]simple ancient cursed key	[3016]ancient cursed foot locker	-1.0
+[3013]simple ancient cursed key	[3034]cursed piece of thirteen	0.35
+[3013]simple ancient cursed key	[3035]cursed black pearl onion	0.35
+[3013]simple ancient cursed key	[3036]cursed sea biscuit	0.35
+[3013]simple ancient cursed key	[3037]cursed bottle of rum	0.35
+[3013]simple ancient cursed key	[3038]cursed bottle of black-label rum	0.35
+[3013]simple ancient cursed key	[3039]cursed cannonball	0.7
+[3013]simple ancient cursed key	[3040]cursed voodoo skull	0.7
+[3013]simple ancient cursed key	[3041]cursed dirty joke scroll	0.7
+[3014]ornate ancient cursed key	[3017]ornate ancient cursed chest	-1.0
+[3014]ornate ancient cursed key	[3034]cursed piece of thirteen	0.325
+[3014]ornate ancient cursed key	[3035]cursed black pearl onion	0.62
+[3014]ornate ancient cursed key	[3037]cursed bottle of rum	0.62
+[3014]ornate ancient cursed key	[3038]cursed bottle of black-label rum	0.62
+[3014]ornate ancient cursed key	[3039]cursed cannonball	0.325
+[3014]ornate ancient cursed key	[3040]cursed voodoo skull	0.325
+[3014]ornate ancient cursed key	[3041]cursed dirty joke scroll	0.325
+[3015]gilded ancient cursed key	[3018]gilded ancient cursed chest	-1.0
+[3015]gilded ancient cursed key	[3034]cursed piece of thirteen	1.4
+[3015]gilded ancient cursed key	[3035]cursed black pearl onion	0.35
+[3015]gilded ancient cursed key	[3036]cursed sea biscuit	0.35
+[3015]gilded ancient cursed key	[3037]cursed bottle of rum	0.35
+[3015]gilded ancient cursed key	[3038]cursed bottle of black-label rum	0.35
+[3015]gilded ancient cursed key	[3039]cursed cannonball	0.35
+[3015]gilded ancient cursed key	[3040]cursed voodoo skull	0.35
+[3015]gilded ancient cursed key	[3041]cursed dirty joke scroll	0.35
+[3016]ancient cursed foot locker	[3013]simple ancient cursed key	-1.0
+[3016]ancient cursed foot locker	[3034]cursed piece of thirteen	0.35
+[3016]ancient cursed foot locker	[3035]cursed black pearl onion	0.35
+[3016]ancient cursed foot locker	[3036]cursed sea biscuit	0.35
+[3016]ancient cursed foot locker	[3037]cursed bottle of rum	0.35
+[3016]ancient cursed foot locker	[3038]cursed bottle of black-label rum	0.35
+[3016]ancient cursed foot locker	[3039]cursed cannonball	0.7
+[3016]ancient cursed foot locker	[3040]cursed voodoo skull	0.7
+[3016]ancient cursed foot locker	[3041]cursed dirty joke scroll	0.7
+[3017]ornate ancient cursed chest	[3014]ornate ancient cursed key	-1.0
+[3017]ornate ancient cursed chest	[3034]cursed piece of thirteen	0.325
+[3017]ornate ancient cursed chest	[3035]cursed black pearl onion	0.62
+[3017]ornate ancient cursed chest	[3037]cursed bottle of rum	0.62
+[3017]ornate ancient cursed chest	[3038]cursed bottle of black-label rum	0.62
+[3017]ornate ancient cursed chest	[3039]cursed cannonball	0.325
+[3017]ornate ancient cursed chest	[3040]cursed voodoo skull	0.325
+[3017]ornate ancient cursed chest	[3041]cursed dirty joke scroll	0.325
+[3018]gilded ancient cursed chest	[3015]gilded ancient cursed key	-1.0
+[3018]gilded ancient cursed chest	[3034]cursed piece of thirteen	1.4
+[3018]gilded ancient cursed chest	[3035]cursed black pearl onion	0.35
+[3018]gilded ancient cursed chest	[3036]cursed sea biscuit	0.35
+[3018]gilded ancient cursed chest	[3037]cursed bottle of rum	0.35
+[3018]gilded ancient cursed chest	[3038]cursed bottle of black-label rum	0.35
+[3018]gilded ancient cursed chest	[3039]cursed cannonball	0.35
+[3018]gilded ancient cursed chest	[3040]cursed voodoo skull	0.35
+[3018]gilded ancient cursed chest	[3041]cursed dirty joke scroll	0.35
+[3115]old-fashioned Crimbo Pressie	[3092]handmade hobby horse	0.333
+[3115]old-fashioned Crimbo Pressie	[3093]ball-in-a-cup	0.333
+[3115]old-fashioned Crimbo Pressie	[3094]set of jacks	0.333
+[3290]abandoned candy	[905]Yummy Tummy bean	0.7
+[3290]abandoned candy	[906]Rock Pops	0.7
+[3290]abandoned candy	[907]Mr. Mediocrebar	0.7
+[3290]abandoned candy	[2088]Daffy Taffy	0.7
+[3290]abandoned candy	[2940]Spooky Surprise Egg	0.7
+[3321]packet of mayfly bait	[3322]mayfly bait necklace	1.0
+[3427]roll of Hob-Os	[3422]sterno-flavored Hob-O	0.9
+[3427]roll of Hob-Os	[3423]frostbite-flavored Hob-O	0.9
+[3427]roll of Hob-Os	[3424]fry-oil-flavored Hob-O	0.9
+[3427]roll of Hob-Os	[3425]garbage-juice-flavored Hob-O	0.9
+[3427]roll of Hob-Os	[3426]strawberry-flavored Hob-O	0.9
+[3445]Junior Adventurer's kit	[3456]trusty torch	1.0
+[3445]Junior Adventurer's kit	[3457]Junior Adventurer's merit badge	1.0
+[3445]Junior Adventurer's kit	[3458]STYX deodorant body spray	1.0
+[3445]Junior Adventurer's kit	[3459]white-label gin	3.0
+[3445]Junior Adventurer's kit	[3460]tin rations	3.0
+[3571]flytrap pellet	[3486]dull fish scale	0.16
+[3571]flytrap pellet	[3572]baby cuddlefish	0.03
+[3571]flytrap pellet	[3576]flytrap bezoar	0.01
+[3574]slimy chest	[3575]sand dollar	3.8
+[3574]slimy chest	[3906]figurine of a sleek seal	0.05
+[3593]Mer-kin thingpouch	[3575]sand dollar	2.4
+[3593]Mer-kin thingpouch	[3594]Mer-kin killscroll	0.1
+[3593]Mer-kin thingpouch	[3595]Mer-kin fastjuice	0.1
+[3596]imitation crab crate	[3597]imitation crab meat	2.45
+[3596]imitation crab crate	[3598]imitation crab zoea	0.02
+[3612]sturdy Crimbo crate	[1393]pet rock	0.015
+[3612]sturdy Crimbo crate	[1395]teddy bear	0.015
+[3612]sturdy Crimbo crate	[1398]doll house	0.455
+[3612]sturdy Crimbo crate	[2146]evil teddy bear	0.015
+[3612]sturdy Crimbo crate	[2148]toothsome rock	0.015
+[3612]sturdy Crimbo crate	[3067]dollhive	0.455
+[3612]sturdy Crimbo crate	[3079]Bulky Buddy Box	0.015
+[3612]sturdy Crimbo crate	[3080]teddy borg	0.015
+[3613]battered Crimbo Crate	[646]fruitcake	0.077
+[3613]battered Crimbo Crate	[932]eggnog	0.077
+[3613]battered Crimbo Crate	[933]candy cane	0.077
+[3613]battered Crimbo Crate	[934]gingerbread bugbear	0.077
+[3613]battered Crimbo Crate	[2193]candy stake	0.077
+[3613]battered Crimbo Crate	[2194]spooky eggnog	0.077
+[3613]battered Crimbo Crate	[2195]ancient unspeakable fruitcake	0.077
+[3613]battered Crimbo Crate	[2196]gingerbread horror	0.077
+[3613]battered Crimbo Crate	[3045]nanite-infested gingerbread bugbear	0.077
+[3613]battered Crimbo Crate	[3046]nanite-infested candy cane	0.077
+[3613]battered Crimbo Crate	[3047]nanite-infested fruitcake	0.077
+[3613]battered Crimbo Crate	[3048]nanite-infested eggnog	0.077
+[3630]dusty Crimbo crate	[1389]yo-yo	0.055
+[3630]dusty Crimbo crate	[1390]top	0.055
+[3630]dusty Crimbo crate	[1391]ball	0.055
+[3630]dusty Crimbo crate	[1394]stuffed doppelshifter	0.055
+[3630]dusty Crimbo crate	[1396]duck-on-a-string	0.0277
+[3630]dusty Crimbo crate	[1397]toy soldier	0.055
+[3630]dusty Crimbo crate	[1399]toy train	0.0277
+[3630]dusty Crimbo crate	[1402]rag doll	0.0277
+[3630]dusty Crimbo crate	[2129]possessed top	0.055
+[3630]dusty Crimbo crate	[2130]killer rag doll	0.0277
+[3630]dusty Crimbo crate	[2131]tree-eating kite	0.055
+[3630]dusty Crimbo crate	[2132]incredibly creepy marionette	0.0277
+[3630]dusty Crimbo crate	[2133]fancy dress ball	0.055
+[3630]dusty Crimbo crate	[2134]mad scientist's sock monkey	0.0277
+[3630]dusty Crimbo crate	[2135]stuffed alien blob	0.055
+[3630]dusty Crimbo crate	[2136]vampire duck-on-a-string	0.0277
+[3630]dusty Crimbo crate	[2137]toy crazy train	0.0277
+[3630]dusty Crimbo crate	[2138]razor-tipped yo-yo	0.055
+[3630]dusty Crimbo crate	[2139]toy mercenary	0.055
+[3630]dusty Crimbo crate	[2168]toy ray gun	0.0277
+[3630]dusty Crimbo crate	[2169]toy space helmet	0.0277
+[3630]dusty Crimbo crate	[2170]MagiMechTech NanoMechaMech	0.0277
+[3630]dusty Crimbo crate	[2171]astronaut pants	0.0277
+[3630]dusty Crimbo crate	[2172]toy jet pack	0.0277
+[3630]dusty Crimbo crate	[3063]gyroscope	0.055
+[3630]dusty Crimbo crate	[3064]cyborg doll	0.0277
+[3630]dusty Crimbo crate	[3065]buckyball	0.055
+[3630]dusty Crimbo crate	[3066]toy maglev monorail	0.0277
+[3630]dusty Crimbo crate	[3068]toy deathbot	0.055
+[3630]dusty Crimbo crate	[3081]marionette collective	0.0277
+[3630]dusty Crimbo crate	[3082]monomolecular yo-yo	0.055
+[3630]dusty Crimbo crate	[3083]stuffed gray blob	0.055
+[3630]dusty Crimbo crate	[3084]borg sock monkey	0.0277
+[3630]dusty Crimbo crate	[3085]roboduck-on-a-string	0.0277
+[3630]dusty Crimbo crate	[3086]mylar scout drone	0.055
+[3671]Uncle Crimbo's Rations	[3672]can of franks 'n' beans	1.5
+[3671]Uncle Crimbo's Rations	[3673]bottle of peppermint schnapps	1.5
+[3676]Mer-kin foodbucket	[3687]sea broccoli	0.625
+[3676]Mer-kin foodbucket	[3688]sea cauliflower	0.625
+[3676]Mer-kin foodbucket	[3691]sea blueberry	0.625
+[3676]Mer-kin foodbucket	[3692]sea persimmon	0.625
+[3739]Boozehounds Anonymous token	[248]salty dog	0.0833
+[3739]Boozehounds Anonymous token	[250]screwdriver	0.0833
+[3739]Boozehounds Anonymous token	[251]martini	0.0833
+[3739]Boozehounds Anonymous token	[674]whiskey sour	0.0833
+[3739]Boozehounds Anonymous token	[788]strawberry daiquiri	0.0833
+[3739]Boozehounds Anonymous token	[1009]vodka martini	0.0833
+[3739]Boozehounds Anonymous token	[1010]whiskey and soda	0.0833
+[3739]Boozehounds Anonymous token	[1011]monkey wrench	0.0833
+[3739]Boozehounds Anonymous token	[1012]tequila sunrise	0.0833
+[3739]Boozehounds Anonymous token	[1013]margarita	0.0833
+[3739]Boozehounds Anonymous token	[1014]strawberry wine	0.0833
+[3739]Boozehounds Anonymous token	[1015]wine spritzer	0.0833
+[3781]blank prescription sheet	[3782]bottle of melodramamine	0.97
+[3781]blank prescription sheet	[3783]bottle of extra-strength melodramamine	0.3
+[3914]turtle wax	[3915]turtle wax shield	1.0
+[3915]turtle wax shield	[3916]turtle wax helmet	1.0
+[3916]turtle wax helmet	[3917]turtle wax greaves	1.0
+[3917]turtle wax greaves	[3915]turtle wax shield	1.0
+[3946]Clan VIP Lounge invitation	[3947]Clan VIP Lounge key	1.0
+[3949]stuffed treasure chest	[3948]stuffed Meat	0.5
+[3949]stuffed treasure chest	[3950]stuffed key	-1.0
+[3949]stuffed treasure chest	[3951]stuffed Baron von Ratsworth	0.5
+[3949]stuffed treasure chest	[3952]stuffed monocle	0.5
+[3949]stuffed treasure chest	[3953]stuffed mink	0.5
+[3949]stuffed treasure chest	[3954]stuffed teddy butler	0.5
+[3949]stuffed treasure chest	[3955]stuffed martini	0.5
+[3949]stuffed treasure chest	[3956]stuffed crazy bastard sword	0.5
+[3949]stuffed treasure chest	[3957]stuffed tin of caviar	0.5
+[3950]stuffed key	[3948]stuffed Meat	0.5
+[3950]stuffed key	[3949]stuffed treasure chest	-1.0
+[3950]stuffed key	[3951]stuffed Baron von Ratsworth	0.5
+[3950]stuffed key	[3952]stuffed monocle	0.5
+[3950]stuffed key	[3953]stuffed mink	0.5
+[3950]stuffed key	[3954]stuffed teddy butler	0.5
+[3950]stuffed key	[3955]stuffed martini	0.5
+[3950]stuffed key	[3956]stuffed crazy bastard sword	0.5
+[3950]stuffed key	[3957]stuffed tin of caviar	0.5
+[3988]ancient turtle shell	[3989]ancient turtle shell powder	1.0
+[3996]boxcar turtle	[-1]none	0.909
+[3996]boxcar turtle	[8]spices	0.909
+[3996]boxcar turtle	[33]snorkel	0.909
+[3996]boxcar turtle	[46]wooden figurine	0.909
+[3996]boxcar turtle	[138]ice-cold six-pack	0.909
+[3996]boxcar turtle	[173]taco shell	0.909
+[3996]boxcar turtle	[184]briefcase	0.909
+[3996]boxcar turtle	[211]decorative fountain	0.909
+[3996]boxcar turtle	[1549]MSG	0.909
+[3996]boxcar turtle	[2245]knobby helmet turtle	0.0287
+[3996]boxcar turtle	[2247]sewer turtle	0.0287
+[3996]boxcar turtle	[2249]skeletortoise	0.0287
+[3996]boxcar turtle	[2251]box turtle	0.0287
+[3996]boxcar turtle	[2253]bottlecap turtle	0.0287
+[3996]boxcar turtle	[2255]furry green turtle	0.0287
+[3996]boxcar turtle	[3126]hobo nickel	0.909
+[3996]boxcar turtle	[3923]hedgeturtle	0.0287
+[3996]boxcar turtle	[3928]syncopated turtle	0.0287
+[3996]boxcar turtle	[3929]grinning turtle	0.0287
+[3996]boxcar turtle	[3975]padded tortoise	0.0287
+[3996]boxcar turtle	[3976]tortoboggan	0.0287
+[3996]boxcar turtle	[3977]painted turtle	0.0287
+[3996]boxcar turtle	[3979]sleeping wereturtle	0.0287
+[3996]boxcar turtle	[3981]torquoise	0.0287
+[3996]boxcar turtle	[3983]dueling turtle	0.0287
+[3996]boxcar turtle	[3985]soup turtle	0.0287
+[3996]boxcar turtle	[3986]samurai turtle	0.0287
+[3996]boxcar turtle	[3996]boxcar turtle	0.0287
+[3996]boxcar turtle	[4005]ballast turtle	0.0287
+[4091]tiny slimy cyst	[4095]green peawee marble	0.5
+[4091]tiny slimy cyst	[4096]brown crock marble	0.25
+[4091]tiny slimy cyst	[4097]red China marble	0.125
+[4091]tiny slimy cyst	[4098]lemonade marble	0.0625
+[4091]tiny slimy cyst	[4099]bumblebee marble	0.0
+[4091]tiny slimy cyst	[4100]jet bennie marble	0.015625
+[4091]tiny slimy cyst	[4101]beige clambroth marble	0.0078125
+[4091]tiny slimy cyst	[4102]steely marble	0.00390625
+[4091]tiny slimy cyst	[4103]beach ball marble	0.001953125
+[4091]tiny slimy cyst	[4104]black catseye marble	0.0
+[4091]tiny slimy cyst	[4105]big bumboozer marble	0.0
+[4092]small slimy cyst	[4095]green peawee marble	2.0
+[4092]small slimy cyst	[4096]brown crock marble	1.0
+[4092]small slimy cyst	[4097]red China marble	0.5
+[4092]small slimy cyst	[4098]lemonade marble	0.25
+[4092]small slimy cyst	[4099]bumblebee marble	0.125
+[4092]small slimy cyst	[4100]jet bennie marble	0.0625
+[4092]small slimy cyst	[4101]beige clambroth marble	0.03125
+[4092]small slimy cyst	[4102]steely marble	0.015625
+[4092]small slimy cyst	[4103]beach ball marble	0.0078125
+[4092]small slimy cyst	[4104]black catseye marble	0.00390625
+[4092]small slimy cyst	[4105]big bumboozer marble	0.001953125
+[4093]medium slimy cyst	[-1]none	0.125
+[4093]medium slimy cyst	[4119]old school flying disc	0.41
+[4093]medium slimy cyst	[4120]lawn dart	0.465
+[4094]big slimy cyst	[4116]rickety old unicycle	0.65
+[4094]big slimy cyst	[4117]crusty hula hoop	0.425
+[4094]big slimy cyst	[4121]red wagon	0.51
+[4122]wad of slimy rags	[4123]crown-shaped beanie	0.25
+[4122]wad of slimy rags	[4124]hopping socks	0.25
+[4122]wad of slimy rags	[4125]poodle skirt	0.25
+[4122]wad of slimy rags	[4126]letterman's jacket	0.25
+[4153]rockfish stomach	[3486]dull fish scale	0.1364
+[4153]rockfish stomach	[3487]rough fish scale	0.1364
+[4153]rockfish stomach	[3489]beefy fish meat	0.1364
+[4153]rockfish stomach	[3490]glistening fish meat	0.1364
+[4153]rockfish stomach	[3491]slick fish meat	0.1364
+[4153]rockfish stomach	[3523]shark cartilage	0.1364
+[4153]rockfish stomach	[3575]sand dollar	0.1364
+[4153]rockfish stomach	[3640]seaweed	0.1364
+[4153]rockfish stomach	[3815]midget clownfish	0.1364
+[4153]rockfish stomach	[3818]halibut	0.1364
+[4153]rockfish stomach	[4154]live lobster	0.1364
+[4189]floaty inverse geode	[4146]floaty sand	8.5
+[4189]floaty inverse geode	[4156]floaty pebbles	4.0
+[4189]floaty inverse geode	[4157]floaty gravel	1.0
+[4189]floaty inverse geode	[4158]floaty rock	0.5
+[4217]groupie bra	[412]barrrnacle	0.025
+[4217]groupie bra	[3486]dull fish scale	0.025
+[4217]groupie bra	[3495]sea salt crystal	0.025
+[4217]groupie bra	[3496]bazookafish bubble gum	0.025
+[4217]groupie bra	[3523]shark cartilage	0.025
+[4217]groupie bra	[3524]eel battery	0.025
+[4217]groupie bra	[3525]temporary teardrop tattoo	0.025
+[4217]groupie bra	[3553]soggy seed packet	0.025
+[4217]groupie bra	[3575]sand dollar	2.0
+[4217]groupie bra	[3611]sea grease	0.025
+[4217]groupie bra	[3782]bottle of melodramamine	0.025
+[4250]fisherman's sack	[4251]fish-oil smoke bomb	3.0
+[4250]fisherman's sack	[4252]vial of squid ink	1.0
+[4250]fisherman's sack	[4253]potion of fishy speed	1.0
+[4348]leftover Crimbo rations	[4360]expired can of franks 'n' beans	1.5
+[4348]leftover Crimbo rations	[4361]expired bottle of peppermint schnapps	1.5
+[4473]BRICKO sword	[4469]BRICKO brick	6.0
+[4488]BRICKO trunk	[4469]BRICKO brick	6.0
+[4488]BRICKO trunk	[4470]BRICKO eye brick	0.5
+[4759]Grumpy Bumpkin's Pumpkin Seed Catalog	[4760]packet of pumpkin seeds	1.0
+[4874]gaudy key	[485]snakehead charrrm	1.0
+[4930]Folder Holder	[6617]over-the-shoulder Folder Holder	1.0
+[5022]Alice's Army booster box	[4966]Pack of Alice's Army Cards	30.0
+[5045]astral hot dog dinner	[5043]astral hot dog	3.0
+[5046]astral six-pack	[5044]astral pilsner	6.0
+[5113]packet of orchid seeds	[2492]tropical orchid	6.0
+[5139]carton of astral energy drinks	[5140]astral energy drink	3.0
+[5301]Make-Your-Own-Vampire-Fangs kit	[5299]plastic vampire fangs	1.0
+[5403]Mint Salton Pepper's Peppermint Seed Catalog	[5404]Peppermint Pip Packet	1.0
+[5454]red gummi ingot	[5476]gummi salamander	1.0
+[5455]green gummi ingot	[5477]gummi snake	1.0
+[5456]yellow gummi ingot	[5478]gummi canary	1.0
+[5473]giant red gummi ingot	[5479]giant red gummi bear	1.0
+[5474]giant green gummi ingot	[5480]giant green gummi bear	1.0
+[5475]giant yellow gummi ingot	[5481]giant yellow gummi bear	1.0
+[5504]blessed large box	[819]milky potion	1.0
+[5504]blessed large box	[820]swirly potion	1.0
+[5504]blessed large box	[821]bubbly potion	1.0
+[5504]blessed large box	[822]smoky potion	1.0
+[5504]blessed large box	[823]cloudy potion	1.0
+[5504]blessed large box	[824]effervescent potion	1.0
+[5504]blessed large box	[825]fizzy potion	1.0
+[5504]blessed large box	[826]dark potion	1.0
+[5504]blessed large box	[827]murky potion	1.0
+[5790]box of bear arms	[5791]right bear arm	1.0
+[5790]box of bear arms	[5792]left bear arm	1.0
+[5879]Pete & Jackie's Dragon Tooth Emporium Catalog	[5880]packet of dragon's teeth	1.0
+[6237]cosmic six-pack	[6215]mediocre lager	6.0
+[6296]cosmic bucket	[6297]fragment of Jarlsberg's soul	15.0
+[6726]dude ranch souvenir crate	[328]bottle of whiskey	2.0
+[6726]dude ranch souvenir crate	[1007]coconut shell	2.0
+[6726]dude ranch souvenir crate	[2493]stick of dynamite	2.0
+[6727]tropical island souvenir crate	[635]little paper umbrella	2.0
+[6727]tropical island souvenir crate	[787]bottle of rum	2.0
+[6727]tropical island souvenir crate	[2492]tropical orchid	2.0
+[6728]ski resort souvenir crate	[145]barbed-wire fence	2.0
+[6728]ski resort souvenir crate	[238]bottle of vodka	2.0
+[6728]ski resort souvenir crate	[1008]magical ice cubes	2.0
+[6750]Gordon Beer's Beer Garden Catalog	[6751]packet of beer seeds	1.0
+[6757]can of Br&uuml;talbr&auml;u	[6766]fancy tin beer can	1.0
+[6758]can of Drooling Monk	[6766]fancy tin beer can	1.0
+[6759]can of Impetuous Scofflaw	[6766]fancy tin beer can	1.0
+[6968]warbear officer requisition box	[6969]warbear empathy chip	0.25
+[6968]warbear officer requisition box	[6970]warbear drone assembler	0.25
+[6968]warbear officer requisition box	[6971]warbear breakfast machine assembler	0.25
+[6968]warbear officer requisition box	[7034]warbear soda machine assembler	0.25
+[7069]Discontent&trade; Winter Garden Catalog	[7070]packet of winter seeds	1.0
+[7228]red box	[7229]red red wine	0.6
+[7228]red box	[7230]red rum	0.45
+[7228]red box	[7232]red velvet cake	0.45
+[7228]red box	[7233]red letter	0.45
+[7228]red box	[7234]red book	0.15
+[7228]red box	[7235]red masque	0.15
+[7228]red box	[7236]red hot poker	0.03
+[7228]red box	[7237]Red X Shield	0.15
+[7228]red box	[7238]red badge	0.15
+[7228]red box	[7239]red shirt	0.12
+[7228]red box	[7240]red coat	0.15
+[7228]red box	[7241]red shoe	0.15
+[7251]jug of Sneaky Pete's Mojo	[7252]shot of Sneaky Pete's Mojo	15.0
+[7515]plastic rock	[7516]witch's spare house key	1.0
+[7959]letter to Ed the Undying	[196]disassembled clover	1.0
+[7959]letter to Ed the Undying	[707]pork elf goodies sack	1.0
+[8184]Ed the Undying exhibit crate	[8185]The Crown of Ed the Undying	1.0
+[8381]Pack of Every Card	[8382]Deck of Every Card	1.0
+[8394]The Emperor's dry cleaning	[8395]The Emperor's new hat	0.333
+[8394]The Emperor's dry cleaning	[8396]The Emperor's new shirt	0.333
+[8394]The Emperor's dry cleaning	[8397]The Emperor's new pants	0.333
+[8457]broken high-temperature mining drill	[8422]high-temperature mining drill	0.75
+[8457]broken high-temperature mining drill	[8453]heat-resistant sheet metal	-1.0
+[8568]little firkin	[250]screwdriver	0.11
+[8568]little firkin	[251]martini	0.11
+[8568]little firkin	[788]strawberry daiquiri	0.11
+[8568]little firkin	[1009]vodka martini	0.11
+[8568]little firkin	[1012]tequila sunrise	0.11
+[8568]little firkin	[1013]margarita	0.11
+[8568]little firkin	[8578]bottle of Amontillado	0.11
+[8568]little firkin	[8579]barrel-aged martini	0.11
+[8568]little firkin	[8586]barrel gun	0.11
+[8569]normal barrel	[679]roll in the hay	0.125
+[8569]normal barrel	[680]slap and tickle	0.125
+[8569]normal barrel	[681]slip 'n' slide	0.125
+[8569]normal barrel	[682]a little sump'm sump'm	0.125
+[8569]normal barrel	[684]pink pony	0.125
+[8569]normal barrel	[797]rockin' wagon	0.125
+[8569]normal barrel	[8578]bottle of Amontillado	0.125
+[8569]normal barrel	[8586]barrel gun	0.125
+[8570]big tun	[1564]mimosette	0.11
+[8570]big tun	[1565]tequila sunset	0.11
+[8570]big tun	[1566]zmobie	0.11
+[8570]big tun	[1567]gin and tonic	0.11
+[8570]big tun	[1568]vodka and tonic	0.11
+[8570]big tun	[1570]gibson	0.11
+[8570]big tun	[8578]bottle of Amontillado	0.11
+[8570]big tun	[8579]barrel-aged martini	0.11
+[8570]big tun	[8586]barrel gun	0.11
+[8571]weathered barrel	[314]bean burrito	0.25
+[8571]weathered barrel	[317]enchanted bean burrito	0.25
+[8571]weathered barrel	[1254]jumping bean burrito	0.25
+[8571]weathered barrel	[2373]banana	0.25
+[8572]dusty barrel	[315]spicy bean burrito	0.25
+[8572]dusty barrel	[318]spicy enchanted bean burrito	0.25
+[8572]dusty barrel	[8580]barrel pickle	0.25
+[8572]dusty barrel	[8587]tiny barrel	0.25
+[8573]disintegrating barrel	[316]insanely spicy bean burrito	0.143
+[8573]disintegrating barrel	[319]insanely spicy enchanted bean burrito	0.143
+[8573]disintegrating barrel	[1256]insanely spicy jumping bean burrito	0.143
+[8573]disintegrating barrel	[2373]banana	0.143
+[8573]disintegrating barrel	[8580]barrel pickle	0.143
+[8573]disintegrating barrel	[8581]barrel cracker	0.143
+[8573]disintegrating barrel	[8587]tiny barrel	0.143
+[8574]moist barrel	[357]Mountain Stream soda	1.0
+[8575]rotting barrel	[232]Doc Galaktik's Ailment Ointment	0.143
+[8575]rotting barrel	[277]extra-strength strongness elixir	0.143
+[8575]rotting barrel	[278]jug-o-magicalness	0.143
+[8575]rotting barrel	[279]suntan lotion of moxiousness	0.143
+[8575]rotting barrel	[2035]Marquis de Poivre soda	0.143
+[8575]rotting barrel	[8582]vibrating mushroom	0.143
+[8575]rotting barrel	[8583]cute mushroom	0.143
+[8576]mouldering barrel	[595]scroll of drastic healing	0.125
+[8576]mouldering barrel	[6037]creepy ginger ale	0.125
+[8576]mouldering barrel	[7324]haunted battery	0.125
+[8576]mouldering barrel	[7327]synthetic marrow	0.125
+[8576]mouldering barrel	[7330]the funk	0.125
+[8576]mouldering barrel	[8582]vibrating mushroom	0.125
+[8576]mouldering barrel	[8583]cute mushroom	0.125
+[8576]mouldering barrel	[8588]barrel beryl	0.125
+[8577]barnacled barrel	[3489]beefy fish meat	0.071
+[8577]barnacled barrel	[3490]glistening fish meat	0.071
+[8577]barnacled barrel	[3491]slick fish meat	0.071
+[8577]barnacled barrel	[3496]bazookafish bubble gum	0.071
+[8577]barnacled barrel	[3523]shark cartilage	0.071
+[8577]barnacled barrel	[3524]eel battery	0.071
+[8577]barnacled barrel	[3525]temporary teardrop tattoo	0.071
+[8577]barnacled barrel	[3643]pufferfish spine	0.071
+[8577]barnacled barrel	[3679]ink bladder	0.071
+[8577]barnacled barrel	[3763]slug of vodka	0.071
+[8577]barnacled barrel	[3764]slug of rum	0.071
+[8577]barnacled barrel	[3765]slug of shochu	0.071
+[8577]barnacled barrel	[3772]Alewife&trade; Ale	0.071
+[8577]barnacled barrel	[8589]water log	0.071
+[8660]grip key	[7574]New Zealand iced tea	0.5
+[8660]grip key	[8663]ghost beer	0.5
+[8691]bag of foreign bribes	[7429]Beach Buck	1.75
+[8691]bag of foreign bribes	[7769]Coinspiracy	1.25
+[8691]bag of foreign bribes	[8205]FunFunds&trade;	0.5
+[8691]bag of foreign bribes	[8426]Volcoino	0.25
+[8691]bag of foreign bribes	[8673]Wal-Mart gift certificate	0.75
+[8693]hotel minibar key	[237]bottle of gin	0.667
+[8693]hotel minibar key	[238]bottle of vodka	0.667
+[8693]hotel minibar key	[328]bottle of whiskey	0.667
+[8693]hotel minibar key	[787]bottle of rum	0.667
+[8693]hotel minibar key	[1004]bottle of tequila	0.667
+[8693]hotel minibar key	[1005]boxed wine	0.667
+[8693]hotel minibar key	[1382]fancy chocolate	0.02
+[8764]box of Gratitude chocolates	[8765]Gratitude chocolate (thyme-filled)	3.0
+[8764]box of Gratitude chocolates	[8766]Gratitude chocolate (bourbon-filled)	3.0
+[8764]box of Gratitude chocolates	[8767]Gratitude chocolate (Meat-filled)	3.0
+[8764]box of Gratitude chocolates	[8768]Gratitude chocolate (octopus-filled)	1.0
+[9026]First Post shirt package	[9027]First Post shirt - Cir Senam	1.0
+[9081]DIY protonic accelerator kit	[9082]protonic accelerator pack	1.0
+[9103]Dear Past Self Package	[9104]Time-Spinner	1.0
+[9183]cornucopia	[9153]raw sweet potato	0.389
+[9183]cornucopia	[9154]raw green beans	0.389
+[9183]cornucopia	[9155]raw stuffing	0.389
+[9183]cornucopia	[9156]raw cranberry sauce	0.389
+[9183]cornucopia	[9157]raw turkey	0.389
+[9183]cornucopia	[9158]raw mincemeat	0.389
+[9183]cornucopia	[9159]raw potato	0.389
+[9183]cornucopia	[9160]raw gravy	0.389
+[9183]cornucopia	[9161]raw bread	0.389
+[9183]cornucopia	[9187]cashew	3.5
+[9189]Granny Tood's Thanksgarden Catalog	[9186]packet of thanksgarden seeds	1.0
+[9215]broken chocolate pocketwatch	[9214]chocolate pocketwatch	1.0
+[9264]briefcase full of sprinkles	[9205]sprinkles	5000.0
+[9313]tarnished luggage key	[9314]crushed steamer trunk	-1.0
+[9313]tarnished luggage key	[9315]recovered cufflinks	1.0
+[9492]suspicious package	[9493]Kremlin's Greatest Briefcase	1.0
+[9503]License to Chill	[8278]Afternoon Delight	1.0
+[9507]LI-11 Motor Pool voucher	[9608]silent J	1.0
+[9511]Pocket Meteor Guide	[9512]Pocket Meteor Guide (well-thumbed)	1.0
+[9528]corked genie bottle	[9529]genie bottle	1.0
+[9572]pantogram	[9573]portable pantogram	1.0
+[9591]locked mumming trunk	[9592]mumming trunk	1.0
+[9689]January's Garbage Tote (unopened)	[9690]January's Garbage Tote	1.0
+[9759]Pok&eacute;fam Guide to Capturing All of Them	[9760]packet of tall grass seeds	1.0
+[9914]crude oil congealer	[5353]jar of oil	1.0
+[9914]crude oil congealer	[5789]bubblin' crude	-12.0
+[9920]SongBoom&trade; BoomBox Box	[9919]SongBoom&trade; BoomBox	1.0

@@ -1,0 +1,1 @@
+function getObj(e){return document.getElementById?document.getElementById(e):document.all?document.all[e]:void 0}function toggle(e){var t=getObj(e);t&&(t.style.display="none"==t.style.display?"inline":"none")}function number_format(e){e+="",x=e.split("."),x1=x[0],x2=x.length>1?"."+x[1]:"";for(var t=/(\d+)(\d{3})/;t.test(x1);)x1=x1.replace(t,"$1,$2");return x1+x2}

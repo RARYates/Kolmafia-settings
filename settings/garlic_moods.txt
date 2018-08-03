@@ -1,0 +1,16 @@
+[ apathetic ]
+
+[ barfmountain ]
+lose_effect chorale of companionship => cast 1 chorale of companionship
+lose_effect empathy => cast 1 empathy of the newt
+lose_effect fat leon's phat loot lyric => cast 1 fat leon's phat loot lyric
+lose_effect heavy petting => use 1 knob goblin pet-buffing spray
+lose_effect how to scam tourists => use 1 how to avoid scams
+lose_effect leash of linguini => cast 1 leash of linguini
+lose_effect polka of plenty => cast 1 the polka of plenty
+lose_effect synthesis: greed => synthesize Synthesis: Greed
+lose_effect the ballad of richie thingfinder => cast 1 the ballad of richie thingfinder
+lose_effect wasabi sinuses => use 1 knob goblin nasal spray
+
+[ default ]
+

@@ -1,0 +1,22 @@
+B1 tab change	-10
+B2 tab change	-100
+B4 tab change	-1
+_case opened	true
+_clicks	24
+_enhancements_cache	0,0,5
+_enhancements_cache_clicks_used	24
+_flywheel charged	true
+_left drawer collected	true
+_martini hose collected	3
+_out of clicks for the day	true
+_right drawer collected	true
+button tab log	6|2,2,2,2,2,2|2,2,2,2,2,2|false•5|2,2,2,2,2,2|2,2,2,2,2,2|false•4|2,2,2,2,2,2|2,2,2,2,2,1|false•3|2,2,2,2,2,1|2,2,2,2,2,2|false•2|2,2,2,2,2,2|2,2,2,0,1,1|false•1|2,2,2,0,1,1|2,2,1,2,1,0|false
+filestate last ascension number	43
+filestate last daycount	165
+lightrings observed	2,2,2,2,2,2|0•2,2,2,2,2,1|0•2,2,2,0,1,1|0•2,2,1,2,1,0|0
+tab effect 0	4,2
+tab effect 1	2,2
+tab effect 10	6,2
+tab effect 3	3,2
+tab effect 4	5,2
+tab effect 5	1,2
