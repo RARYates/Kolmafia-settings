@@ -188,7 +188,7 @@ _horseryCrazyMys
 _hotAirportToday=false
 _hotAshesDrops=0
 _hotJellyUses=0
-_hotTubSoaks=1
+_hotTubSoaks=4
 _hungerSauceUsed=false
 _hyperinflatedSealLungUsed=false
 _iceHotelRoomsRaided=false
@@ -242,7 +242,7 @@ _kolhsIsskayLikeAnAshtray=false
 _kolhsPoeticallyLicenced=false
 _kolhsSavedByTheBell=0
 _kolhsSchoolSpirited=false
-_lastCombatStarted=20180803221739
+_lastCombatStarted=20180803224131
 _lastDailyDungeonRoom=0
 _lastZomboEye=0
 _leafblowerML=1
@@ -1584,8 +1584,8 @@ holidayHalsBookCost=1000
 holidaySwagger=0
 horseryAvailable=true
 hotAirportAlways=false
-hpAutoRecovery=-0.05
-hpAutoRecoveryItems=cannelloni cocoon;scroll of drastic healing;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
+hpAutoRecovery=0.3
+hpAutoRecoveryItems=scroll of drastic healing;cannelloni cocoon;tongue of the walrus;lasagna bandages
 hpAutoRecoveryTarget=1.0
 iceSculptureMonster
 iceSwagger=0
@@ -1666,7 +1666,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=43
-lastEncounter=horrible tourist family
+lastEncounter=garbage tourist
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=-1
@@ -1818,7 +1818,7 @@ mmgSearchMaximum
 mmgSearchMinimum
 moleTunnelLevel=0
 mothershipProgress=0
-mpAutoRecovery=-0.5
+mpAutoRecovery=-0.05
 mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
